@@ -1,0 +1,7 @@
+bitmasks brute_force greedy hashing	1
+bitmasks constructive_algorithms greedymath	2
+brute_force data_structures dp greedy math number_theory sortings	3
+constructive_algorithms graphs interactive	4
+math	5
+0	0
+end	6

@@ -1,0 +1,3479 @@
+预测时间: -0.00035564761492423713
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][3][2] + a_predict: 26.999644352385076
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][3][2] + a_predict: 26.999644352385076
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][3][2] + a_predict: 26.999644352385076
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][3][2] + a_predict: 26.999644352385076
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][3][2] + a_predict: 26.999644352385076
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][3][2] + a_predict: 26.999644352385076
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][3][2] + a_predict: 26.999644352385076
+推荐路径T&S: []
+
+预测时间: -0.0003531566762831062
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][4][2] + a_predict: 6.999646843323717
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][4][2] + a_predict: 6.999646843323717
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][4][2] + a_predict: 6.999646843323717
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][4][2] + a_predict: 6.999646843323717
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][4][2] + a_predict: 6.999646843323717
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][4][2] + a_predict: 6.999646843323717
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][4][2] + a_predict: 6.999646843323717
+推荐路径T&S: []
+
+预测时间: 8.457173347473145
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][5][2] + a_predict: 63.457173347473145
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][5][2] + a_predict: 63.457173347473145
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][5][2] + a_predict: 63.457173347473145
+推荐路径T: ['E']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][5][2] + a_predict: 63.457173347473145
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][5][2] + a_predict: 63.457173347473145
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][5][2] + a_predict: 63.457173347473145
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][5][2] + a_predict: 63.457173347473145
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.0003535898867994547
+学生原始路径: ['C', 'D']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][7][2] + a_predict: 31.9996464101132
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][7][2] + a_predict: 31.9996464101132
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][7][2] + a_predict: 31.9996464101132
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][7][2] + a_predict: 31.9996464101132
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][7][2] + a_predict: 31.9996464101132
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][7][2] + a_predict: 31.9996464101132
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][7][2] + a_predict: 31.9996464101132
+推荐路径T&S: []
+
+预测时间: 7.141884803771973
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][11][2] + a_predict: 57.14188480377197
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][11][2] + a_predict: 57.14188480377197
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][11][2] + a_predict: 57.14188480377197
+推荐路径T: ['E']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][11][2] + a_predict: 57.14188480377197
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][11][2] + a_predict: 57.14188480377197
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][11][2] + a_predict: 57.14188480377197
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][11][2] + a_predict: 57.14188480377197
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.0003554048016667366
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][16][2] + a_predict: 11.999644595198333
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][16][2] + a_predict: 11.999644595198333
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][16][2] + a_predict: 11.999644595198333
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][16][2] + a_predict: 11.999644595198333
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][16][2] + a_predict: 11.999644595198333
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][16][2] + a_predict: 11.999644595198333
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][16][2] + a_predict: 11.999644595198333
+推荐路径T&S: []
+
+预测时间: 8.518710136413574
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][19][2] + a_predict: 30.518710136413574
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][19][2] + a_predict: 30.518710136413574
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][19][2] + a_predict: 30.518710136413574
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][19][2] + a_predict: 30.518710136413574
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][19][2] + a_predict: 30.518710136413574
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][19][2] + a_predict: 30.518710136413574
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][19][2] + a_predict: 30.518710136413574
+推荐路径T&S: []
+
+预测时间: 4.927948951721191
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][23][2] + a_predict: 30.92794895172119
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][23][2] + a_predict: 30.92794895172119
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][23][2] + a_predict: 30.92794895172119
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][23][2] + a_predict: 30.92794895172119
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][23][2] + a_predict: 30.92794895172119
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][23][2] + a_predict: 30.92794895172119
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][23][2] + a_predict: 30.92794895172119
+推荐路径T&S: []
+
+预测时间: -0.0001009520492516458
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][24][2] + a_predict: 31.99989904795075
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][24][2] + a_predict: 31.99989904795075
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][24][2] + a_predict: 31.99989904795075
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][24][2] + a_predict: 31.99989904795075
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][24][2] + a_predict: 31.99989904795075
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][24][2] + a_predict: 31.99989904795075
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][24][2] + a_predict: 31.99989904795075
+推荐路径T&S: ['A', 'B']
+
+预测时间: 5.211005687713623
+学生原始路径: ['A', 'B', 'D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][25][2] + a_predict: 58.21100568771362
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][25][2] + a_predict: 58.21100568771362
+推荐路径T: ['B']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][25][2] + a_predict: 58.21100568771362
+推荐路径T: ['D']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][25][2] + a_predict: 58.21100568771362
+推荐路径T: ['A', 'B']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][25][2] + a_predict: 58.21100568771362
+推荐路径T: ['A', 'D']
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][25][2] + a_predict: 58.21100568771362
+推荐路径T: ['B', 'D']
+b_predict: 35.37202453613281
+data.input_roadset[prefix_length][25][2] + a_predict: 58.21100568771362
+推荐路径T: ['A', 'B', 'D']
+推荐路径T&S: ['A', 'B', 'D']
+
+预测时间: -8.628412615507841e-07
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][31][2] + a_predict: 37.99999913715874
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][31][2] + a_predict: 37.99999913715874
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][31][2] + a_predict: 37.99999913715874
+推荐路径T: ['E']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][31][2] + a_predict: 37.99999913715874
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][31][2] + a_predict: 37.99999913715874
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][31][2] + a_predict: 37.99999913715874
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][31][2] + a_predict: 37.99999913715874
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.00035546274739317596
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][33][2] + a_predict: 60.99964453725261
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][33][2] + a_predict: 60.99964453725261
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][33][2] + a_predict: 60.99964453725261
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][33][2] + a_predict: 60.99964453725261
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][33][2] + a_predict: 60.99964453725261
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][33][2] + a_predict: 60.99964453725261
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][33][2] + a_predict: 60.99964453725261
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.00035574211506173015
+学生原始路径: ['C', 'D']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][35][2] + a_predict: 14.999644257884938
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][35][2] + a_predict: 14.999644257884938
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][35][2] + a_predict: 14.999644257884938
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][35][2] + a_predict: 14.999644257884938
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][35][2] + a_predict: 14.999644257884938
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][35][2] + a_predict: 14.999644257884938
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][35][2] + a_predict: 14.999644257884938
+推荐路径T&S: []
+
+预测时间: -0.0003557538439054042
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][43][2] + a_predict: 44.999644246156095
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][43][2] + a_predict: 44.999644246156095
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][43][2] + a_predict: 44.999644246156095
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][43][2] + a_predict: 44.999644246156095
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][43][2] + a_predict: 44.999644246156095
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][43][2] + a_predict: 44.999644246156095
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][43][2] + a_predict: 44.999644246156095
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.0003447315830271691
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][45][2] + a_predict: 14.999655268416973
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][45][2] + a_predict: 14.999655268416973
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][45][2] + a_predict: 14.999655268416973
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][45][2] + a_predict: 14.999655268416973
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][45][2] + a_predict: 14.999655268416973
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][45][2] + a_predict: 14.999655268416973
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][45][2] + a_predict: 14.999655268416973
+推荐路径T&S: []
+
+预测时间: 0.00016634620260447264
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][49][2] + a_predict: 60.000166346202604
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][49][2] + a_predict: 60.000166346202604
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][49][2] + a_predict: 60.000166346202604
+推荐路径T: ['E']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][49][2] + a_predict: 60.000166346202604
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][49][2] + a_predict: 60.000166346202604
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][49][2] + a_predict: 60.000166346202604
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][49][2] + a_predict: 60.000166346202604
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.0003557418240234256
+学生原始路径: ['D', 'E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][51][2] + a_predict: 60.99964425817598
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][51][2] + a_predict: 60.99964425817598
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][51][2] + a_predict: 60.99964425817598
+推荐路径T: ['E']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][51][2] + a_predict: 60.99964425817598
+推荐路径T: ['A', 'D']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][51][2] + a_predict: 60.99964425817598
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][51][2] + a_predict: 60.99964425817598
+推荐路径T: ['D', 'E']
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][51][2] + a_predict: 60.99964425817598
+推荐路径T: ['A', 'D', 'E']
+推荐路径T&S: ['A', 'D', 'E']
+
+预测时间: -0.0002569612697698176
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][53][2] + a_predict: 22.99974303873023
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][53][2] + a_predict: 22.99974303873023
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][53][2] + a_predict: 22.99974303873023
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][53][2] + a_predict: 22.99974303873023
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][53][2] + a_predict: 22.99974303873023
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][53][2] + a_predict: 22.99974303873023
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][53][2] + a_predict: 22.99974303873023
+推荐路径T&S: []
+
+预测时间: 0.0008606407791376114
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][54][2] + a_predict: 37.00086064077914
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][54][2] + a_predict: 37.00086064077914
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][54][2] + a_predict: 37.00086064077914
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][54][2] + a_predict: 37.00086064077914
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][54][2] + a_predict: 37.00086064077914
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][54][2] + a_predict: 37.00086064077914
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][54][2] + a_predict: 37.00086064077914
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -7.621812983416021e-05
+学生原始路径: ['B']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][57][2] + a_predict: 1.9999237818701658
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][57][2] + a_predict: 1.9999237818701658
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][57][2] + a_predict: 1.9999237818701658
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][57][2] + a_predict: 1.9999237818701658
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][57][2] + a_predict: 1.9999237818701658
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][57][2] + a_predict: 1.9999237818701658
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][57][2] + a_predict: 1.9999237818701658
+推荐路径T&S: []
+
+预测时间: 8.522889137268066
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][58][2] + a_predict: 24.522889137268066
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][58][2] + a_predict: 24.522889137268066
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][58][2] + a_predict: 24.522889137268066
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][58][2] + a_predict: 24.522889137268066
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][58][2] + a_predict: 24.522889137268066
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][58][2] + a_predict: 24.522889137268066
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][58][2] + a_predict: 24.522889137268066
+推荐路径T&S: []
+
+预测时间: 8.712674140930176
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][59][2] + a_predict: 33.712674140930176
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][59][2] + a_predict: 33.712674140930176
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][59][2] + a_predict: 33.712674140930176
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][59][2] + a_predict: 33.712674140930176
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][59][2] + a_predict: 33.712674140930176
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][59][2] + a_predict: 33.712674140930176
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][59][2] + a_predict: 33.712674140930176
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.0003497838042676449
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][61][2] + a_predict: 14.999650216195732
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][61][2] + a_predict: 14.999650216195732
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][61][2] + a_predict: 14.999650216195732
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][61][2] + a_predict: 14.999650216195732
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][61][2] + a_predict: 14.999650216195732
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][61][2] + a_predict: 14.999650216195732
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][61][2] + a_predict: 14.999650216195732
+推荐路径T&S: []
+
+预测时间: -0.0003552132402546704
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][66][2] + a_predict: 49.999644786759745
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][66][2] + a_predict: 49.999644786759745
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][66][2] + a_predict: 49.999644786759745
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][66][2] + a_predict: 49.999644786759745
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][66][2] + a_predict: 49.999644786759745
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][66][2] + a_predict: 49.999644786759745
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][66][2] + a_predict: 49.999644786759745
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.00033921690192073584
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][73][2] + a_predict: 2.9996607830980793
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][73][2] + a_predict: 2.9996607830980793
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][73][2] + a_predict: 2.9996607830980793
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][73][2] + a_predict: 2.9996607830980793
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][73][2] + a_predict: 2.9996607830980793
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][73][2] + a_predict: 2.9996607830980793
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][73][2] + a_predict: 2.9996607830980793
+推荐路径T&S: []
+
+预测时间: -0.000355609372491017
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][75][2] + a_predict: 60.99964439062751
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][75][2] + a_predict: 60.99964439062751
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][75][2] + a_predict: 60.99964439062751
+推荐路径T: ['E']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][75][2] + a_predict: 60.99964439062751
+推荐路径T: ['A', 'D']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][75][2] + a_predict: 60.99964439062751
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][75][2] + a_predict: 60.99964439062751
+推荐路径T: ['D', 'E']
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][75][2] + a_predict: 60.99964439062751
+推荐路径T: ['A', 'D', 'E']
+推荐路径T&S: ['A', 'D', 'E']
+
+预测时间: 8.289578437805176
+学生原始路径: ['B']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][76][2] + a_predict: 8.289578437805176
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][76][2] + a_predict: 8.289578437805176
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][76][2] + a_predict: 8.289578437805176
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][76][2] + a_predict: 8.289578437805176
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][76][2] + a_predict: 8.289578437805176
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][76][2] + a_predict: 8.289578437805176
+b_predict: 38.33217239379883
+data.input_roadset[prefix_length][76][2] + a_predict: 8.289578437805176
+推荐路径T&S: []
+
+预测时间: 4.5523223876953125
+学生原始路径: ['B', 'E']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][79][2] + a_predict: 64.55232238769531
+推荐路径T: ['B']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][79][2] + a_predict: 64.55232238769531
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][79][2] + a_predict: 64.55232238769531
+推荐路径T: ['E']
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][79][2] + a_predict: 64.55232238769531
+推荐路径T: ['B', 'D']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][79][2] + a_predict: 64.55232238769531
+推荐路径T: ['B', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][79][2] + a_predict: 64.55232238769531
+推荐路径T: ['D', 'E']
+b_predict: 38.33217239379883
+data.input_roadset[prefix_length][79][2] + a_predict: 64.55232238769531
+推荐路径T: ['B', 'D', 'E']
+推荐路径T&S: ['B', 'D', 'E']
+
+预测时间: -0.00035527662839740515
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][94][2] + a_predict: 51.9996447233716
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][94][2] + a_predict: 51.9996447233716
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][94][2] + a_predict: 51.9996447233716
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][94][2] + a_predict: 51.9996447233716
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][94][2] + a_predict: 51.9996447233716
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][94][2] + a_predict: 51.9996447233716
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][94][2] + a_predict: 51.9996447233716
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.00035576289519667625
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][95][2] + a_predict: 58.9996442371048
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][95][2] + a_predict: 58.9996442371048
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][95][2] + a_predict: 58.9996442371048
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][95][2] + a_predict: 58.9996442371048
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][95][2] + a_predict: 58.9996442371048
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][95][2] + a_predict: 58.9996442371048
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][95][2] + a_predict: 58.9996442371048
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.0003529409586917609
+学生原始路径: ['A']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][101][2] + a_predict: 2.9996470590413082
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][101][2] + a_predict: 2.9996470590413082
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][101][2] + a_predict: 2.9996470590413082
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][101][2] + a_predict: 2.9996470590413082
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][101][2] + a_predict: 2.9996470590413082
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][101][2] + a_predict: 2.9996470590413082
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][101][2] + a_predict: 2.9996470590413082
+推荐路径T&S: []
+
+预测时间: -0.00035527662839740515
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][107][2] + a_predict: 8.999644723371603
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][107][2] + a_predict: 8.999644723371603
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][107][2] + a_predict: 8.999644723371603
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][107][2] + a_predict: 8.999644723371603
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][107][2] + a_predict: 8.999644723371603
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][107][2] + a_predict: 8.999644723371603
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][107][2] + a_predict: 8.999644723371603
+推荐路径T&S: []
+
+预测时间: -0.00035527662839740515
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][112][2] + a_predict: 6.999644723371603
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][112][2] + a_predict: 6.999644723371603
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][112][2] + a_predict: 6.999644723371603
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][112][2] + a_predict: 6.999644723371603
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][112][2] + a_predict: 6.999644723371603
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][112][2] + a_predict: 6.999644723371603
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][112][2] + a_predict: 6.999644723371603
+推荐路径T&S: []
+
+预测时间: -0.00035527662839740515
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][114][2] + a_predict: 5.999644723371603
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][114][2] + a_predict: 5.999644723371603
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][114][2] + a_predict: 5.999644723371603
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][114][2] + a_predict: 5.999644723371603
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][114][2] + a_predict: 5.999644723371603
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][114][2] + a_predict: 5.999644723371603
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][114][2] + a_predict: 5.999644723371603
+推荐路径T&S: []
+
+预测时间: -0.00035574956564232707
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][115][2] + a_predict: 59.99964425043436
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][115][2] + a_predict: 59.99964425043436
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][115][2] + a_predict: 59.99964425043436
+推荐路径T: ['E']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][115][2] + a_predict: 59.99964425043436
+推荐路径T: ['A', 'D']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][115][2] + a_predict: 59.99964425043436
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][115][2] + a_predict: 59.99964425043436
+推荐路径T: ['D', 'E']
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][115][2] + a_predict: 59.99964425043436
+推荐路径T: ['A', 'D', 'E']
+推荐路径T&S: ['A', 'D', 'E']
+
+预测时间: -0.00035580073017627
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][123][2] + a_predict: 5.999644199269824
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][123][2] + a_predict: 5.999644199269824
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][123][2] + a_predict: 5.999644199269824
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][123][2] + a_predict: 5.999644199269824
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][123][2] + a_predict: 5.999644199269824
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][123][2] + a_predict: 5.999644199269824
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][123][2] + a_predict: 5.999644199269824
+推荐路径T&S: []
+
+预测时间: -0.0003487087960820645
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][126][2] + a_predict: 44.99965129120392
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][126][2] + a_predict: 44.99965129120392
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][126][2] + a_predict: 44.99965129120392
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][126][2] + a_predict: 44.99965129120392
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][126][2] + a_predict: 44.99965129120392
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][126][2] + a_predict: 44.99965129120392
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][126][2] + a_predict: 44.99965129120392
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.0003554042777977884
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][132][2] + a_predict: 25.999644595722202
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][132][2] + a_predict: 25.999644595722202
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][132][2] + a_predict: 25.999644595722202
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][132][2] + a_predict: 25.999644595722202
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][132][2] + a_predict: 25.999644595722202
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][132][2] + a_predict: 25.999644595722202
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][132][2] + a_predict: 25.999644595722202
+推荐路径T&S: []
+
+预测时间: 0.9494500756263733
+学生原始路径: ['B', 'C']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][138][2] + a_predict: 48.94945007562637
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][138][2] + a_predict: 48.94945007562637
+推荐路径T: ['B']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][138][2] + a_predict: 48.94945007562637
+推荐路径T: ['C']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][138][2] + a_predict: 48.94945007562637
+推荐路径T: ['A', 'B']
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][138][2] + a_predict: 48.94945007562637
+推荐路径T: ['A', 'C']
+b_predict: 38.27267074584961
+data.input_roadset[prefix_length][138][2] + a_predict: 48.94945007562637
+推荐路径T: ['B', 'C']
+b_predict: 35.243682861328125
+data.input_roadset[prefix_length][138][2] + a_predict: 48.94945007562637
+推荐路径T: ['A', 'B', 'C']
+推荐路径T&S: ['A', 'B', 'C']
+
+预测时间: 7.780855178833008
+学生原始路径: ['C', 'B', 'A']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][146][2] + a_predict: 16.780855178833008
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][146][2] + a_predict: 16.780855178833008
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][146][2] + a_predict: 16.780855178833008
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][146][2] + a_predict: 16.780855178833008
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][146][2] + a_predict: 16.780855178833008
+b_predict: 38.27267074584961
+data.input_roadset[prefix_length][146][2] + a_predict: 16.780855178833008
+b_predict: 35.243682861328125
+data.input_roadset[prefix_length][146][2] + a_predict: 16.780855178833008
+推荐路径T&S: []
+
+预测时间: -0.00035579418181441724
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][157][2] + a_predict: 37.999644205818186
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][157][2] + a_predict: 37.999644205818186
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][157][2] + a_predict: 37.999644205818186
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][157][2] + a_predict: 37.999644205818186
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][157][2] + a_predict: 37.999644205818186
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][157][2] + a_predict: 37.999644205818186
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][157][2] + a_predict: 37.999644205818186
+推荐路径T&S: ['E']
+
+预测时间: -0.0003551444970071316
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][164][2] + a_predict: -0.0003551444970071316
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][164][2] + a_predict: -0.0003551444970071316
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][164][2] + a_predict: -0.0003551444970071316
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][164][2] + a_predict: -0.0003551444970071316
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][164][2] + a_predict: -0.0003551444970071316
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][164][2] + a_predict: -0.0003551444970071316
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][164][2] + a_predict: -0.0003551444970071316
+推荐路径T&S: []
+
+预测时间: -1.2358766980469227e-05
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][175][2] + a_predict: 18.99998764123302
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][175][2] + a_predict: 18.99998764123302
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][175][2] + a_predict: 18.99998764123302
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][175][2] + a_predict: 18.99998764123302
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][175][2] + a_predict: 18.99998764123302
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][175][2] + a_predict: 18.99998764123302
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][175][2] + a_predict: 18.99998764123302
+推荐路径T&S: []
+
+预测时间: 4.144774913787842
+学生原始路径: ['C', 'B', 'A']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][177][2] + a_predict: 34.14477491378784
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][177][2] + a_predict: 34.14477491378784
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][177][2] + a_predict: 34.14477491378784
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][177][2] + a_predict: 34.14477491378784
+推荐路径T: ['A', 'B']
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][177][2] + a_predict: 34.14477491378784
+b_predict: 38.27267074584961
+data.input_roadset[prefix_length][177][2] + a_predict: 34.14477491378784
+b_predict: 35.243682861328125
+data.input_roadset[prefix_length][177][2] + a_predict: 34.14477491378784
+推荐路径T&S: ['A', 'B']
+
+预测时间: -0.0002840852248482406
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][180][2] + a_predict: 33.99971591477515
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][180][2] + a_predict: 33.99971591477515
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][180][2] + a_predict: 33.99971591477515
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][180][2] + a_predict: 33.99971591477515
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][180][2] + a_predict: 33.99971591477515
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][180][2] + a_predict: 33.99971591477515
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][180][2] + a_predict: 33.99971591477515
+推荐路径T&S: []
+
+预测时间: 8.786593437194824
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][191][2] + a_predict: 24.786593437194824
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][191][2] + a_predict: 24.786593437194824
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][191][2] + a_predict: 24.786593437194824
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][191][2] + a_predict: 24.786593437194824
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][191][2] + a_predict: 24.786593437194824
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][191][2] + a_predict: 24.786593437194824
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][191][2] + a_predict: 24.786593437194824
+推荐路径T&S: []
+
+预测时间: -0.0003476034617051482
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][193][2] + a_predict: 21.999652396538295
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][193][2] + a_predict: 21.999652396538295
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][193][2] + a_predict: 21.999652396538295
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][193][2] + a_predict: 21.999652396538295
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][193][2] + a_predict: 21.999652396538295
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][193][2] + a_predict: 21.999652396538295
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][193][2] + a_predict: 21.999652396538295
+推荐路径T&S: []
+
+预测时间: -0.00035527662839740515
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][195][2] + a_predict: 11.999644723371603
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][195][2] + a_predict: 11.999644723371603
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][195][2] + a_predict: 11.999644723371603
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][195][2] + a_predict: 11.999644723371603
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][195][2] + a_predict: 11.999644723371603
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][195][2] + a_predict: 11.999644723371603
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][195][2] + a_predict: 11.999644723371603
+推荐路径T&S: []
+
+预测时间: 5.646754264831543
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][198][2] + a_predict: 67.64675426483154
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][198][2] + a_predict: 67.64675426483154
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][198][2] + a_predict: 67.64675426483154
+推荐路径T: ['E']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][198][2] + a_predict: 67.64675426483154
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][198][2] + a_predict: 67.64675426483154
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][198][2] + a_predict: 67.64675426483154
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][198][2] + a_predict: 67.64675426483154
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: 8.706109046936035
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][205][2] + a_predict: 31.706109046936035
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][205][2] + a_predict: 31.706109046936035
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][205][2] + a_predict: 31.706109046936035
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][205][2] + a_predict: 31.706109046936035
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][205][2] + a_predict: 31.706109046936035
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][205][2] + a_predict: 31.706109046936035
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][205][2] + a_predict: 31.706109046936035
+推荐路径T&S: []
+
+预测时间: -0.00035573021159507334
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][206][2] + a_predict: 20.999644269788405
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][206][2] + a_predict: 20.999644269788405
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][206][2] + a_predict: 20.999644269788405
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][206][2] + a_predict: 20.999644269788405
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][206][2] + a_predict: 20.999644269788405
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][206][2] + a_predict: 20.999644269788405
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][206][2] + a_predict: 20.999644269788405
+推荐路径T&S: []
+
+预测时间: -0.0003557783202268183
+学生原始路径: ['C']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][211][2] + a_predict: 30.999644221679773
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][211][2] + a_predict: 30.999644221679773
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][211][2] + a_predict: 30.999644221679773
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][211][2] + a_predict: 30.999644221679773
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][211][2] + a_predict: 30.999644221679773
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][211][2] + a_predict: 30.999644221679773
+b_predict: 37.31272888183594
+data.input_roadset[prefix_length][211][2] + a_predict: 30.999644221679773
+推荐路径T&S: []
+
+预测时间: -0.00021794754138682038
+学生原始路径: ['B']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][217][2] + a_predict: 23.999782052458613
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][217][2] + a_predict: 23.999782052458613
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][217][2] + a_predict: 23.999782052458613
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][217][2] + a_predict: 23.999782052458613
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][217][2] + a_predict: 23.999782052458613
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][217][2] + a_predict: 23.999782052458613
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][217][2] + a_predict: 23.999782052458613
+推荐路径T&S: []
+
+预测时间: -0.0003542755439411849
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][230][2] + a_predict: 60.99964572445606
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][230][2] + a_predict: 60.99964572445606
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][230][2] + a_predict: 60.99964572445606
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][230][2] + a_predict: 60.99964572445606
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][230][2] + a_predict: 60.99964572445606
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][230][2] + a_predict: 60.99964572445606
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][230][2] + a_predict: 60.99964572445606
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.0003547155938576907
+学生原始路径: ['C', 'D']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][256][2] + a_predict: 10.999645284406142
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][256][2] + a_predict: 10.999645284406142
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][256][2] + a_predict: 10.999645284406142
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][256][2] + a_predict: 10.999645284406142
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][256][2] + a_predict: 10.999645284406142
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][256][2] + a_predict: 10.999645284406142
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][256][2] + a_predict: 10.999645284406142
+推荐路径T&S: []
+
+预测时间: -0.00035575052606873214
+学生原始路径: ['C', 'D', 'E']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][280][2] + a_predict: 23.99964424947393
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][280][2] + a_predict: 23.99964424947393
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][280][2] + a_predict: 23.99964424947393
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][280][2] + a_predict: 23.99964424947393
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][280][2] + a_predict: 23.99964424947393
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][280][2] + a_predict: 23.99964424947393
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][280][2] + a_predict: 23.99964424947393
+推荐路径T&S: []
+
+预测时间: 8.77917194366455
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][289][2] + a_predict: 30.77917194366455
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][289][2] + a_predict: 30.77917194366455
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][289][2] + a_predict: 30.77917194366455
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][289][2] + a_predict: 30.77917194366455
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][289][2] + a_predict: 30.77917194366455
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][289][2] + a_predict: 30.77917194366455
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][289][2] + a_predict: 30.77917194366455
+推荐路径T&S: []
+
+预测时间: -0.000348498608218506
+学生原始路径: ['C']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][313][2] + a_predict: 13.999651501391781
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][313][2] + a_predict: 13.999651501391781
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][313][2] + a_predict: 13.999651501391781
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][313][2] + a_predict: 13.999651501391781
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][313][2] + a_predict: 13.999651501391781
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][313][2] + a_predict: 13.999651501391781
+b_predict: 37.31272888183594
+data.input_roadset[prefix_length][313][2] + a_predict: 13.999651501391781
+推荐路径T&S: []
+
+预测时间: -0.00035370036493986845
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][322][2] + a_predict: 51.99964629963506
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][322][2] + a_predict: 51.99964629963506
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][322][2] + a_predict: 51.99964629963506
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][322][2] + a_predict: 51.99964629963506
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][322][2] + a_predict: 51.99964629963506
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][322][2] + a_predict: 51.99964629963506
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][322][2] + a_predict: 51.99964629963506
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.00035576248774304986
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][337][2] + a_predict: 12.999644237512257
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][337][2] + a_predict: 12.999644237512257
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][337][2] + a_predict: 12.999644237512257
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][337][2] + a_predict: 12.999644237512257
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][337][2] + a_predict: 12.999644237512257
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][337][2] + a_predict: 12.999644237512257
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][337][2] + a_predict: 12.999644237512257
+推荐路径T&S: []
+
+预测时间: -0.00021351139002945274
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][341][2] + a_predict: 47.99978648860997
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][341][2] + a_predict: 47.99978648860997
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][341][2] + a_predict: 47.99978648860997
+推荐路径T: ['E']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][341][2] + a_predict: 47.99978648860997
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][341][2] + a_predict: 47.99978648860997
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][341][2] + a_predict: 47.99978648860997
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][341][2] + a_predict: 47.99978648860997
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.00035568492603488266
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][367][2] + a_predict: 35.999644315073965
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][367][2] + a_predict: 35.999644315073965
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][367][2] + a_predict: 35.999644315073965
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][367][2] + a_predict: 35.999644315073965
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][367][2] + a_predict: 35.999644315073965
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][367][2] + a_predict: 35.999644315073965
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][367][2] + a_predict: 35.999644315073965
+推荐路径T&S: ['A', 'E']
+
+预测时间: -0.0003545777581166476
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][379][2] + a_predict: 0.9996454222418834
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][379][2] + a_predict: 0.9996454222418834
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][379][2] + a_predict: 0.9996454222418834
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][379][2] + a_predict: 0.9996454222418834
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][379][2] + a_predict: 0.9996454222418834
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][379][2] + a_predict: 0.9996454222418834
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][379][2] + a_predict: 0.9996454222418834
+推荐路径T&S: []
+
+预测时间: -0.0003555782896000892
+学生原始路径: ['C']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][391][2] + a_predict: 24.9996444217104
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][391][2] + a_predict: 24.9996444217104
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][391][2] + a_predict: 24.9996444217104
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][391][2] + a_predict: 24.9996444217104
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][391][2] + a_predict: 24.9996444217104
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][391][2] + a_predict: 24.9996444217104
+b_predict: 37.31272888183594
+data.input_roadset[prefix_length][391][2] + a_predict: 24.9996444217104
+推荐路径T&S: []
+
+预测时间: 3.6926791667938232
+学生原始路径: ['B', 'C']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][407][2] + a_predict: 32.69267916679382
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][407][2] + a_predict: 32.69267916679382
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][407][2] + a_predict: 32.69267916679382
+b_predict: 38.27267074584961
+data.input_roadset[prefix_length][407][2] + a_predict: 32.69267916679382
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][407][2] + a_predict: 32.69267916679382
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][407][2] + a_predict: 32.69267916679382
+b_predict: 40.67658615112305
+data.input_roadset[prefix_length][407][2] + a_predict: 32.69267916679382
+推荐路径T&S: []
+
+预测时间: -0.00019758674898184836
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][416][2] + a_predict: 16.999802413251018
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][416][2] + a_predict: 16.999802413251018
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][416][2] + a_predict: 16.999802413251018
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][416][2] + a_predict: 16.999802413251018
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][416][2] + a_predict: 16.999802413251018
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][416][2] + a_predict: 16.999802413251018
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][416][2] + a_predict: 16.999802413251018
+推荐路径T&S: []
+
+预测时间: -0.0003244804101996124
+学生原始路径: ['A']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][425][2] + a_predict: 0.9996755195898004
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][425][2] + a_predict: 0.9996755195898004
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][425][2] + a_predict: 0.9996755195898004
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][425][2] + a_predict: 0.9996755195898004
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][425][2] + a_predict: 0.9996755195898004
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][425][2] + a_predict: 0.9996755195898004
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][425][2] + a_predict: 0.9996755195898004
+推荐路径T&S: []
+
+预测时间: 0.965725839138031
+学生原始路径: ['B']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][434][2] + a_predict: 19.96572583913803
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][434][2] + a_predict: 19.96572583913803
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][434][2] + a_predict: 19.96572583913803
+b_predict: 38.27267074584961
+data.input_roadset[prefix_length][434][2] + a_predict: 19.96572583913803
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][434][2] + a_predict: 19.96572583913803
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][434][2] + a_predict: 19.96572583913803
+b_predict: 40.67658615112305
+data.input_roadset[prefix_length][434][2] + a_predict: 19.96572583913803
+推荐路径T&S: []
+
+预测时间: -0.0003557948803063482
+学生原始路径: ['C']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][436][2] + a_predict: 6.999644205119694
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][436][2] + a_predict: 6.999644205119694
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][436][2] + a_predict: 6.999644205119694
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][436][2] + a_predict: 6.999644205119694
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][436][2] + a_predict: 6.999644205119694
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][436][2] + a_predict: 6.999644205119694
+b_predict: 37.31272888183594
+data.input_roadset[prefix_length][436][2] + a_predict: 6.999644205119694
+推荐路径T&S: []
+
+预测时间: -0.00017279367602895945
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][446][2] + a_predict: 1.999827206323971
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][446][2] + a_predict: 1.999827206323971
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][446][2] + a_predict: 1.999827206323971
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][446][2] + a_predict: 1.999827206323971
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][446][2] + a_predict: 1.999827206323971
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][446][2] + a_predict: 1.999827206323971
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][446][2] + a_predict: 1.999827206323971
+推荐路径T&S: []
+
+预测时间: -0.00035578355891630054
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][449][2] + a_predict: 54.999644216441084
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][449][2] + a_predict: 54.999644216441084
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][449][2] + a_predict: 54.999644216441084
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][449][2] + a_predict: 54.999644216441084
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][449][2] + a_predict: 54.999644216441084
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][449][2] + a_predict: 54.999644216441084
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][449][2] + a_predict: 54.999644216441084
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.0003554212744347751
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][453][2] + a_predict: 48.999644578725565
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][453][2] + a_predict: 48.999644578725565
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][453][2] + a_predict: 48.999644578725565
+推荐路径T: ['E']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][453][2] + a_predict: 48.999644578725565
+推荐路径T: ['A', 'D']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][453][2] + a_predict: 48.999644578725565
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][453][2] + a_predict: 48.999644578725565
+推荐路径T: ['D', 'E']
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][453][2] + a_predict: 48.999644578725565
+推荐路径T: ['A', 'D', 'E']
+推荐路径T&S: ['A', 'D', 'E']
+
+预测时间: -0.00035556271905079484
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][456][2] + a_predict: 2.999644437280949
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][456][2] + a_predict: 2.999644437280949
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][456][2] + a_predict: 2.999644437280949
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][456][2] + a_predict: 2.999644437280949
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][456][2] + a_predict: 2.999644437280949
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][456][2] + a_predict: 2.999644437280949
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][456][2] + a_predict: 2.999644437280949
+推荐路径T&S: []
+
+预测时间: -3.820739220827818e-05
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][470][2] + a_predict: 12.999961792607792
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][470][2] + a_predict: 12.999961792607792
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][470][2] + a_predict: 12.999961792607792
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][470][2] + a_predict: 12.999961792607792
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][470][2] + a_predict: 12.999961792607792
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][470][2] + a_predict: 12.999961792607792
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][470][2] + a_predict: 12.999961792607792
+推荐路径T&S: []
+
+预测时间: -0.00035520896199159324
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][472][2] + a_predict: 29.99964479103801
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][472][2] + a_predict: 29.99964479103801
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][472][2] + a_predict: 29.99964479103801
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][472][2] + a_predict: 29.99964479103801
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][472][2] + a_predict: 29.99964479103801
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][472][2] + a_predict: 29.99964479103801
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][472][2] + a_predict: 29.99964479103801
+推荐路径T&S: []
+
+预测时间: -0.00035336159635335207
+学生原始路径: ['B']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][497][2] + a_predict: 11.999646638403647
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][497][2] + a_predict: 11.999646638403647
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][497][2] + a_predict: 11.999646638403647
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][497][2] + a_predict: 11.999646638403647
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][497][2] + a_predict: 11.999646638403647
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][497][2] + a_predict: 11.999646638403647
+b_predict: 38.33217239379883
+data.input_roadset[prefix_length][497][2] + a_predict: 11.999646638403647
+推荐路径T&S: []
+
+预测时间: -0.00035379629116505384
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][504][2] + a_predict: 22.999646203708835
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][504][2] + a_predict: 22.999646203708835
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][504][2] + a_predict: 22.999646203708835
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][504][2] + a_predict: 22.999646203708835
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][504][2] + a_predict: 22.999646203708835
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][504][2] + a_predict: 22.999646203708835
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][504][2] + a_predict: 22.999646203708835
+推荐路径T&S: []
+
+预测时间: 6.0540618896484375
+学生原始路径: ['B']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][510][2] + a_predict: 35.05406188964844
+推荐路径T: ['B']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][510][2] + a_predict: 35.05406188964844
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][510][2] + a_predict: 35.05406188964844
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][510][2] + a_predict: 35.05406188964844
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][510][2] + a_predict: 35.05406188964844
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][510][2] + a_predict: 35.05406188964844
+b_predict: 38.33217239379883
+data.input_roadset[prefix_length][510][2] + a_predict: 35.05406188964844
+推荐路径T&S: []
+
+预测时间: 8.56568717956543
+学生原始路径: ['B']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][515][2] + a_predict: 28.56568717956543
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][515][2] + a_predict: 28.56568717956543
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][515][2] + a_predict: 28.56568717956543
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][515][2] + a_predict: 28.56568717956543
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][515][2] + a_predict: 28.56568717956543
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][515][2] + a_predict: 28.56568717956543
+b_predict: 38.33217239379883
+data.input_roadset[prefix_length][515][2] + a_predict: 28.56568717956543
+推荐路径T&S: []
+
+预测时间: -0.000355750962626189
+学生原始路径: ['C', 'D']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][518][2] + a_predict: 0.9996442490373738
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][518][2] + a_predict: 0.9996442490373738
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][518][2] + a_predict: 0.9996442490373738
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][518][2] + a_predict: 0.9996442490373738
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][518][2] + a_predict: 0.9996442490373738
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][518][2] + a_predict: 0.9996442490373738
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][518][2] + a_predict: 0.9996442490373738
+推荐路径T&S: []
+
+预测时间: -0.0003555539296939969
+学生原始路径: ['C', 'D']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][520][2] + a_predict: 2.999644446070306
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][520][2] + a_predict: 2.999644446070306
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][520][2] + a_predict: 2.999644446070306
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][520][2] + a_predict: 2.999644446070306
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][520][2] + a_predict: 2.999644446070306
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][520][2] + a_predict: 2.999644446070306
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][520][2] + a_predict: 2.999644446070306
+推荐路径T&S: []
+
+预测时间: 5.9816258726641536e-05
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][531][2] + a_predict: 33.00005981625873
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][531][2] + a_predict: 33.00005981625873
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][531][2] + a_predict: 33.00005981625873
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][531][2] + a_predict: 33.00005981625873
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][531][2] + a_predict: 33.00005981625873
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][531][2] + a_predict: 33.00005981625873
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][531][2] + a_predict: 33.00005981625873
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.0003545864892657846
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][535][2] + a_predict: 1.9996454135107342
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][535][2] + a_predict: 1.9996454135107342
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][535][2] + a_predict: 1.9996454135107342
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][535][2] + a_predict: 1.9996454135107342
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][535][2] + a_predict: 1.9996454135107342
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][535][2] + a_predict: 1.9996454135107342
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][535][2] + a_predict: 1.9996454135107342
+推荐路径T&S: []
+
+预测时间: -0.000269164185738191
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][542][2] + a_predict: 49.99973083581426
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][542][2] + a_predict: 49.99973083581426
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][542][2] + a_predict: 49.99973083581426
+推荐路径T: ['E']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][542][2] + a_predict: 49.99973083581426
+推荐路径T: ['A', 'D']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][542][2] + a_predict: 49.99973083581426
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][542][2] + a_predict: 49.99973083581426
+推荐路径T: ['D', 'E']
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][542][2] + a_predict: 49.99973083581426
+推荐路径T: ['A', 'D', 'E']
+推荐路径T&S: ['A', 'D', 'E']
+
+预测时间: -0.0003556848387233913
+学生原始路径: ['C']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][547][2] + a_predict: 33.99964431516128
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][547][2] + a_predict: 33.99964431516128
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][547][2] + a_predict: 33.99964431516128
+b_predict: 38.27267074584961
+data.input_roadset[prefix_length][547][2] + a_predict: 33.99964431516128
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][547][2] + a_predict: 33.99964431516128
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][547][2] + a_predict: 33.99964431516128
+b_predict: 38.20383071899414
+data.input_roadset[prefix_length][547][2] + a_predict: 33.99964431516128
+推荐路径T&S: []
+
+预测时间: -0.0003557963646017015
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][551][2] + a_predict: 24.9996442036354
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][551][2] + a_predict: 24.9996442036354
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][551][2] + a_predict: 24.9996442036354
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][551][2] + a_predict: 24.9996442036354
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][551][2] + a_predict: 24.9996442036354
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][551][2] + a_predict: 24.9996442036354
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][551][2] + a_predict: 24.9996442036354
+推荐路径T&S: []
+
+预测时间: -0.0003521839389577508
+学生原始路径: ['D']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][564][2] + a_predict: 14.999647816061042
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][564][2] + a_predict: 14.999647816061042
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][564][2] + a_predict: 14.999647816061042
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][564][2] + a_predict: 14.999647816061042
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][564][2] + a_predict: 14.999647816061042
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][564][2] + a_predict: 14.999647816061042
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][564][2] + a_predict: 14.999647816061042
+推荐路径T&S: []
+
+预测时间: -0.00035465971450321376
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][566][2] + a_predict: 15.999645340285497
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][566][2] + a_predict: 15.999645340285497
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][566][2] + a_predict: 15.999645340285497
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][566][2] + a_predict: 15.999645340285497
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][566][2] + a_predict: 15.999645340285497
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][566][2] + a_predict: 15.999645340285497
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][566][2] + a_predict: 15.999645340285497
+推荐路径T&S: []
+
+预测时间: -0.0003557834425009787
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][572][2] + a_predict: 39.9996442165575
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][572][2] + a_predict: 39.9996442165575
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][572][2] + a_predict: 39.9996442165575
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][572][2] + a_predict: 39.9996442165575
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][572][2] + a_predict: 39.9996442165575
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][572][2] + a_predict: 39.9996442165575
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][572][2] + a_predict: 39.9996442165575
+推荐路径T&S: ['E']
+
+预测时间: -0.0003555260191205889
+学生原始路径: ['B']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][587][2] + a_predict: 7.999644473980879
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][587][2] + a_predict: 7.999644473980879
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][587][2] + a_predict: 7.999644473980879
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][587][2] + a_predict: 7.999644473980879
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][587][2] + a_predict: 7.999644473980879
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][587][2] + a_predict: 7.999644473980879
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][587][2] + a_predict: 7.999644473980879
+推荐路径T&S: []
+
+预测时间: -0.0003553261631168425
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][604][2] + a_predict: 14.999644673836883
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][604][2] + a_predict: 14.999644673836883
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][604][2] + a_predict: 14.999644673836883
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][604][2] + a_predict: 14.999644673836883
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][604][2] + a_predict: 14.999644673836883
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][604][2] + a_predict: 14.999644673836883
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][604][2] + a_predict: 14.999644673836883
+推荐路径T&S: []
+
+预测时间: -0.00035527750151231885
+学生原始路径: ['C', 'D']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][612][2] + a_predict: 7.999644722498488
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][612][2] + a_predict: 7.999644722498488
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][612][2] + a_predict: 7.999644722498488
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][612][2] + a_predict: 7.999644722498488
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][612][2] + a_predict: 7.999644722498488
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][612][2] + a_predict: 7.999644722498488
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][612][2] + a_predict: 7.999644722498488
+推荐路径T&S: []
+
+预测时间: -0.00035422516521066427
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][614][2] + a_predict: 37.99964577483479
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][614][2] + a_predict: 37.99964577483479
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][614][2] + a_predict: 37.99964577483479
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][614][2] + a_predict: 37.99964577483479
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][614][2] + a_predict: 37.99964577483479
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][614][2] + a_predict: 37.99964577483479
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][614][2] + a_predict: 37.99964577483479
+推荐路径T&S: ['E']
+
+预测时间: 8.400090217590332
+学生原始路径: ['B', 'D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][620][2] + a_predict: 47.40009021759033
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][620][2] + a_predict: 47.40009021759033
+推荐路径T: ['B']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][620][2] + a_predict: 47.40009021759033
+推荐路径T: ['D']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][620][2] + a_predict: 47.40009021759033
+推荐路径T: ['A', 'B']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][620][2] + a_predict: 47.40009021759033
+推荐路径T: ['A', 'D']
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][620][2] + a_predict: 47.40009021759033
+推荐路径T: ['B', 'D']
+b_predict: 35.37202453613281
+data.input_roadset[prefix_length][620][2] + a_predict: 47.40009021759033
+推荐路径T: ['A', 'B', 'D']
+推荐路径T&S: ['A', 'B', 'D']
+
+预测时间: -0.00035070537705905735
+学生原始路径: ['D', 'E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][623][2] + a_predict: 56.99964929462294
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][623][2] + a_predict: 56.99964929462294
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][623][2] + a_predict: 56.99964929462294
+推荐路径T: ['E']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][623][2] + a_predict: 56.99964929462294
+推荐路径T: ['A', 'D']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][623][2] + a_predict: 56.99964929462294
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][623][2] + a_predict: 56.99964929462294
+推荐路径T: ['D', 'E']
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][623][2] + a_predict: 56.99964929462294
+推荐路径T: ['A', 'D', 'E']
+推荐路径T&S: ['A', 'D', 'E']
+
+预测时间: -0.00035572319757193327
+学生原始路径: ['B']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][640][2] + a_predict: 6.999644276802428
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][640][2] + a_predict: 6.999644276802428
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][640][2] + a_predict: 6.999644276802428
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][640][2] + a_predict: 6.999644276802428
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][640][2] + a_predict: 6.999644276802428
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][640][2] + a_predict: 6.999644276802428
+b_predict: 38.33217239379883
+data.input_roadset[prefix_length][640][2] + a_predict: 6.999644276802428
+推荐路径T&S: []
+
+预测时间: -0.0003558001480996609
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][646][2] + a_predict: 72.9996441998519
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][646][2] + a_predict: 72.9996441998519
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][646][2] + a_predict: 72.9996441998519
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][646][2] + a_predict: 72.9996441998519
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][646][2] + a_predict: 72.9996441998519
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][646][2] + a_predict: 72.9996441998519
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][646][2] + a_predict: 72.9996441998519
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: 6.4067182540893555
+学生原始路径: ['E', 'B']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][650][2] + a_predict: 23.406718254089355
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][650][2] + a_predict: 23.406718254089355
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][650][2] + a_predict: 23.406718254089355
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][650][2] + a_predict: 23.406718254089355
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][650][2] + a_predict: 23.406718254089355
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][650][2] + a_predict: 23.406718254089355
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][650][2] + a_predict: 23.406718254089355
+推荐路径T&S: []
+
+预测时间: -0.000355676980689168
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][659][2] + a_predict: 0.9996443230193108
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][659][2] + a_predict: 0.9996443230193108
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][659][2] + a_predict: 0.9996443230193108
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][659][2] + a_predict: 0.9996443230193108
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][659][2] + a_predict: 0.9996443230193108
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][659][2] + a_predict: 0.9996443230193108
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][659][2] + a_predict: 0.9996443230193108
+推荐路径T&S: []
+
+预测时间: -0.00035505095729604363
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][675][2] + a_predict: 36.999644949042704
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][675][2] + a_predict: 36.999644949042704
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][675][2] + a_predict: 36.999644949042704
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][675][2] + a_predict: 36.999644949042704
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][675][2] + a_predict: 36.999644949042704
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][675][2] + a_predict: 36.999644949042704
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][675][2] + a_predict: 36.999644949042704
+推荐路径T&S: ['A', 'E']
+
+预测时间: -0.0003556508745532483
+学生原始路径: ['C', 'D', 'E']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][716][2] + a_predict: 5.999644349125447
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][716][2] + a_predict: 5.999644349125447
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][716][2] + a_predict: 5.999644349125447
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][716][2] + a_predict: 5.999644349125447
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][716][2] + a_predict: 5.999644349125447
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][716][2] + a_predict: 5.999644349125447
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][716][2] + a_predict: 5.999644349125447
+推荐路径T&S: []
+
+预测时间: -0.0003510403330437839
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][729][2] + a_predict: 27.999648959666956
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][729][2] + a_predict: 27.999648959666956
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][729][2] + a_predict: 27.999648959666956
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][729][2] + a_predict: 27.999648959666956
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][729][2] + a_predict: 27.999648959666956
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][729][2] + a_predict: 27.999648959666956
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][729][2] + a_predict: 27.999648959666956
+推荐路径T&S: []
+
+预测时间: -0.00035575058427639306
+学生原始路径: ['C', 'D', 'E']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][736][2] + a_predict: -0.00035575058427639306
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][736][2] + a_predict: -0.00035575058427639306
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][736][2] + a_predict: -0.00035575058427639306
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][736][2] + a_predict: -0.00035575058427639306
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][736][2] + a_predict: -0.00035575058427639306
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][736][2] + a_predict: -0.00035575058427639306
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][736][2] + a_predict: -0.00035575058427639306
+推荐路径T&S: []
+
+预测时间: -0.000354596006218344
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][739][2] + a_predict: 31.99964540399378
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][739][2] + a_predict: 31.99964540399378
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][739][2] + a_predict: 31.99964540399378
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][739][2] + a_predict: 31.99964540399378
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][739][2] + a_predict: 31.99964540399378
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][739][2] + a_predict: 31.99964540399378
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][739][2] + a_predict: 31.99964540399378
+推荐路径T&S: []
+
+预测时间: -0.0003481752355583012
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][742][2] + a_predict: 0.9996518247644417
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][742][2] + a_predict: 0.9996518247644417
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][742][2] + a_predict: 0.9996518247644417
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][742][2] + a_predict: 0.9996518247644417
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][742][2] + a_predict: 0.9996518247644417
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][742][2] + a_predict: 0.9996518247644417
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][742][2] + a_predict: 0.9996518247644417
+推荐路径T&S: []
+
+预测时间: -0.0003556174924597144
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][752][2] + a_predict: 3.9996443825075403
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][752][2] + a_predict: 3.9996443825075403
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][752][2] + a_predict: 3.9996443825075403
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][752][2] + a_predict: 3.9996443825075403
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][752][2] + a_predict: 3.9996443825075403
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][752][2] + a_predict: 3.9996443825075403
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][752][2] + a_predict: 3.9996443825075403
+推荐路径T&S: []
+
+预测时间: -0.000335358694428578
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][755][2] + a_predict: 7.999664641305571
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][755][2] + a_predict: 7.999664641305571
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][755][2] + a_predict: 7.999664641305571
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][755][2] + a_predict: 7.999664641305571
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][755][2] + a_predict: 7.999664641305571
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][755][2] + a_predict: 7.999664641305571
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][755][2] + a_predict: 7.999664641305571
+推荐路径T&S: []
+
+预测时间: 8.763912200927734
+学生原始路径: ['A', 'B']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][764][2] + a_predict: 36.763912200927734
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][764][2] + a_predict: 36.763912200927734
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][764][2] + a_predict: 36.763912200927734
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][764][2] + a_predict: 36.763912200927734
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][764][2] + a_predict: 36.763912200927734
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][764][2] + a_predict: 36.763912200927734
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][764][2] + a_predict: 36.763912200927734
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.0003552766575012356
+学生原始路径: ['B', 'C']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][769][2] + a_predict: 24.9996447233425
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][769][2] + a_predict: 24.9996447233425
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][769][2] + a_predict: 24.9996447233425
+b_predict: 38.27267074584961
+data.input_roadset[prefix_length][769][2] + a_predict: 24.9996447233425
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][769][2] + a_predict: 24.9996447233425
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][769][2] + a_predict: 24.9996447233425
+b_predict: 38.20383071899414
+data.input_roadset[prefix_length][769][2] + a_predict: 24.9996447233425
+推荐路径T&S: []
+
+预测时间: -0.0003530517569743097
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][789][2] + a_predict: 3.9996469482430257
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][789][2] + a_predict: 3.9996469482430257
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][789][2] + a_predict: 3.9996469482430257
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][789][2] + a_predict: 3.9996469482430257
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][789][2] + a_predict: 3.9996469482430257
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][789][2] + a_predict: 3.9996469482430257
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][789][2] + a_predict: 3.9996469482430257
+推荐路径T&S: []
+
+预测时间: -0.0003550458641257137
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][791][2] + a_predict: 39.999644954135874
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][791][2] + a_predict: 39.999644954135874
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][791][2] + a_predict: 39.999644954135874
+推荐路径T: ['E']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][791][2] + a_predict: 39.999644954135874
+推荐路径T: ['A', 'D']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][791][2] + a_predict: 39.999644954135874
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][791][2] + a_predict: 39.999644954135874
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][791][2] + a_predict: 39.999644954135874
+推荐路径T: ['A', 'D', 'E']
+推荐路径T&S: ['A', 'D', 'E']
+
+预测时间: -0.0003557526506483555
+学生原始路径: ['B']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][793][2] + a_predict: 19.99964424734935
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][793][2] + a_predict: 19.99964424734935
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][793][2] + a_predict: 19.99964424734935
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][793][2] + a_predict: 19.99964424734935
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][793][2] + a_predict: 19.99964424734935
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][793][2] + a_predict: 19.99964424734935
+b_predict: 38.33217239379883
+data.input_roadset[prefix_length][793][2] + a_predict: 19.99964424734935
+推荐路径T&S: []
+
+预测时间: 8.744805335998535
+学生原始路径: ['B']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][804][2] + a_predict: 8.744805335998535
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][804][2] + a_predict: 8.744805335998535
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][804][2] + a_predict: 8.744805335998535
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][804][2] + a_predict: 8.744805335998535
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][804][2] + a_predict: 8.744805335998535
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][804][2] + a_predict: 8.744805335998535
+b_predict: 38.33217239379883
+data.input_roadset[prefix_length][804][2] + a_predict: 8.744805335998535
+推荐路径T&S: []
+
+预测时间: -0.0003557943564374
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][821][2] + a_predict: 49.99964420564356
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][821][2] + a_predict: 49.99964420564356
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][821][2] + a_predict: 49.99964420564356
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][821][2] + a_predict: 49.99964420564356
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][821][2] + a_predict: 49.99964420564356
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][821][2] + a_predict: 49.99964420564356
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][821][2] + a_predict: 49.99964420564356
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.0003556058800313622
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][825][2] + a_predict: 31.99964439411997
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][825][2] + a_predict: 31.99964439411997
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][825][2] + a_predict: 31.99964439411997
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][825][2] + a_predict: 31.99964439411997
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][825][2] + a_predict: 31.99964439411997
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][825][2] + a_predict: 31.99964439411997
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][825][2] + a_predict: 31.99964439411997
+推荐路径T&S: []
+
+预测时间: -0.0003394400409888476
+学生原始路径: ['B']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][848][2] + a_predict: 26.99966055995901
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][848][2] + a_predict: 26.99966055995901
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][848][2] + a_predict: 26.99966055995901
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][848][2] + a_predict: 26.99966055995901
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][848][2] + a_predict: 26.99966055995901
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][848][2] + a_predict: 26.99966055995901
+b_predict: 38.33217239379883
+data.input_roadset[prefix_length][848][2] + a_predict: 26.99966055995901
+推荐路径T&S: []
+
+预测时间: -0.0003520280006341636
+学生原始路径: ['A']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][850][2] + a_predict: 1.9996479719993658
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][850][2] + a_predict: 1.9996479719993658
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][850][2] + a_predict: 1.9996479719993658
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][850][2] + a_predict: 1.9996479719993658
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][850][2] + a_predict: 1.9996479719993658
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][850][2] + a_predict: 1.9996479719993658
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][850][2] + a_predict: 1.9996479719993658
+推荐路径T&S: []
+
+预测时间: 8.62539291381836
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][872][2] + a_predict: 78.62539291381836
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][872][2] + a_predict: 78.62539291381836
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][872][2] + a_predict: 78.62539291381836
+推荐路径T: ['E']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][872][2] + a_predict: 78.62539291381836
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][872][2] + a_predict: 78.62539291381836
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][872][2] + a_predict: 78.62539291381836
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][872][2] + a_predict: 78.62539291381836
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.0003522333281580359
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][873][2] + a_predict: 75.99964776667184
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][873][2] + a_predict: 75.99964776667184
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][873][2] + a_predict: 75.99964776667184
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][873][2] + a_predict: 75.99964776667184
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][873][2] + a_predict: 75.99964776667184
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][873][2] + a_predict: 75.99964776667184
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][873][2] + a_predict: 75.99964776667184
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.0003537238226272166
+学生原始路径: ['C']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][883][2] + a_predict: 25.999646276177373
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][883][2] + a_predict: 25.999646276177373
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][883][2] + a_predict: 25.999646276177373
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][883][2] + a_predict: 25.999646276177373
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][883][2] + a_predict: 25.999646276177373
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][883][2] + a_predict: 25.999646276177373
+b_predict: 37.31272888183594
+data.input_roadset[prefix_length][883][2] + a_predict: 25.999646276177373
+推荐路径T&S: []
+
+预测时间: -2.566911280155182e-05
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][884][2] + a_predict: 16.9999743308872
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][884][2] + a_predict: 16.9999743308872
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][884][2] + a_predict: 16.9999743308872
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][884][2] + a_predict: 16.9999743308872
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][884][2] + a_predict: 16.9999743308872
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][884][2] + a_predict: 16.9999743308872
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][884][2] + a_predict: 16.9999743308872
+推荐路径T&S: []
+
+预测时间: -0.00034610796137712896
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][885][2] + a_predict: 39.99965389203862
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][885][2] + a_predict: 39.99965389203862
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][885][2] + a_predict: 39.99965389203862
+推荐路径T: ['E']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][885][2] + a_predict: 39.99965389203862
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][885][2] + a_predict: 39.99965389203862
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][885][2] + a_predict: 39.99965389203862
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][885][2] + a_predict: 39.99965389203862
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: 8.704777717590332
+学生原始路径: ['B']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][890][2] + a_predict: 36.70477771759033
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][890][2] + a_predict: 36.70477771759033
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][890][2] + a_predict: 36.70477771759033
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][890][2] + a_predict: 36.70477771759033
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][890][2] + a_predict: 36.70477771759033
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][890][2] + a_predict: 36.70477771759033
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][890][2] + a_predict: 36.70477771759033
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.00035577171365730464
+学生原始路径: ['D', 'C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][900][2] + a_predict: 47.99964422828634
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][900][2] + a_predict: 47.99964422828634
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][900][2] + a_predict: 47.99964422828634
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][900][2] + a_predict: 47.99964422828634
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][900][2] + a_predict: 47.99964422828634
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][900][2] + a_predict: 47.99964422828634
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][900][2] + a_predict: 47.99964422828634
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.00033970485674217343
+学生原始路径: ['C']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][904][2] + a_predict: 65.99966029514326
+推荐路径T: ['A']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][904][2] + a_predict: 65.99966029514326
+推荐路径T: ['C']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][904][2] + a_predict: 65.99966029514326
+推荐路径T: ['E']
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][904][2] + a_predict: 65.99966029514326
+推荐路径T: ['A', 'C']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][904][2] + a_predict: 65.99966029514326
+推荐路径T: ['A', 'E']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][904][2] + a_predict: 65.99966029514326
+推荐路径T: ['C', 'E']
+b_predict: 37.31272888183594
+data.input_roadset[prefix_length][904][2] + a_predict: 65.99966029514326
+推荐路径T: ['A', 'C', 'E']
+推荐路径T&S: ['A', 'C', 'E']
+
+预测时间: -0.00035572462365962565
+学生原始路径: ['A']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][909][2] + a_predict: 0.9996442753763404
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][909][2] + a_predict: 0.9996442753763404
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][909][2] + a_predict: 0.9996442753763404
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][909][2] + a_predict: 0.9996442753763404
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][909][2] + a_predict: 0.9996442753763404
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][909][2] + a_predict: 0.9996442753763404
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][909][2] + a_predict: 0.9996442753763404
+推荐路径T&S: []
+
+预测时间: -0.00035552625195123255
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][929][2] + a_predict: 4.999644473748049
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][929][2] + a_predict: 4.999644473748049
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][929][2] + a_predict: 4.999644473748049
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][929][2] + a_predict: 4.999644473748049
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][929][2] + a_predict: 4.999644473748049
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][929][2] + a_predict: 4.999644473748049
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][929][2] + a_predict: 4.999644473748049
+推荐路径T&S: []
+
+预测时间: -0.00035579819814302027
+学生原始路径: ['C', 'D']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][930][2] + a_predict: 16.999644201801857
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][930][2] + a_predict: 16.999644201801857
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][930][2] + a_predict: 16.999644201801857
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][930][2] + a_predict: 16.999644201801857
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][930][2] + a_predict: 16.999644201801857
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][930][2] + a_predict: 16.999644201801857
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][930][2] + a_predict: 16.999644201801857
+推荐路径T&S: []
+
+预测时间: 8.703173637390137
+学生原始路径: ['B']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][942][2] + a_predict: 19.703173637390137
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][942][2] + a_predict: 19.703173637390137
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][942][2] + a_predict: 19.703173637390137
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][942][2] + a_predict: 19.703173637390137
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][942][2] + a_predict: 19.703173637390137
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][942][2] + a_predict: 19.703173637390137
+b_predict: 38.33217239379883
+data.input_roadset[prefix_length][942][2] + a_predict: 19.703173637390137
+推荐路径T&S: []
+
+预测时间: -0.00035551682231016457
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][981][2] + a_predict: 59.99964448317769
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][981][2] + a_predict: 59.99964448317769
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][981][2] + a_predict: 59.99964448317769
+推荐路径T: ['E']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][981][2] + a_predict: 59.99964448317769
+推荐路径T: ['A', 'D']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][981][2] + a_predict: 59.99964448317769
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][981][2] + a_predict: 59.99964448317769
+推荐路径T: ['D', 'E']
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][981][2] + a_predict: 59.99964448317769
+推荐路径T: ['A', 'D', 'E']
+推荐路径T&S: ['A', 'D', 'E']
+
+预测时间: -0.0003540633188094944
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][992][2] + a_predict: 6.9996459366811905
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][992][2] + a_predict: 6.9996459366811905
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][992][2] + a_predict: 6.9996459366811905
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][992][2] + a_predict: 6.9996459366811905
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][992][2] + a_predict: 6.9996459366811905
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][992][2] + a_predict: 6.9996459366811905
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][992][2] + a_predict: 6.9996459366811905
+推荐路径T&S: []
+
+预测时间: 8.563742637634277
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][998][2] + a_predict: 77.56374263763428
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][998][2] + a_predict: 77.56374263763428
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][998][2] + a_predict: 77.56374263763428
+推荐路径T: ['E']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][998][2] + a_predict: 77.56374263763428
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][998][2] + a_predict: 77.56374263763428
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][998][2] + a_predict: 77.56374263763428
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][998][2] + a_predict: 77.56374263763428
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.00035324753844179213
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1027][2] + a_predict: -0.00035324753844179213
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1027][2] + a_predict: -0.00035324753844179213
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1027][2] + a_predict: -0.00035324753844179213
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1027][2] + a_predict: -0.00035324753844179213
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1027][2] + a_predict: -0.00035324753844179213
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1027][2] + a_predict: -0.00035324753844179213
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1027][2] + a_predict: -0.00035324753844179213
+推荐路径T&S: []
+
+预测时间: -0.00012869632337242365
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1037][2] + a_predict: 24.999871303676628
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][1037][2] + a_predict: 24.999871303676628
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1037][2] + a_predict: 24.999871303676628
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][1037][2] + a_predict: 24.999871303676628
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1037][2] + a_predict: 24.999871303676628
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][1037][2] + a_predict: 24.999871303676628
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][1037][2] + a_predict: 24.999871303676628
+推荐路径T&S: []
+
+预测时间: -0.0003556408337317407
+学生原始路径: ['C']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1045][2] + a_predict: 21.99964435916627
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1045][2] + a_predict: 21.99964435916627
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1045][2] + a_predict: 21.99964435916627
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][1045][2] + a_predict: 21.99964435916627
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1045][2] + a_predict: 21.99964435916627
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1045][2] + a_predict: 21.99964435916627
+b_predict: 37.31272888183594
+data.input_roadset[prefix_length][1045][2] + a_predict: 21.99964435916627
+推荐路径T&S: []
+
+预测时间: -0.0003557557938620448
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1056][2] + a_predict: 65.99964424420614
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1056][2] + a_predict: 65.99964424420614
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1056][2] + a_predict: 65.99964424420614
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1056][2] + a_predict: 65.99964424420614
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1056][2] + a_predict: 65.99964424420614
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1056][2] + a_predict: 65.99964424420614
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1056][2] + a_predict: 65.99964424420614
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.0003544942010194063
+学生原始路径: ['B']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][1077][2] + a_predict: 7.999645505798981
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1077][2] + a_predict: 7.999645505798981
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1077][2] + a_predict: 7.999645505798981
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][1077][2] + a_predict: 7.999645505798981
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][1077][2] + a_predict: 7.999645505798981
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1077][2] + a_predict: 7.999645505798981
+b_predict: 38.33217239379883
+data.input_roadset[prefix_length][1077][2] + a_predict: 7.999645505798981
+推荐路径T&S: []
+
+预测时间: -0.0003483149048406631
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1081][2] + a_predict: 1.9996516850951593
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1081][2] + a_predict: 1.9996516850951593
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1081][2] + a_predict: 1.9996516850951593
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1081][2] + a_predict: 1.9996516850951593
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1081][2] + a_predict: 1.9996516850951593
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1081][2] + a_predict: 1.9996516850951593
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1081][2] + a_predict: 1.9996516850951593
+推荐路径T&S: []
+
+预测时间: -0.00035519618541002274
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1098][2] + a_predict: -0.00035519618541002274
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1098][2] + a_predict: -0.00035519618541002274
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1098][2] + a_predict: -0.00035519618541002274
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1098][2] + a_predict: -0.00035519618541002274
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1098][2] + a_predict: -0.00035519618541002274
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1098][2] + a_predict: -0.00035519618541002274
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1098][2] + a_predict: -0.00035519618541002274
+推荐路径T&S: []
+
+预测时间: -0.00035464190295897424
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1116][2] + a_predict: 8.999645358097041
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1116][2] + a_predict: 8.999645358097041
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1116][2] + a_predict: 8.999645358097041
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][1116][2] + a_predict: 8.999645358097041
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1116][2] + a_predict: 8.999645358097041
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1116][2] + a_predict: 8.999645358097041
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][1116][2] + a_predict: 8.999645358097041
+推荐路径T&S: []
+
+预测时间: -0.00034903688356280327
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1124][2] + a_predict: 42.99965096311644
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1124][2] + a_predict: 42.99965096311644
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1124][2] + a_predict: 42.99965096311644
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1124][2] + a_predict: 42.99965096311644
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1124][2] + a_predict: 42.99965096311644
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1124][2] + a_predict: 42.99965096311644
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1124][2] + a_predict: 42.99965096311644
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.00035435575409792364
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1150][2] + a_predict: 36.9996456442459
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1150][2] + a_predict: 36.9996456442459
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1150][2] + a_predict: 36.9996456442459
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][1150][2] + a_predict: 36.9996456442459
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1150][2] + a_predict: 36.9996456442459
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1150][2] + a_predict: 36.9996456442459
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][1150][2] + a_predict: 36.9996456442459
+推荐路径T&S: ['A', 'E']
+
+预测时间: -0.0003508386143948883
+学生原始路径: ['A']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1155][2] + a_predict: 3.999649161385605
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1155][2] + a_predict: 3.999649161385605
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1155][2] + a_predict: 3.999649161385605
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][1155][2] + a_predict: 3.999649161385605
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1155][2] + a_predict: 3.999649161385605
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1155][2] + a_predict: 3.999649161385605
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][1155][2] + a_predict: 3.999649161385605
+推荐路径T&S: []
+
+预测时间: -0.00035577788366936147
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1159][2] + a_predict: 0.9996442221163306
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1159][2] + a_predict: 0.9996442221163306
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1159][2] + a_predict: 0.9996442221163306
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1159][2] + a_predict: 0.9996442221163306
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1159][2] + a_predict: 0.9996442221163306
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1159][2] + a_predict: 0.9996442221163306
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1159][2] + a_predict: 0.9996442221163306
+推荐路径T&S: []
+
+预测时间: -0.00018675101455301046
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1161][2] + a_predict: 58.99981324898545
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][1161][2] + a_predict: 58.99981324898545
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1161][2] + a_predict: 58.99981324898545
+推荐路径T: ['E']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][1161][2] + a_predict: 58.99981324898545
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1161][2] + a_predict: 58.99981324898545
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][1161][2] + a_predict: 58.99981324898545
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][1161][2] + a_predict: 58.99981324898545
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: 8.625828742980957
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1178][2] + a_predict: 53.62582874298096
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][1178][2] + a_predict: 53.62582874298096
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1178][2] + a_predict: 53.62582874298096
+推荐路径T: ['E']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][1178][2] + a_predict: 53.62582874298096
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1178][2] + a_predict: 53.62582874298096
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][1178][2] + a_predict: 53.62582874298096
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][1178][2] + a_predict: 53.62582874298096
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.00035159080289304256
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1182][2] + a_predict: 6.999648409197107
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1182][2] + a_predict: 6.999648409197107
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1182][2] + a_predict: 6.999648409197107
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1182][2] + a_predict: 6.999648409197107
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1182][2] + a_predict: 6.999648409197107
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1182][2] + a_predict: 6.999648409197107
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1182][2] + a_predict: 6.999648409197107
+推荐路径T&S: []
+
+预测时间: -0.00035540558747015893
+学生原始路径: ['B']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][1203][2] + a_predict: 3.99964459441253
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1203][2] + a_predict: 3.99964459441253
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1203][2] + a_predict: 3.99964459441253
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][1203][2] + a_predict: 3.99964459441253
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][1203][2] + a_predict: 3.99964459441253
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1203][2] + a_predict: 3.99964459441253
+b_predict: 38.33217239379883
+data.input_roadset[prefix_length][1203][2] + a_predict: 3.99964459441253
+推荐路径T&S: []
+
+预测时间: -0.00026662484742701054
+学生原始路径: ['C', 'B']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1210][2] + a_predict: 19.999733375152573
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][1210][2] + a_predict: 19.999733375152573
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1210][2] + a_predict: 19.999733375152573
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][1210][2] + a_predict: 19.999733375152573
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][1210][2] + a_predict: 19.999733375152573
+b_predict: 38.27267074584961
+data.input_roadset[prefix_length][1210][2] + a_predict: 19.999733375152573
+b_predict: 35.243682861328125
+data.input_roadset[prefix_length][1210][2] + a_predict: 19.999733375152573
+推荐路径T&S: []
+
+预测时间: -0.0003557548625394702
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1211][2] + a_predict: 14.99964424513746
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1211][2] + a_predict: 14.99964424513746
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1211][2] + a_predict: 14.99964424513746
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][1211][2] + a_predict: 14.99964424513746
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1211][2] + a_predict: 14.99964424513746
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1211][2] + a_predict: 14.99964424513746
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][1211][2] + a_predict: 14.99964424513746
+推荐路径T&S: []
+
+预测时间: 8.75034236907959
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1233][2] + a_predict: 9.75034236907959
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][1233][2] + a_predict: 9.75034236907959
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1233][2] + a_predict: 9.75034236907959
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][1233][2] + a_predict: 9.75034236907959
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1233][2] + a_predict: 9.75034236907959
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][1233][2] + a_predict: 9.75034236907959
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][1233][2] + a_predict: 9.75034236907959
+推荐路径T&S: []
+
+预测时间: 0.95083087682724
+学生原始路径: ['B']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1235][2] + a_predict: 3.95083087682724
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][1235][2] + a_predict: 3.95083087682724
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1235][2] + a_predict: 3.95083087682724
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][1235][2] + a_predict: 3.95083087682724
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][1235][2] + a_predict: 3.95083087682724
+b_predict: 38.27267074584961
+data.input_roadset[prefix_length][1235][2] + a_predict: 3.95083087682724
+b_predict: 35.243682861328125
+data.input_roadset[prefix_length][1235][2] + a_predict: 3.95083087682724
+推荐路径T&S: []
+
+预测时间: -0.00035579054383561015
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1236][2] + a_predict: 17.999644209456164
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1236][2] + a_predict: 17.999644209456164
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1236][2] + a_predict: 17.999644209456164
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1236][2] + a_predict: 17.999644209456164
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1236][2] + a_predict: 17.999644209456164
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1236][2] + a_predict: 17.999644209456164
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1236][2] + a_predict: 17.999644209456164
+推荐路径T&S: []
+
+预测时间: -0.00035171498893760145
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1259][2] + a_predict: -0.00035171498893760145
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1259][2] + a_predict: -0.00035171498893760145
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1259][2] + a_predict: -0.00035171498893760145
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1259][2] + a_predict: -0.00035171498893760145
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1259][2] + a_predict: -0.00035171498893760145
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1259][2] + a_predict: -0.00035171498893760145
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1259][2] + a_predict: -0.00035171498893760145
+推荐路径T&S: []
+
+预测时间: -0.000353590672602877
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1260][2] + a_predict: 21.999646409327397
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1260][2] + a_predict: 21.999646409327397
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1260][2] + a_predict: 21.999646409327397
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1260][2] + a_predict: 21.999646409327397
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1260][2] + a_predict: 21.999646409327397
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1260][2] + a_predict: 21.999646409327397
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1260][2] + a_predict: 21.999646409327397
+推荐路径T&S: []
+
+预测时间: -0.00034856441197916865
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1261][2] + a_predict: 106.99965143558802
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1261][2] + a_predict: 106.99965143558802
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1261][2] + a_predict: 106.99965143558802
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1261][2] + a_predict: 106.99965143558802
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1261][2] + a_predict: 106.99965143558802
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1261][2] + a_predict: 106.99965143558802
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1261][2] + a_predict: 106.99965143558802
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.0003524694184307009
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1263][2] + a_predict: 54.99964753058157
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1263][2] + a_predict: 54.99964753058157
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1263][2] + a_predict: 54.99964753058157
+推荐路径T: ['E']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][1263][2] + a_predict: 54.99964753058157
+推荐路径T: ['A', 'D']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1263][2] + a_predict: 54.99964753058157
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1263][2] + a_predict: 54.99964753058157
+推荐路径T: ['D', 'E']
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][1263][2] + a_predict: 54.99964753058157
+推荐路径T: ['A', 'D', 'E']
+推荐路径T&S: ['A', 'D', 'E']
+
+预测时间: 7.030032157897949
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1283][2] + a_predict: 8.03003215789795
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][1283][2] + a_predict: 8.03003215789795
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1283][2] + a_predict: 8.03003215789795
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][1283][2] + a_predict: 8.03003215789795
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][1283][2] + a_predict: 8.03003215789795
+b_predict: 38.43309783935547
+data.input_roadset[prefix_length][1283][2] + a_predict: 8.03003215789795
+b_predict: 35.37202453613281
+data.input_roadset[prefix_length][1283][2] + a_predict: 8.03003215789795
+推荐路径T&S: []
+
+预测时间: -0.0003557386517059058
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1287][2] + a_predict: -0.0003557386517059058
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1287][2] + a_predict: -0.0003557386517059058
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1287][2] + a_predict: -0.0003557386517059058
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1287][2] + a_predict: -0.0003557386517059058
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1287][2] + a_predict: -0.0003557386517059058
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1287][2] + a_predict: -0.0003557386517059058
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1287][2] + a_predict: -0.0003557386517059058
+推荐路径T&S: []
+
+预测时间: -0.00035527662839740515
+学生原始路径: ['E']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1304][2] + a_predict: 25.999644723371603
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1304][2] + a_predict: 25.999644723371603
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1304][2] + a_predict: 25.999644723371603
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1304][2] + a_predict: 25.999644723371603
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1304][2] + a_predict: 25.999644723371603
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1304][2] + a_predict: 25.999644723371603
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1304][2] + a_predict: 25.999644723371603
+推荐路径T&S: []
+
+预测时间: -0.0003556594019755721
+学生原始路径: ['C']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1310][2] + a_predict: 0.9996443405980244
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1310][2] + a_predict: 0.9996443405980244
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1310][2] + a_predict: 0.9996443405980244
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][1310][2] + a_predict: 0.9996443405980244
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1310][2] + a_predict: 0.9996443405980244
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1310][2] + a_predict: 0.9996443405980244
+b_predict: 37.31272888183594
+data.input_roadset[prefix_length][1310][2] + a_predict: 0.9996443405980244
+推荐路径T&S: []
+
+预测时间: -0.00035359201137907803
+学生原始路径: ['C']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1325][2] + a_predict: 14.999646407988621
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1325][2] + a_predict: 14.999646407988621
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1325][2] + a_predict: 14.999646407988621
+b_predict: 37.15879440307617
+data.input_roadset[prefix_length][1325][2] + a_predict: 14.999646407988621
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1325][2] + a_predict: 14.999646407988621
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1325][2] + a_predict: 14.999646407988621
+b_predict: 37.31272888183594
+data.input_roadset[prefix_length][1325][2] + a_predict: 14.999646407988621
+推荐路径T&S: []
+
+预测时间: -0.0003557847230695188
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1326][2] + a_predict: 46.99964421527693
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1326][2] + a_predict: 46.99964421527693
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1326][2] + a_predict: 46.99964421527693
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1326][2] + a_predict: 46.99964421527693
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1326][2] + a_predict: 46.99964421527693
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1326][2] + a_predict: 46.99964421527693
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1326][2] + a_predict: 46.99964421527693
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.0003549454268068075
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1336][2] + a_predict: 51.99964505457319
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1336][2] + a_predict: 51.99964505457319
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1336][2] + a_predict: 51.99964505457319
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1336][2] + a_predict: 51.99964505457319
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1336][2] + a_predict: 51.99964505457319
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1336][2] + a_predict: 51.99964505457319
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1336][2] + a_predict: 51.99964505457319
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.0002958795230370015
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1356][2] + a_predict: 25.999704120476963
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1356][2] + a_predict: 25.999704120476963
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1356][2] + a_predict: 25.999704120476963
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][1356][2] + a_predict: 25.999704120476963
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1356][2] + a_predict: 25.999704120476963
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1356][2] + a_predict: 25.999704120476963
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][1356][2] + a_predict: 25.999704120476963
+推荐路径T&S: []
+
+预测时间: -0.0003534680581651628
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1369][2] + a_predict: 71.99964653194183
+推荐路径T: ['C']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1369][2] + a_predict: 71.99964653194183
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1369][2] + a_predict: 71.99964653194183
+推荐路径T: ['E']
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1369][2] + a_predict: 71.99964653194183
+推荐路径T: ['C', 'D']
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1369][2] + a_predict: 71.99964653194183
+推荐路径T: ['C', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1369][2] + a_predict: 71.99964653194183
+推荐路径T: ['D', 'E']
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1369][2] + a_predict: 71.99964653194183
+推荐路径T: ['C', 'D', 'E']
+推荐路径T&S: ['C', 'D', 'E']
+
+预测时间: -0.0003537793818395585
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1386][2] + a_predict: 14.99964622061816
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][1386][2] + a_predict: 14.99964622061816
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1386][2] + a_predict: 14.99964622061816
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][1386][2] + a_predict: 14.99964622061816
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1386][2] + a_predict: 14.99964622061816
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][1386][2] + a_predict: 14.99964622061816
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][1386][2] + a_predict: 14.99964622061816
+推荐路径T&S: []
+
+预测时间: -0.00035576510708779097
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1397][2] + a_predict: 49.99964423489291
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1397][2] + a_predict: 49.99964423489291
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1397][2] + a_predict: 49.99964423489291
+推荐路径T: ['E']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][1397][2] + a_predict: 49.99964423489291
+推荐路径T: ['A', 'D']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1397][2] + a_predict: 49.99964423489291
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1397][2] + a_predict: 49.99964423489291
+推荐路径T: ['D', 'E']
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][1397][2] + a_predict: 49.99964423489291
+推荐路径T: ['A', 'D', 'E']
+推荐路径T&S: ['A', 'D', 'E']
+
+预测时间: -0.0003557992458809167
+学生原始路径: ['C']
+b_predict: 41.8358154296875
+data.input_roadset[prefix_length][1401][2] + a_predict: 0.9996442007541191
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1401][2] + a_predict: 0.9996442007541191
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1401][2] + a_predict: 0.9996442007541191
+b_predict: 43.949920654296875
+data.input_roadset[prefix_length][1401][2] + a_predict: 0.9996442007541191
+b_predict: 40.85897445678711
+data.input_roadset[prefix_length][1401][2] + a_predict: 0.9996442007541191
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1401][2] + a_predict: 0.9996442007541191
+b_predict: 42.74563217163086
+data.input_roadset[prefix_length][1401][2] + a_predict: 0.9996442007541191
+推荐路径T&S: []
+
+预测时间: -0.00017012919124681503
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1403][2] + a_predict: 42.99982987080875
+推荐路径T: ['A']
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][1403][2] + a_predict: 42.99982987080875
+推荐路径T: ['B']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1403][2] + a_predict: 42.99982987080875
+推荐路径T: ['E']
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][1403][2] + a_predict: 42.99982987080875
+推荐路径T: ['A', 'B']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1403][2] + a_predict: 42.99982987080875
+推荐路径T: ['A', 'E']
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][1403][2] + a_predict: 42.99982987080875
+推荐路径T: ['B', 'E']
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][1403][2] + a_predict: 42.99982987080875
+推荐路径T: ['A', 'B', 'E']
+推荐路径T&S: ['A', 'B', 'E']
+
+预测时间: -0.000352083909092471
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1420][2] + a_predict: 45.99964791609091
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1420][2] + a_predict: 45.99964791609091
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1420][2] + a_predict: 45.99964791609091
+推荐路径T: ['E']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][1420][2] + a_predict: 45.99964791609091
+推荐路径T: ['A', 'D']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1420][2] + a_predict: 45.99964791609091
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1420][2] + a_predict: 45.99964791609091
+推荐路径T: ['D', 'E']
+b_predict: 37.441070556640625
+data.input_roadset[prefix_length][1420][2] + a_predict: 45.99964791609091
+推荐路径T: ['A', 'D', 'E']
+推荐路径T&S: ['A', 'D', 'E']
+
+预测时间: -0.00014509359607473016
+学生原始路径: ['E']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1438][2] + a_predict: 28.999854906403925
+b_predict: 34.48004913330078
+data.input_roadset[prefix_length][1438][2] + a_predict: 28.999854906403925
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1438][2] + a_predict: 28.999854906403925
+b_predict: 31.641971588134766
+data.input_roadset[prefix_length][1438][2] + a_predict: 28.999854906403925
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1438][2] + a_predict: 28.999854906403925
+b_predict: 35.3421516418457
+data.input_roadset[prefix_length][1438][2] + a_predict: 28.999854906403925
+b_predict: 32.899269104003906
+data.input_roadset[prefix_length][1438][2] + a_predict: 28.999854906403925
+推荐路径T&S: []
+
+预测时间: -0.0003521671169437468
+学生原始路径: ['D']
+b_predict: 32.99488067626953
+data.input_roadset[prefix_length][1454][2] + a_predict: 52.999647832883056
+推荐路径T: ['A']
+b_predict: 42.049720764160156
+data.input_roadset[prefix_length][1454][2] + a_predict: 52.999647832883056
+推荐路径T: ['D']
+b_predict: 37.9284553527832
+data.input_roadset[prefix_length][1454][2] + a_predict: 52.999647832883056
+推荐路径T: ['E']
+b_predict: 37.31922149658203
+data.input_roadset[prefix_length][1454][2] + a_predict: 52.999647832883056
+推荐路径T: ['A', 'D']
+b_predict: 34.228275299072266
+data.input_roadset[prefix_length][1454][2] + a_predict: 52.999647832883056
+推荐路径T: ['A', 'E']
+b_predict: 41.01940155029297
+data.input_roadset[prefix_length][1454][2] + a_predict: 52.999647832883056
+推荐路径T: ['D', 'E']

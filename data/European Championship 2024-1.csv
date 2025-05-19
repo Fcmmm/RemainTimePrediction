@@ -1,0 +1,1981 @@
+who,problem,when,try,problem_len,input_len,output_len,diff,result
+-is-this-fft-,B,2024-3-24 13:19:00,1,60,99,16,1,1
+-is-this-fft-,C,2024-3-24 17:17:00,3,180,61,18,1,1
+-is-this-fft-,F,2024-3-24 14:15:00,2,83,64,31,2,1
+-is-this-fft-,G,2024-3-24 15:22:00,2,210,141,192,1,1
+-is-this-fft-,I,2024-3-24 13:15:00,1,112,45,17,2,1
+-is-this-fft-,J,2024-3-24 17:26:00,3,212,145,156,2,0
+00zijian,A,2024-3-24 13:44:00,5,85,59,68,2,0
+00zijian,B,2024-3-24 13:58:00,1,60,99,16,1,1
+100%Winrate:tamp_ mahmoudbadawy Yousef_Salama,B,2024-3-24 14:20:00,1,60,99,16,1,1
+100%Winrate:tamp_ mahmoudbadawy Yousef_Salama,C,2024-3-24 14:45:00,1,180,61,18,1,1
+100%Winrate:tamp_ mahmoudbadawy Yousef_Salama,D,2024-3-24 16:38:00,1,228,148,169,2,0
+100%Winrate:tamp_ mahmoudbadawy Yousef_Salama,F,2024-3-24 17:26:00,13,83,64,31,2,1
+100%Winrate:tamp_ mahmoudbadawy Yousef_Salama,G,2024-3-24 17:47:00,9,210,141,192,1,1
+100%Winrate:tamp_ mahmoudbadawy Yousef_Salama,I,2024-3-24 13:51:00,6,112,45,17,2,1
+1025_hl,B,2024-3-24 14:05:00,1,60,99,16,1,1
+1025_hl,I,2024-3-24 16:59:00,14,112,45,17,2,0
+111:JayTe turkhuu622 TselmegKh,B,2024-3-24 13:56:00,2,60,99,16,1,1
+111:JayTe turkhuu622 TselmegKh,C,2024-3-24 14:30:00,1,180,61,18,1,1
+111:JayTe turkhuu622 TselmegKh,E,2024-3-24 16:50:00,6,166,36,38,2,0
+111:JayTe turkhuu622 TselmegKh,I,2024-3-24 15:27:00,4,112,45,17,2,0
+1459007298,B,2024-3-24 13:11:00,1,60,99,16,1,1
+1459007298,C,2024-3-24 13:35:00,2,180,61,18,1,1
+1459007298,F,2024-3-24 15:38:00,7,83,64,31,2,1
+1459007298,G,2024-3-24 17:23:00,7,210,141,192,1,1
+1459007298,I,2024-3-24 15:06:00,4,112,45,17,2,1
+1__idk__1,A,2024-3-24 17:21:00,1,85,59,68,2,0
+202201423,B,2024-3-24 16:07:00,2,60,99,16,1,1
+2110030121,A,2024-3-24 14:49:00,2,85,59,68,2,0
+2200030784,A,2024-3-24 15:54:00,1,85,59,68,2,0
+2210030020m,A,2024-3-24 13:36:00,1,85,59,68,2,0
+2210030020m,C,2024-3-24 13:15:00,2,180,61,18,1,0
+2210030020m,F,2024-3-24 13:41:00,1,83,64,31,2,0
+2210030020m,I,2024-3-24 13:27:00,2,112,45,17,2,0
+22211a1244,F,2024-3-24 15:02:00,3,83,64,31,2,0
+22241A1244eswar,E,2024-3-24 13:25:00,2,166,36,38,2,0
+22r01a04g4,A,2024-3-24 13:34:00,1,85,59,68,2,0
+22r01a0524,A,2024-3-24 14:10:00,2,85,59,68,2,0
+22r01a0524,B,2024-3-24 14:13:00,1,60,99,16,1,0
+22r01a0561,A,2024-3-24 13:26:00,3,85,59,68,2,0
+22r01a0561,B,2024-3-24 13:27:00,1,60,99,16,1,0
+2Chicken1VegMomos:ZaWorld cannizzarokun harsh.73.goyal,B,2024-3-24 13:24:00,1,60,99,16,1,1
+2Chicken1VegMomos:ZaWorld cannizzarokun harsh.73.goyal,F,2024-3-24 14:49:00,9,83,64,31,2,0
+2MEN0ALGO:windows47 abode_at25,C,2024-3-24 16:40:00,4,180,61,18,1,1
+2MEN0ALGO:windows47 abode_at25,I,2024-3-24 15:06:00,4,112,45,17,2,1
+2vs?:Nestor... Jaiderbr SneiderQuintero,B,2024-3-24 14:34:00,3,60,99,16,1,0
+2vs?:Nestor... Jaiderbr SneiderQuintero,F,2024-3-24 14:50:00,2,83,64,31,2,0
+3191713687,B,2024-3-24 16:40:00,2,60,99,16,1,0
+3191713687,I,2024-3-24 16:39:00,1,112,45,17,2,0
+3awezComputer:HeMoo Obada_Saleh Wael_Mchantaf,B,2024-3-24 13:36:00,2,60,99,16,1,1
+3awezComputer:HeMoo Obada_Saleh Wael_Mchantaf,C,2024-3-24 14:04:00,1,180,61,18,1,1
+3awezComputer:HeMoo Obada_Saleh Wael_Mchantaf,F,2024-3-24 15:56:00,3,83,64,31,2,1
+3awezComputer:HeMoo Obada_Saleh Wael_Mchantaf,I,2024-3-24 13:38:00,4,112,45,17,2,1
+989,B,2024-3-24 13:55:00,2,60,99,16,1,0
+989,I,2024-3-24 15:17:00,7,112,45,17,2,1
+99%2prize:myheartwaing ayaka0928 Yhs_Joker,B,2024-3-24 13:18:00,1,60,99,16,1,1
+99%2prize:myheartwaing ayaka0928 Yhs_Joker,C,2024-3-24 17:32:00,4,180,61,18,1,1
+99%2prize:myheartwaing ayaka0928 Yhs_Joker,F,2024-3-24 15:05:00,3,83,64,31,2,1
+99%2prize:myheartwaing ayaka0928 Yhs_Joker,I,2024-3-24 14:17:00,4,112,45,17,2,1
+A.n.o.n.y.m.o.u.s,B,2024-3-24 13:42:00,1,60,99,16,1,1
+A.n.o.n.y.m.o.u.s,C,2024-3-24 15:18:00,3,180,61,18,1,1
+A.n.o.n.y.m.o.u.s,F,2024-3-24 17:59:00,12,83,64,31,2,0
+A.n.o.n.y.m.o.u.s,I,2024-3-24 14:14:00,4,112,45,17,2,1
+A34,B,2024-3-24 15:55:00,2,60,99,16,1,0
+ABalobanov,B,2024-3-24 15:53:00,1,60,99,16,1,1
+ABalobanov,I,2024-3-24 16:12:00,2,112,45,17,2,1
+ALESTA,C,2024-3-24 17:35:00,1,180,61,18,1,0
+AMA_noobs:mhdi_742 Arijit15 aritra2zk9l,I,2024-3-24 17:41:00,3,112,45,17,2,0
+ASHIM_NURISLAM,A,2024-3-24 13:14:00,2,85,59,68,2,0
+ASHIM_NURISLAM,B,2024-3-24 13:16:00,2,60,99,16,1,0
+A_tik,B,2024-3-24 16:51:00,1,60,99,16,1,0
+AbdallahBouali,A,2024-3-24 17:32:00,8,85,59,68,2,0
+AdarshX,B,2024-3-24 17:24:00,1,60,99,16,1,1
+AdarshX,I,2024-3-24 17:59:00,4,112,45,17,2,0
+Adi-licious,A,2024-3-24 16:59:00,2,85,59,68,2,0
+Adi-licious,I,2024-3-24 17:56:00,1,112,45,17,2,0
+Adonis_,B,2024-3-24 13:39:00,2,60,99,16,1,1
+Ag153,B,2024-3-24 16:09:00,2,60,99,16,1,0
+Airths,C,2024-3-24 14:11:00,1,180,61,18,1,1
+Airths,I,2024-3-24 13:22:00,3,112,45,17,2,1
+Aki_Fan,B,2024-3-24 15:44:00,1,60,99,16,1,1
+Aki_Fan,I,2024-3-24 16:25:00,8,112,45,17,2,0
+AlarmClock:yellowtoad Angus_Yeung abcdehello,B,2024-3-24 13:09:00,1,60,99,16,1,1
+AlarmClock:yellowtoad Angus_Yeung abcdehello,C,2024-3-24 13:38:00,1,180,61,18,1,1
+AlarmClock:yellowtoad Angus_Yeung abcdehello,G,2024-3-24 15:19:00,3,210,141,192,1,1
+AlarmClock:yellowtoad Angus_Yeung abcdehello,I,2024-3-24 14:18:00,7,112,45,17,2,1
+AlarmClock:yellowtoad Angus_Yeung abcdehello,J,2024-3-24 16:02:00,1,212,145,156,2,0
+AlarmClock:yellowtoad Angus_Yeung abcdehello,K,2024-3-24 13:26:00,2,96,83,102,2,0
+AlgorithmAcee,A,2024-3-24 16:33:00,1,85,59,68,2,0
+Alphonso:RithvikRavikumar SaiArunPrasaad mastermind239,F,2024-3-24 17:25:00,1,83,64,31,2,0
+Alphonso:RithvikRavikumar SaiArunPrasaad mastermind239,K,2024-3-24 16:00:00,5,96,83,102,2,0
+AminulErShoinik:jamil_safi Ami_Nul roundspecs,B,2024-3-24 16:26:00,3,60,99,16,1,0
+AminulErShoinik:jamil_safi Ami_Nul roundspecs,I,2024-3-24 14:05:00,4,112,45,17,2,0
+Amir_Mazari_06,I,2024-3-24 13:08:00,1,112,45,17,2,0
+Anonymous:Aphrodite3107 graphisverybad,B,2024-3-24 13:38:00,3,60,99,16,1,1
+Anonymous:Aphrodite3107 graphisverybad,C,2024-3-24 15:48:00,8,180,61,18,1,1
+Anonymous:Aphrodite3107 graphisverybad,I,2024-3-24 16:09:00,7,112,45,17,2,1
+Anti-Adhoc:shlokagrawal Final_Track GreyAtCGPA,B,2024-3-24 14:42:00,2,60,99,16,1,1
+Anti-Adhoc:shlokagrawal Final_Track GreyAtCGPA,C,2024-3-24 14:07:00,1,180,61,18,1,1
+Anti-Adhoc:shlokagrawal Final_Track GreyAtCGPA,D,2024-3-24 17:34:00,1,228,148,169,2,0
+Anti-Adhoc:shlokagrawal Final_Track GreyAtCGPA,F,2024-3-24 15:23:00,2,83,64,31,2,1
+Anti-Adhoc:shlokagrawal Final_Track GreyAtCGPA,G,2024-3-24 16:55:00,1,210,141,192,1,1
+Anti-Adhoc:shlokagrawal Final_Track GreyAtCGPA,I,2024-3-24 13:31:00,1,112,45,17,2,1
+Arabian_pilots:SimplyFrog qruzbrat omnitrixx,F,2024-3-24 15:38:00,13,83,64,31,2,0
+Aram_7,E,2024-3-24 14:25:00,6,166,36,38,2,0
+Aram_7,F,2024-3-24 14:14:00,1,83,64,31,2,0
+Aram_mouhammed,B,2024-3-24 14:53:00,1,60,99,16,1,1
+Aram_mouhammed,I,2024-3-24 16:13:00,5,112,45,17,2,0
+AreyouAC?:kevin_Durant_ mao_wei_jia jinfeng123321,B,2024-3-24 14:21:00,2,60,99,16,1,1
+AreyouAC?:kevin_Durant_ mao_wei_jia jinfeng123321,I,2024-3-24 16:07:00,4,112,45,17,2,0
+ArsenGotov,B,2024-3-24 14:05:00,1,60,99,16,1,1
+ArsenGotov,C,2024-3-24 17:23:00,1,180,61,18,1,1
+ArsenGotov,F,2024-3-24 14:37:00,2,83,64,31,2,1
+ArsenGotov,I,2024-3-24 17:45:00,4,112,45,17,2,1
+AshrafSustS19,I,2024-3-24 13:40:00,2,112,45,17,2,0
+Atharva_102,B,2024-3-24 13:24:00,1,60,99,16,1,0
+Atharva_102,C,2024-3-24 13:29:00,1,180,61,18,1,0
+Auroraa_,B,2024-3-24 14:56:00,1,60,99,16,1,1
+Auroraa_,C,2024-3-24 15:51:00,1,180,61,18,1,1
+Auroraa_,F,2024-3-24 17:14:00,1,83,64,31,2,0
+Auroraa_,I,2024-3-24 15:26:00,2,112,45,17,2,1
+Aust_ganjuitta:RajiunNabi AfnanRakib Rafy55,B,2024-3-24 13:40:00,1,60,99,16,1,1
+Aust_ganjuitta:RajiunNabi AfnanRakib Rafy55,C,2024-3-24 16:25:00,1,180,61,18,1,1
+Aust_ganjuitta:RajiunNabi AfnanRakib Rafy55,I,2024-3-24 14:34:00,4,112,45,17,2,1
+Autistic_Gamblers:VinayKalura AshutoshSingh10 Homie_Lander,A,2024-3-24 13:27:00,4,85,59,68,2,0
+Autistic_Gamblers:VinayKalura AshutoshSingh10 Homie_Lander,B,2024-3-24 13:13:00,1,60,99,16,1,1
+Autistic_Gamblers:VinayKalura AshutoshSingh10 Homie_Lander,C,2024-3-24 16:21:00,22,180,61,18,1,1
+Autistic_Gamblers:VinayKalura AshutoshSingh10 Homie_Lander,E,2024-3-24 13:22:00,1,166,36,38,2,0
+Autistic_Gamblers:VinayKalura AshutoshSingh10 Homie_Lander,F,2024-3-24 17:48:00,6,83,64,31,2,0
+Autistic_Gamblers:VinayKalura AshutoshSingh10 Homie_Lander,I,2024-3-24 15:21:00,6,112,45,17,2,1
+AwesomeTeamJr.:thatsramen _VeNoM_ I_Love_Sonechka,B,2024-3-24 14:36:00,1,60,99,16,1,1
+AwesomeTeamJr.:thatsramen _VeNoM_ I_Love_Sonechka,C,2024-3-24 14:42:00,3,180,61,18,1,1
+AwesomeTeamJr.:thatsramen _VeNoM_ I_Love_Sonechka,F,2024-3-24 15:22:00,1,83,64,31,2,1
+AwesomeTeamJr.:thatsramen _VeNoM_ I_Love_Sonechka,I,2024-3-24 13:52:00,2,112,45,17,2,1
+AyuAnchor,B,2024-3-24 13:08:00,1,60,99,16,1,1
+AyuAnchor,C,2024-3-24 17:47:00,5,180,61,18,1,1
+AyuAnchor,I,2024-3-24 14:20:00,4,112,45,17,2,1
+B1tBeast,B,2024-3-24 15:24:00,1,60,99,16,1,0
+BEAST_17,A,2024-3-24 17:26:00,1,85,59,68,2,0
+BEAST_17,B,2024-3-24 13:11:00,1,60,99,16,1,0
+BEAST_17,C,2024-3-24 13:21:00,1,180,61,18,1,0
+BEAST_17,D,2024-3-24 13:28:00,1,228,148,169,2,0
+BEAST_17,F,2024-3-24 13:40:00,1,83,64,31,2,0
+BEAST_17,G,2024-3-24 13:45:00,1,210,141,192,1,0
+BEAST_17,H,2024-3-24 13:46:00,1,202,96,26,2,0
+BEAST_17,I,2024-3-24 13:34:00,1,112,45,17,2,0
+BEAST_17,J,2024-3-24 13:50:00,1,212,145,156,2,0
+BEAST_17,K,2024-3-24 13:52:00,1,96,83,102,2,0
+BINARYBOYS:AK2507 kssabhinav ishaan,B,2024-3-24 15:40:00,2,60,99,16,1,1
+BKDN.Siuuuuuuu:LeHuynhDuc bkdn23._N_H_A_T_,B,2024-3-24 13:32:00,2,60,99,16,1,1
+BKDN.Siuuuuuuu:LeHuynhDuc bkdn23._N_H_A_T_,C,2024-3-24 16:02:00,2,180,61,18,1,0
+BKDN.Siuuuuuuu:LeHuynhDuc bkdn23._N_H_A_T_,I,2024-3-24 15:02:00,3,112,45,17,2,1
+BLUE:ALeonidou Trumling MavrosOplarxigos,B,2024-3-24 13:22:00,1,60,99,16,1,1
+BLUE:ALeonidou Trumling MavrosOplarxigos,C,2024-3-24 14:02:00,1,180,61,18,1,1
+BLUE:ALeonidou Trumling MavrosOplarxigos,E,2024-3-24 15:35:00,4,166,36,38,2,0
+BLUE:ALeonidou Trumling MavrosOplarxigos,F,2024-3-24 15:23:00,1,83,64,31,2,0
+BLUE:ALeonidou Trumling MavrosOplarxigos,I,2024-3-24 14:18:00,2,112,45,17,2,0
+BabYbuiii,B,2024-3-24 14:29:00,1,60,99,16,1,0
+BabyPenguin:mo_onrabbit2 Worteltje Retro3014,A,2024-3-24 16:27:00,8,85,59,68,2,1
+BabyPenguin:mo_onrabbit2 Worteltje Retro3014,B,2024-3-24 13:21:00,1,60,99,16,1,1
+BabyPenguin:mo_onrabbit2 Worteltje Retro3014,C,2024-3-24 13:34:00,2,180,61,18,1,1
+BabyPenguin:mo_onrabbit2 Worteltje Retro3014,D,2024-3-24 16:38:00,1,228,148,169,2,1
+BabyPenguin:mo_onrabbit2 Worteltje Retro3014,F,2024-3-24 13:56:00,2,83,64,31,2,1
+BabyPenguin:mo_onrabbit2 Worteltje Retro3014,G,2024-3-24 14:37:00,2,210,141,192,1,1
+BabyPenguin:mo_onrabbit2 Worteltje Retro3014,I,2024-3-24 13:36:00,3,112,45,17,2,1
+BabyPenguin:mo_onrabbit2 Worteltje Retro3014,J,2024-3-24 17:59:00,12,212,145,156,2,0
+Babylon:kematian cemil1234,B,2024-3-24 17:59:00,8,60,99,16,1,0
+Babylon:kematian cemil1234,C,2024-3-24 17:42:00,4,180,61,18,1,1
+Babylon:kematian cemil1234,I,2024-3-24 17:49:00,7,112,45,17,2,0
+Bahubali:Grylls anubhav38 tushit1419,B,2024-3-24 14:34:00,3,60,99,16,1,1
+Bahubali:Grylls anubhav38 tushit1419,I,2024-3-24 17:56:00,5,112,45,17,2,0
+Bala_krishna,B,2024-3-24 13:52:00,2,60,99,16,1,0
+BendoWasTaken,B,2024-3-24 15:11:00,1,60,99,16,1,1
+BendoWasTaken,C,2024-3-24 14:42:00,4,180,61,18,1,1
+BendoWasTaken,G,2024-3-24 17:59:00,4,210,141,192,1,0
+BendoWasTaken,I,2024-3-24 17:43:00,11,112,45,17,2,1
+BeyondThreeWolves:Kevin114514 CrTsIr Atomic-Jellyfish,A,2024-3-24 17:59:00,2,85,59,68,2,0
+BeyondThreeWolves:Kevin114514 CrTsIr Atomic-Jellyfish,B,2024-3-24 13:13:00,1,60,99,16,1,1
+BeyondThreeWolves:Kevin114514 CrTsIr Atomic-Jellyfish,C,2024-3-24 13:47:00,2,180,61,18,1,1
+BeyondThreeWolves:Kevin114514 CrTsIr Atomic-Jellyfish,D,2024-3-24 16:36:00,6,228,148,169,2,1
+BeyondThreeWolves:Kevin114514 CrTsIr Atomic-Jellyfish,E,2024-3-24 14:48:00,17,166,36,38,2,1
+BeyondThreeWolves:Kevin114514 CrTsIr Atomic-Jellyfish,F,2024-3-24 14:35:00,2,83,64,31,2,1
+BeyondThreeWolves:Kevin114514 CrTsIr Atomic-Jellyfish,G,2024-3-24 14:52:00,1,210,141,192,1,1
+BeyondThreeWolves:Kevin114514 CrTsIr Atomic-Jellyfish,H,2024-3-24 14:20:00,3,202,96,26,2,0
+BeyondThreeWolves:Kevin114514 CrTsIr Atomic-Jellyfish,I,2024-3-24 13:22:00,1,112,45,17,2,1
+BeyondThreeWolves:Kevin114514 CrTsIr Atomic-Jellyfish,J,2024-3-24 15:11:00,2,212,145,156,2,1
+BeyondThreeWolves:Kevin114514 CrTsIr Atomic-Jellyfish,K,2024-3-24 17:25:00,3,96,83,102,2,1
+Bhindi_ke_Parathe:Mr_Blind Aryan_Sehrawat KunalSinghChauhan,B,2024-3-24 13:59:00,3,60,99,16,1,1
+Bhindi_ke_Parathe:Mr_Blind Aryan_Sehrawat KunalSinghChauhan,C,2024-3-24 15:53:00,2,180,61,18,1,1
+Bhindi_ke_Parathe:Mr_Blind Aryan_Sehrawat KunalSinghChauhan,I,2024-3-24 14:50:00,4,112,45,17,2,0
+BigFlow,B,2024-3-24 17:13:00,1,60,99,16,1,1
+Bilal.Coder,B,2024-3-24 13:31:00,6,60,99,16,1,0
+BitShifters:daksh_arora DeepakPrajapati brajesh_muwel17,B,2024-3-24 14:10:00,2,60,99,16,1,1
+BitShifters:daksh_arora DeepakPrajapati brajesh_muwel17,C,2024-3-24 17:07:00,8,180,61,18,1,1
+BitShifters:daksh_arora DeepakPrajapati brajesh_muwel17,I,2024-3-24 15:32:00,4,112,45,17,2,1
+Blueawa,B,2024-3-24 13:28:00,1,60,99,16,1,1
+Blueawa,I,2024-3-24 16:23:00,3,112,45,17,2,0
+Boboge,B,2024-3-24 13:27:00,1,60,99,16,1,1
+Boboge,C,2024-3-24 14:23:00,1,180,61,18,1,1
+Boboge,F,2024-3-24 16:40:00,5,83,64,31,2,1
+Boboge,G,2024-3-24 17:31:00,1,210,141,192,1,0
+Boboge,I,2024-3-24 13:44:00,1,112,45,17,2,1
+BreakTheStreak:ho-oh Rushit27 m4nd4lori4n,A,2024-3-24 14:56:00,1,85,59,68,2,0
+BreakTheStreak:ho-oh Rushit27 m4nd4lori4n,B,2024-3-24 13:18:00,1,60,99,16,1,1
+BreakTheStreak:ho-oh Rushit27 m4nd4lori4n,C,2024-3-24 14:22:00,2,180,61,18,1,1
+BreakTheStreak:ho-oh Rushit27 m4nd4lori4n,F,2024-3-24 16:20:00,1,83,64,31,2,0
+BreakTheStreak:ho-oh Rushit27 m4nd4lori4n,I,2024-3-24 14:04:00,3,112,45,17,2,1
+Break_The_Limits:dwngng16012009 phucdao2789 chikien2009,B,2024-3-24 13:49:00,1,60,99,16,1,1
+Break_The_Limits:dwngng16012009 phucdao2789 chikien2009,I,2024-3-24 14:22:00,2,112,45,17,2,0
+Brodasfromereen:Enkh-Ochir surenjamts Dedibeat,B,2024-3-24 13:49:00,1,60,99,16,1,1
+Brodasfromereen:Enkh-Ochir surenjamts Dedibeat,C,2024-3-24 15:39:00,1,180,61,18,1,1
+Brodasfromereen:Enkh-Ochir surenjamts Dedibeat,I,2024-3-24 16:02:00,8,112,45,17,2,1
+BrotherCall,F,2024-3-24 17:35:00,2,83,64,31,2,1
+BusyBeaverAlgorithmenthusiasts:MrAndria TsotneSV Nika533,A,2024-3-24 13:33:00,2,85,59,68,2,0
+BusyBeaverAlgorithmenthusiasts:MrAndria TsotneSV Nika533,B,2024-3-24 15:01:00,2,60,99,16,1,1
+BusyBeaverAlgorithmenthusiasts:MrAndria TsotneSV Nika533,C,2024-3-24 16:17:00,2,180,61,18,1,1
+BusyBeaverAlgorithmenthusiasts:MrAndria TsotneSV Nika533,I,2024-3-24 14:10:00,3,112,45,17,2,1
+Bytes:shibs_22 ayuxh_11 lakshcodes01,B,2024-3-24 13:27:00,1,60,99,16,1,0
+CJLUjly:YangHan zxypp kokoloo,B,2024-3-24 13:25:00,1,60,99,16,1,1
+CJLUjly:YangHan zxypp kokoloo,C,2024-3-24 15:13:00,1,180,61,18,1,1
+CJLUjly:YangHan zxypp kokoloo,F,2024-3-24 17:55:00,8,83,64,31,2,0
+CJLUjly:YangHan zxypp kokoloo,I,2024-3-24 14:46:00,6,112,45,17,2,1
+COVI,D,2024-3-24 14:32:00,2,228,148,169,2,1
+CSEC:manushajella243 Yamini_88 saikishore1611,A,2024-3-24 13:11:00,3,85,59,68,2,0
+CSEC:manushajella243 Yamini_88 saikishore1611,B,2024-3-24 13:23:00,7,60,99,16,1,0
+CSEC:manushajella243 Yamini_88 saikishore1611,C,2024-3-24 13:55:00,4,180,61,18,1,0
+CSEC:manushajella243 Yamini_88 saikishore1611,K,2024-3-24 13:53:00,7,96,83,102,2,0
+CSECBoys:kjayashankar ravikumar4579 bvnmahesh2004,B,2024-3-24 13:48:00,1,60,99,16,1,0
+CSECBoys:kjayashankar ravikumar4579 bvnmahesh2004,C,2024-3-24 13:15:00,1,180,61,18,1,0
+CUET_BlackHawkDown:_Alamin_Bhuiyan_ -Rafid- RAB,B,2024-3-24 13:10:00,1,60,99,16,1,1
+CUET_BlackHawkDown:_Alamin_Bhuiyan_ -Rafid- RAB,C,2024-3-24 15:05:00,4,180,61,18,1,1
+CUET_BlackHawkDown:_Alamin_Bhuiyan_ -Rafid- RAB,F,2024-3-24 15:50:00,1,83,64,31,2,0
+CUET_BlackHawkDown:_Alamin_Bhuiyan_ -Rafid- RAB,I,2024-3-24 14:09:00,3,112,45,17,2,1
+Captaintakeme!:crazy_sea A_zjzj 275307894a,A,2024-3-24 15:46:00,1,85,59,68,2,1
+Captaintakeme!:crazy_sea A_zjzj 275307894a,B,2024-3-24 13:15:00,1,60,99,16,1,1
+Captaintakeme!:crazy_sea A_zjzj 275307894a,C,2024-3-24 13:07:00,1,180,61,18,1,1
+Captaintakeme!:crazy_sea A_zjzj 275307894a,D,2024-3-24 14:39:00,4,228,148,169,2,1
+Captaintakeme!:crazy_sea A_zjzj 275307894a,E,2024-3-24 17:59:00,7,166,36,38,2,0
+Captaintakeme!:crazy_sea A_zjzj 275307894a,F,2024-3-24 13:11:00,2,83,64,31,2,1
+Captaintakeme!:crazy_sea A_zjzj 275307894a,G,2024-3-24 15:18:00,1,210,141,192,1,1
+Captaintakeme!:crazy_sea A_zjzj 275307894a,H,2024-3-24 17:59:00,1,202,96,26,2,0
+Captaintakeme!:crazy_sea A_zjzj 275307894a,I,2024-3-24 13:39:00,2,112,45,17,2,1
+Captaintakeme!:crazy_sea A_zjzj 275307894a,J,2024-3-24 16:12:00,1,212,145,156,2,1
+Captaintakeme!:crazy_sea A_zjzj 275307894a,K,2024-3-24 15:06:00,3,96,83,102,2,1
+Carrie2718,B,2024-3-24 13:30:00,1,60,99,16,1,0
+CedricAir,B,2024-3-24 14:10:00,2,60,99,16,1,0
+Charan_005,B,2024-3-24 13:14:00,1,60,99,16,1,1
+Charan_005,I,2024-3-24 16:43:00,3,112,45,17,2,0
+Chenn,B,2024-3-24 17:58:00,2,60,99,16,1,0
+ChilliPotato:quad_wipe nvkoushik,B,2024-3-24 15:42:00,1,60,99,16,1,0
+ChipsKhaar:Nimazm33 orgonah Pouriadia,I,2024-3-24 17:00:00,2,112,45,17,2,1
+CodeSnatcher:sahilkumar_1 PROELECTRO444 targeter2004,B,2024-3-24 13:56:00,1,60,99,16,1,1
+CodeSnatcher:sahilkumar_1 PROELECTRO444 targeter2004,C,2024-3-24 17:57:00,13,180,61,18,1,1
+CodeSnatcher:sahilkumar_1 PROELECTRO444 targeter2004,F,2024-3-24 16:22:00,8,83,64,31,2,1
+CodeSnatcher:sahilkumar_1 PROELECTRO444 targeter2004,I,2024-3-24 13:46:00,1,112,45,17,2,1
+CodeX1313,B,2024-3-24 17:48:00,2,60,99,16,1,0
+CodeX1313,C,2024-3-24 17:50:00,1,180,61,18,1,0
+Code_IITP,B,2024-3-24 14:42:00,1,60,99,16,1,1
+Code_IITP,I,2024-3-24 15:07:00,3,112,45,17,2,0
+Codentia:ankitnayek700 fortissimum_codentia TuhinPramanik,B,2024-3-24 14:31:00,1,60,99,16,1,0
+Coderx:India:Saurx9611 VanshRA ayuxhkumxr22,B,2024-3-24 13:50:00,1,60,99,16,1,1
+Coderx:India:Saurx9611 VanshRA ayuxhkumxr22,C,2024-3-24 16:34:00,1,180,61,18,1,1
+Coderx:India:Saurx9611 VanshRA ayuxhkumxr22,I,2024-3-24 15:28:00,1,112,45,17,2,1
+Cojingman,B,2024-3-24 14:26:00,1,60,99,16,1,0
+ColinandEva:WINE SGColin,B,2024-3-24 14:19:00,2,60,99,16,1,1
+ColinandEva:WINE SGColin,C,2024-3-24 14:42:00,1,180,61,18,1,1
+ColinandEva:WINE SGColin,F,2024-3-24 15:45:00,5,83,64,31,2,1
+ColinandEva:WINE SGColin,G,2024-3-24 17:59:00,5,210,141,192,1,0
+ColinandEva:WINE SGColin,I,2024-3-24 15:04:00,4,112,45,17,2,1
+ColinandEva:WINE SGColin,J,2024-3-24 17:53:00,7,212,145,156,2,0
+CultCouncil:AKSLEGION D1orite shorya1835,A,2024-3-24 13:45:00,2,85,59,68,2,0
+CultCouncil:AKSLEGION D1orite shorya1835,C,2024-3-24 15:07:00,1,180,61,18,1,1
+CultCouncil:AKSLEGION D1orite shorya1835,F,2024-3-24 15:56:00,9,83,64,31,2,1
+CultCouncil:AKSLEGION D1orite shorya1835,I,2024-3-24 13:34:00,5,112,45,17,2,1
+DSP:DonutMaster Six_Seconds pagol,B,2024-3-24 13:24:00,3,60,99,16,1,1
+DSP:DonutMaster Six_Seconds pagol,C,2024-3-24 17:06:00,6,180,61,18,1,0
+DSP:DonutMaster Six_Seconds pagol,E,2024-3-24 15:38:00,7,166,36,38,2,0
+DSP:DonutMaster Six_Seconds pagol,F,2024-3-24 14:59:00,8,83,64,31,2,0
+DSP:DonutMaster Six_Seconds pagol,G,2024-3-24 14:48:00,5,210,141,192,1,1
+DSP:DonutMaster Six_Seconds pagol,H,2024-3-24 15:13:00,1,202,96,26,2,0
+DSP:DonutMaster Six_Seconds pagol,K,2024-3-24 13:16:00,1,96,83,102,2,0
+Da3IslamMohsen:IsaacMoris Mostafa_ELbadawy TripleM5da,A,2024-3-24 13:11:00,1,85,59,68,2,0
+Da3IslamMohsen:IsaacMoris Mostafa_ELbadawy TripleM5da,B,2024-3-24 13:14:00,2,60,99,16,1,1
+Da3IslamMohsen:IsaacMoris Mostafa_ELbadawy TripleM5da,C,2024-3-24 14:06:00,1,180,61,18,1,1
+Da3IslamMohsen:IsaacMoris Mostafa_ELbadawy TripleM5da,D,2024-3-24 14:52:00,4,228,148,169,2,0
+Da3IslamMohsen:IsaacMoris Mostafa_ELbadawy TripleM5da,E,2024-3-24 17:40:00,7,166,36,38,2,0
+Da3IslamMohsen:IsaacMoris Mostafa_ELbadawy TripleM5da,F,2024-3-24 13:56:00,1,83,64,31,2,1
+Da3IslamMohsen:IsaacMoris Mostafa_ELbadawy TripleM5da,G,2024-3-24 16:00:00,4,210,141,192,1,1
+Da3IslamMohsen:IsaacMoris Mostafa_ELbadawy TripleM5da,I,2024-3-24 13:31:00,2,112,45,17,2,1
+Da3IslamMohsen:IsaacMoris Mostafa_ELbadawy TripleM5da,K,2024-3-24 17:39:00,9,96,83,102,2,0
+Daman2461,A,2024-3-24 14:38:00,2,85,59,68,2,0
+Daman2461,B,2024-3-24 15:02:00,6,60,99,16,1,0
+DarhanGang:turbileg1 sumyabazarbayarkhuu93 amaruu,B,2024-3-24 13:21:00,1,60,99,16,1,1
+DarhanGang:turbileg1 sumyabazarbayarkhuu93 amaruu,I,2024-3-24 14:44:00,6,112,45,17,2,0
+Div4_enjoyer,B,2024-3-24 16:04:00,1,60,99,16,1,1
+Div4_enjoyer,I,2024-3-24 16:36:00,1,112,45,17,2,1
+DivyanshMalviya,B,2024-3-24 13:56:00,2,60,99,16,1,0
+DostSaanpNikle:nishant1520,B,2024-3-24 13:52:00,1,60,99,16,1,1
+Doub1eTeam:Double_2 bladeehl Ar1hant,B,2024-3-24 16:38:00,6,60,99,16,1,1
+Doub1eTeam:Double_2 bladeehl Ar1hant,I,2024-3-24 14:27:00,4,112,45,17,2,0
+Dr.CHAMPIONSTEIN,B,2024-3-24 14:27:00,1,60,99,16,1,1
+Dr.CHAMPIONSTEIN,C,2024-3-24 16:32:00,1,180,61,18,1,0
+Dr.CHAMPIONSTEIN,I,2024-3-24 15:16:00,3,112,45,17,2,1
+Driss_Tahp247,C,2024-3-24 13:25:00,1,180,61,18,1,0
+ENITiation:Raed888 Algorithm_Architect MahdyTN,I,2024-3-24 14:41:00,8,112,45,17,2,0
+EPTimisation:abdouBR eyadhjarray111,B,2024-3-24 13:17:00,1,60,99,16,1,1
+EPTimisation:abdouBR eyadhjarray111,C,2024-3-24 13:55:00,1,180,61,18,1,1
+EPTimisation:abdouBR eyadhjarray111,F,2024-3-24 17:58:00,20,83,64,31,2,0
+EPTimisation:abdouBR eyadhjarray111,I,2024-3-24 13:38:00,1,112,45,17,2,1
+EZPZ:h_squared secresearch1979,B,2024-3-24 13:16:00,1,60,99,16,1,1
+EZPZ:h_squared secresearch1979,I,2024-3-24 13:39:00,3,112,45,17,2,1
+Eager_for_progress,B,2024-3-24 15:35:00,7,60,99,16,1,0
+Edge_cfspt,I,2024-3-24 14:27:00,14,112,45,17,2,0
+El-Nebo,B,2024-3-24 13:46:00,1,60,99,16,1,1
+El-Nebo,I,2024-3-24 14:03:00,3,112,45,17,2,0
+Enigma:Char_Enigma String_Enigma Int_Enigma,B,2024-3-24 13:27:00,1,60,99,16,1,1
+Enigma:Char_Enigma String_Enigma Int_Enigma,C,2024-3-24 14:53:00,6,180,61,18,1,1
+Enigma:Char_Enigma String_Enigma Int_Enigma,F,2024-3-24 16:24:00,9,83,64,31,2,0
+Enigma:Char_Enigma String_Enigma Int_Enigma,I,2024-3-24 15:06:00,2,112,45,17,2,0
+EpsilonDelta03,B,2024-3-24 14:58:00,2,60,99,16,1,0
+Eti:TuranEl HTLM,B,2024-3-24 15:06:00,3,60,99,16,1,1
+Eti:TuranEl HTLM,K,2024-3-24 14:53:00,11,96,83,102,2,0
+F0lse,B,2024-3-24 16:00:00,1,60,99,16,1,1
+F0lse,C,2024-3-24 17:17:00,1,180,61,18,1,1
+FINKI:Mystic03 hipo,B,2024-3-24 16:39:00,5,60,99,16,1,1
+FINKI:Mystic03 hipo,C,2024-3-24 14:24:00,1,180,61,18,1,1
+FINKI:Mystic03 hipo,F,2024-3-24 17:19:00,8,83,64,31,2,0
+FINKI:Mystic03 hipo,I,2024-3-24 17:59:00,11,112,45,17,2,0
+FIorian,B,2024-3-24 13:16:00,1,60,99,16,1,1
+FIorian,C,2024-3-24 14:28:00,1,180,61,18,1,1
+FIorian,F,2024-3-24 15:53:00,3,83,64,31,2,1
+FIorian,G,2024-3-24 17:16:00,10,210,141,192,1,1
+FIorian,I,2024-3-24 14:03:00,2,112,45,17,2,0
+FKXQSVW50:F7487 wgszcz kakaisjr,B,2024-3-24 13:48:00,1,60,99,16,1,1
+FKXQSVW50:F7487 wgszcz kakaisjr,C,2024-3-24 14:34:00,1,180,61,18,1,1
+FKXQSVW50:F7487 wgszcz kakaisjr,G,2024-3-24 17:46:00,4,210,141,192,1,1
+FKXQSVW50:F7487 wgszcz kakaisjr,I,2024-3-24 17:54:00,4,112,45,17,2,0
+Failures:akshaykhandelwal Immerser harsh__h,B,2024-3-24 13:29:00,1,60,99,16,1,1
+Failures:akshaykhandelwal Immerser harsh__h,C,2024-3-24 14:38:00,1,180,61,18,1,1
+Failures:akshaykhandelwal Immerser harsh__h,F,2024-3-24 15:34:00,4,83,64,31,2,0
+Failures:akshaykhandelwal Immerser harsh__h,I,2024-3-24 13:53:00,2,112,45,17,2,0
+Failures:akshaykhandelwal Immerser harsh__h,K,2024-3-24 17:02:00,1,96,83,102,2,0
+Faiz-Ul-Rehman,I,2024-3-24 13:34:00,1,112,45,17,2,0
+FansofPurin:GStnt purinliang,B,2024-3-24 16:16:00,1,60,99,16,1,1
+FansofPurin:GStnt purinliang,C,2024-3-24 17:51:00,1,180,61,18,1,1
+FansofPurin:GStnt purinliang,I,2024-3-24 17:33:00,7,112,45,17,2,1
+FinalForce:brainsoft Ultr4_Instinct,B,2024-3-24 17:32:00,4,60,99,16,1,0
+First786,A,2024-3-24 17:54:00,1,85,59,68,2,0
+FlamingPotatoes:Nurq1309 Xanlar2009,B,2024-3-24 13:52:00,4,60,99,16,1,0
+FlamingPotatoes:Nurq1309 Xanlar2009,E,2024-3-24 14:40:00,1,166,36,38,2,0
+FlyingFeather,B,2024-3-24 13:54:00,1,60,99,16,1,1
+FlyingFeather,C,2024-3-24 17:59:00,1,180,61,18,1,1
+FlyingFeather,I,2024-3-24 16:11:00,3,112,45,17,2,1
+Forcegoto,B,2024-3-24 13:43:00,3,60,99,16,1,0
+Freeuni1:vanogam khokho baqargam,B,2024-3-24 14:04:00,2,60,99,16,1,1
+Freeuni1:vanogam khokho baqargam,C,2024-3-24 13:56:00,1,180,61,18,1,1
+Freeuni1:vanogam khokho baqargam,D,2024-3-24 16:58:00,3,228,148,169,2,1
+Freeuni1:vanogam khokho baqargam,F,2024-3-24 14:18:00,2,83,64,31,2,1
+Freeuni1:vanogam khokho baqargam,G,2024-3-24 15:58:00,1,210,141,192,1,1
+Freeuni1:vanogam khokho baqargam,I,2024-3-24 13:16:00,1,112,45,17,2,1
+Freeuni1:vanogam khokho baqargam,J,2024-3-24 17:56:00,4,212,145,156,2,1
+Friends:_fariddun_2012_ Mr_dd_Fazik FirdavS_2011,A,2024-3-24 13:35:00,2,85,59,68,2,0
+FromTheHood:Raul2008487 TheSahib dmraykhan,B,2024-3-24 13:49:00,1,60,99,16,1,1
+FromTheHood:Raul2008487 TheSahib dmraykhan,C,2024-3-24 15:02:00,3,180,61,18,1,1
+FromTheHood:Raul2008487 TheSahib dmraykhan,F,2024-3-24 17:32:00,9,83,64,31,2,1
+FromTheHood:Raul2008487 TheSahib dmraykhan,I,2024-3-24 14:31:00,3,112,45,17,2,1
+Full_House,E,2024-3-24 14:20:00,1,166,36,38,2,0
+Fyx,C,2024-3-24 14:03:00,1,180,61,18,1,1
+GM_in_multiverse:S7even Uranium_238 Radioactive_10,C,2024-3-24 15:44:00,3,180,61,18,1,0
+GMode,B,2024-3-24 13:24:00,1,60,99,16,1,1
+GMode,C,2024-3-24 16:05:00,1,180,61,18,1,1
+GMode,I,2024-3-24 16:41:00,4,112,45,17,2,1
+GPlatinumG,A,2024-3-24 14:17:00,1,85,59,68,2,0
+GanduCoders:sudhanshukumarsingh2021 shivam_tractors shekhar1608,B,2024-3-24 14:52:00,2,60,99,16,1,1
+GehadTahoon,B,2024-3-24 16:38:00,3,60,99,16,1,0
+Genshin_Impact_Team:zhouqixuan1 Gold14526,B,2024-3-24 14:08:00,1,60,99,16,1,1
+Genshin_Impact_Team:zhouqixuan1 Gold14526,F,2024-3-24 14:25:00,1,83,64,31,2,1
+Genshin_Impact_Team:zhouqixuan1 Gold14526,G,2024-3-24 14:55:00,2,210,141,192,1,1
+Genshin_Impact_Team:zhouqixuan1 Gold14526,J,2024-3-24 17:52:00,6,212,145,156,2,0
+GhostisToast,B,2024-3-24 16:10:00,2,60,99,16,1,0
+Glebegor,B,2024-3-24 17:38:00,4,60,99,16,1,0
+Gooobruh:_Rise May_27th,B,2024-3-24 14:11:00,2,60,99,16,1,1
+Gooobruh:_Rise May_27th,C,2024-3-24 14:10:00,1,180,61,18,1,1
+Gooobruh:_Rise May_27th,E,2024-3-24 17:58:00,5,166,36,38,2,0
+Gooobruh:_Rise May_27th,F,2024-3-24 17:58:00,35,83,64,31,2,0
+Gooobruh:_Rise May_27th,I,2024-3-24 16:00:00,4,112,45,17,2,1
+Gowtham_Raj24,B,2024-3-24 16:44:00,3,60,99,16,1,0
+Gryffindor:Bitmask-0 smit_384 Harshit_Chordiya,A,2024-3-24 14:43:00,2,85,59,68,2,0
+Gryffindor:Bitmask-0 smit_384 Harshit_Chordiya,B,2024-3-24 14:24:00,3,60,99,16,1,1
+Gryffindor:Bitmask-0 smit_384 Harshit_Chordiya,I,2024-3-24 15:51:00,5,112,45,17,2,0
+GuanLin,B,2024-3-24 17:01:00,4,60,99,16,1,0
+GuanLin,F,2024-3-24 16:56:00,10,83,64,31,2,0
+Gubanes,E,2024-3-24 14:15:00,6,166,36,38,2,0
+GurpreetSingh9813,A,2024-3-24 16:14:00,1,85,59,68,2,0
+GurpreetSingh9813,B,2024-3-24 16:15:00,1,60,99,16,1,0
+GurpreetSingh9813,C,2024-3-24 16:17:00,1,180,61,18,1,0
+GurpreetSingh9813,D,2024-3-24 16:18:00,1,228,148,169,2,0
+GurpreetSingh9813,E,2024-3-24 16:19:00,1,166,36,38,2,0
+GurpreetSingh9813,F,2024-3-24 16:22:00,1,83,64,31,2,0
+GurpreetSingh9813,G,2024-3-24 16:23:00,1,210,141,192,1,0
+GurpreetSingh9813,H,2024-3-24 16:24:00,1,202,96,26,2,0
+GurpreetSingh9813,J,2024-3-24 16:25:00,1,212,145,156,2,0
+GurpreetSingh9813,K,2024-3-24 16:25:00,1,96,83,102,2,0
+HCMUTE.Fortune:lamduybao03 canhnam357,B,2024-3-24 13:42:00,1,60,99,16,1,1
+HCMUTE.Fortune:lamduybao03 canhnam357,C,2024-3-24 15:31:00,4,180,61,18,1,1
+HCMUTE.Fortune:lamduybao03 canhnam357,D,2024-3-24 17:56:00,4,228,148,169,2,0
+HCMUTE.Fortune:lamduybao03 canhnam357,F,2024-3-24 14:22:00,5,83,64,31,2,1
+HCMUTE.Fortune:lamduybao03 canhnam357,G,2024-3-24 16:29:00,1,210,141,192,1,1
+HCMUTE.Fortune:lamduybao03 canhnam357,I,2024-3-24 13:34:00,2,112,45,17,2,1
+HCMUTE.Fortune:lamduybao03 canhnam357,J,2024-3-24 17:53:00,13,212,145,156,2,0
+HITESHDUTT947,E,2024-3-24 17:55:00,1,166,36,38,2,0
+HSE:FFTilted:Kirill22 Ormlis,A,2024-3-24 17:59:00,16,85,59,68,2,0
+HSE:FFTilted:Kirill22 Ormlis,B,2024-3-24 13:20:00,4,60,99,16,1,1
+HSE:FFTilted:Kirill22 Ormlis,C,2024-3-24 13:58:00,2,180,61,18,1,1
+HSE:FFTilted:Kirill22 Ormlis,D,2024-3-24 16:14:00,6,228,148,169,2,1
+HSE:FFTilted:Kirill22 Ormlis,E,2024-3-24 17:12:00,13,166,36,38,2,1
+HSE:FFTilted:Kirill22 Ormlis,F,2024-3-24 13:50:00,3,83,64,31,2,1
+HSE:FFTilted:Kirill22 Ormlis,G,2024-3-24 14:34:00,1,210,141,192,1,1
+HSE:FFTilted:Kirill22 Ormlis,H,2024-3-24 16:53:00,4,202,96,26,2,0
+HSE:FFTilted:Kirill22 Ormlis,I,2024-3-24 13:07:00,1,112,45,17,2,1
+HSE:FFTilted:Kirill22 Ormlis,J,2024-3-24 15:05:00,1,212,145,156,2,1
+HSE:FFTilted:Kirill22 Ormlis,K,2024-3-24 15:41:00,1,96,83,102,2,1
+HadLovedACM:LYYY Youhezhen sunzhihong,B,2024-3-24 13:36:00,1,60,99,16,1,1
+HadLovedACM:LYYY Youhezhen sunzhihong,C,2024-3-24 17:10:00,2,180,61,18,1,1
+HadLovedACM:LYYY Youhezhen sunzhihong,D,2024-3-24 17:58:00,8,228,148,169,2,1
+HadLovedACM:LYYY Youhezhen sunzhihong,F,2024-3-24 14:29:00,3,83,64,31,2,1
+HadLovedACM:LYYY Youhezhen sunzhihong,G,2024-3-24 16:27:00,6,210,141,192,1,1
+HadLovedACM:LYYY Youhezhen sunzhihong,I,2024-3-24 14:41:00,4,112,45,17,2,1
+HadLovedACM:LYYY Youhezhen sunzhihong,J,2024-3-24 17:23:00,5,212,145,156,2,1
+Haisar,B,2024-3-24 13:12:00,1,60,99,16,1,1
+Haisar,I,2024-3-24 14:44:00,8,112,45,17,2,0
+Haldiram:Rajat31 puneetks1920 CaffeineCompiler,B,2024-3-24 16:19:00,1,60,99,16,1,0
+Haldiram:Rajat31 puneetks1920 CaffeineCompiler,F,2024-3-24 17:20:00,1,83,64,31,2,0
+Haldiram:Rajat31 puneetks1920 CaffeineCompiler,K,2024-3-24 14:17:00,1,96,83,102,2,0
+Hanahoe:shy_orz swiftc,A,2024-3-24 13:13:00,1,85,59,68,2,0
+Hanahoe:shy_orz swiftc,B,2024-3-24 13:22:00,1,60,99,16,1,1
+Hanahoe:shy_orz swiftc,C,2024-3-24 14:57:00,1,180,61,18,1,1
+Hanahoe:shy_orz swiftc,D,2024-3-24 16:39:00,1,228,148,169,2,1
+Hanahoe:shy_orz swiftc,F,2024-3-24 13:56:00,1,83,64,31,2,1
+Hanahoe:shy_orz swiftc,G,2024-3-24 15:07:00,2,210,141,192,1,1
+Hanahoe:shy_orz swiftc,I,2024-3-24 14:28:00,6,112,45,17,2,1
+Hanahoe:shy_orz swiftc,J,2024-3-24 17:43:00,3,212,145,156,2,0
+Handsome2004,B,2024-3-24 13:11:00,2,60,99,16,1,1
+Handsome2004,C,2024-3-24 14:04:00,2,180,61,18,1,1
+Handsome2004,D,2024-3-24 14:53:00,2,228,148,169,2,1
+Handsome2004,F,2024-3-24 17:30:00,16,83,64,31,2,1
+Handsome2004,G,2024-3-24 16:09:00,1,210,141,192,1,1
+Handsome2004,H,2024-3-24 17:49:00,3,202,96,26,2,0
+Hangter2,A,2024-3-24 15:17:00,2,85,59,68,2,0
+Hangter2,B,2024-3-24 15:15:00,1,60,99,16,1,0
+Hangter2,C,2024-3-24 15:15:00,1,180,61,18,1,0
+Hangter2,D,2024-3-24 15:15:00,1,228,148,169,2,0
+Hangter2,E,2024-3-24 15:15:00,1,166,36,38,2,0
+Hangter2,F,2024-3-24 15:16:00,1,83,64,31,2,0
+HarhsSoni,F,2024-3-24 16:25:00,2,83,64,31,2,0
+Harsh_Dhoke,A,2024-3-24 16:47:00,1,85,59,68,2,0
+HeckerHats:Adith1000 tarancodes harshrajivjain10,B,2024-3-24 13:49:00,4,60,99,16,1,0
+HeckerHats:Adith1000 tarancodes harshrajivjain10,F,2024-3-24 15:07:00,4,83,64,31,2,0
+HereWeGAU:itsniklas pwolle xxxodarap,B,2024-3-24 13:30:00,3,60,99,16,1,1
+HereWeGAU:itsniklas pwolle xxxodarap,C,2024-3-24 16:47:00,25,180,61,18,1,1
+HereWeGAU:itsniklas pwolle xxxodarap,G,2024-3-24 17:52:00,2,210,141,192,1,1
+HereWeGAU:itsniklas pwolle xxxodarap,I,2024-3-24 15:38:00,4,112,45,17,2,1
+HowToWaste5Hours:BrotherHong 7ms Yufi1210,B,2024-3-24 13:29:00,1,60,99,16,1,1
+HowToWaste5Hours:BrotherHong 7ms Yufi1210,C,2024-3-24 14:04:00,1,180,61,18,1,1
+HowToWaste5Hours:BrotherHong 7ms Yufi1210,F,2024-3-24 15:14:00,2,83,64,31,2,1
+HowToWaste5Hours:BrotherHong 7ms Yufi1210,G,2024-3-24 16:58:00,2,210,141,192,1,1
+HowToWaste5Hours:BrotherHong 7ms Yufi1210,I,2024-3-24 13:52:00,2,112,45,17,2,1
+Hrithik001,B,2024-3-24 14:30:00,1,60,99,16,1,0
+Huangyf,C,2024-3-24 17:20:00,1,180,61,18,1,1
+Huangyf,I,2024-3-24 16:58:00,10,112,45,17,2,1
+ICPCTeam:jre sancxo.,A,2024-3-24 15:19:00,1,85,59,68,2,0
+ICPCTeam:jre sancxo.,B,2024-3-24 13:57:00,4,60,99,16,1,0
+ICPCTeam:jre sancxo.,C,2024-3-24 15:07:00,1,180,61,18,1,0
+ICPCTeam:jre sancxo.,D,2024-3-24 15:25:00,1,228,148,169,2,0
+ICPCTeam:jre sancxo.,E,2024-3-24 15:36:00,1,166,36,38,2,0
+ICPCTeam:jre sancxo.,F,2024-3-24 15:49:00,3,83,64,31,2,0
+ICPCTeam:jre sancxo.,I,2024-3-24 15:14:00,1,112,45,17,2,0
+IIUC_black_furūsiyya:sam__in07,B,2024-3-24 16:09:00,2,60,99,16,1,0
+ITMOUniversity:pengzoo:DishonoredRighteous iakovlev.zakhar golikovnik,B,2024-3-24 13:10:00,1,60,99,16,1,1
+ITMOUniversity:pengzoo:DishonoredRighteous iakovlev.zakhar golikovnik,C,2024-3-24 13:25:00,1,180,61,18,1,1
+ITMOUniversity:pengzoo:DishonoredRighteous iakovlev.zakhar golikovnik,D,2024-3-24 15:55:00,2,228,148,169,2,1
+ITMOUniversity:pengzoo:DishonoredRighteous iakovlev.zakhar golikovnik,E,2024-3-24 17:59:00,17,166,36,38,2,0
+ITMOUniversity:pengzoo:DishonoredRighteous iakovlev.zakhar golikovnik,F,2024-3-24 15:01:00,2,83,64,31,2,1
+ITMOUniversity:pengzoo:DishonoredRighteous iakovlev.zakhar golikovnik,G,2024-3-24 16:50:00,2,210,141,192,1,1
+ITMOUniversity:pengzoo:DishonoredRighteous iakovlev.zakhar golikovnik,I,2024-3-24 13:23:00,2,112,45,17,2,1
+ITMOUniversity:pengzoo:DishonoredRighteous iakovlev.zakhar golikovnik,J,2024-3-24 16:14:00,4,212,145,156,2,1
+ITMOUniversity:pengzoo:DishonoredRighteous iakovlev.zakhar golikovnik,K,2024-3-24 17:24:00,2,96,83,102,2,1
+IUH.SONDOONG:zeferis thien210105 popi1407,B,2024-3-24 16:15:00,12,60,99,16,1,0
+IUH.SONDOONG:zeferis thien210105 popi1407,I,2024-3-24 14:34:00,2,112,45,17,2,0
+IUT_Bhoboghure:Rapt0r_nj greenbinjack flying_saucer,B,2024-3-24 13:13:00,1,60,99,16,1,1
+IUT_Bhoboghure:Rapt0r_nj greenbinjack flying_saucer,C,2024-3-24 16:55:00,6,180,61,18,1,1
+IUT_Bhoboghure:Rapt0r_nj greenbinjack flying_saucer,E,2024-3-24 14:09:00,5,166,36,38,2,0
+IUT_Bhoboghure:Rapt0r_nj greenbinjack flying_saucer,I,2024-3-24 14:34:00,11,112,45,17,2,1
+Igrade:magga tamajitbuba,B,2024-3-24 13:13:00,1,60,99,16,1,1
+Igrade:magga tamajitbuba,C,2024-3-24 13:43:00,1,180,61,18,1,1
+Igrade:magga tamajitbuba,D,2024-3-24 15:58:00,2,228,148,169,2,1
+Igrade:magga tamajitbuba,F,2024-3-24 14:28:00,1,83,64,31,2,1
+Igrade:magga tamajitbuba,G,2024-3-24 17:19:00,7,210,141,192,1,1
+Igrade:magga tamajitbuba,I,2024-3-24 13:28:00,1,112,45,17,2,1
+Improvis:__KAR_m p4r4d0_x __Davit__,I,2024-3-24 14:13:00,6,112,45,17,2,0
+Indranildgupta,B,2024-3-24 15:57:00,2,60,99,16,1,1
+IrinaDidyk,B,2024-3-24 14:10:00,2,60,99,16,1,1
+IrinaDidyk,I,2024-3-24 14:59:00,4,112,45,17,2,0
+Irmuun.Ch,B,2024-3-24 16:06:00,4,60,99,16,1,1
+Irmuun.Ch,C,2024-3-24 13:49:00,1,180,61,18,1,1
+Irmuun.Ch,G,2024-3-24 15:42:00,4,210,141,192,1,0
+Irmuun.Ch,I,2024-3-24 13:17:00,1,112,45,17,2,1
+Ismail2184,A,2024-3-24 17:44:00,1,85,59,68,2,0
+IñviNcibLe:sarvesh_87 CodeLegendX Coding_lord43,B,2024-3-24 14:00:00,1,60,99,16,1,1
+IñviNcibLe:sarvesh_87 CodeLegendX Coding_lord43,C,2024-3-24 15:03:00,2,180,61,18,1,1
+IñviNcibLe:sarvesh_87 CodeLegendX Coding_lord43,F,2024-3-24 16:18:00,2,83,64,31,2,0
+IñviNcibLe:sarvesh_87 CodeLegendX Coding_lord43,G,2024-3-24 17:59:00,8,210,141,192,1,0
+IñviNcibLe:sarvesh_87 CodeLegendX Coding_lord43,I,2024-3-24 14:41:00,3,112,45,17,2,1
+JOOO1,C,2024-3-24 17:58:00,3,180,61,18,1,0
+JackF被skc杀死了:ship2077 User_Carrot N_z__,A,2024-3-24 15:38:00,11,85,59,68,2,1
+JackF被skc杀死了:ship2077 User_Carrot N_z__,C,2024-3-24 13:27:00,1,180,61,18,1,1
+JackF被skc杀死了:ship2077 User_Carrot N_z__,D,2024-3-24 17:40:00,25,228,148,169,2,1
+JackF被skc杀死了:ship2077 User_Carrot N_z__,E,2024-3-24 15:44:00,14,166,36,38,2,0
+JackF被skc杀死了:ship2077 User_Carrot N_z__,F,2024-3-24 14:33:00,3,83,64,31,2,1
+JackF被skc杀死了:ship2077 User_Carrot N_z__,G,2024-3-24 14:44:00,1,210,141,192,1,1
+JackF被skc杀死了:ship2077 User_Carrot N_z__,I,2024-3-24 13:13:00,2,112,45,17,2,1
+JackF被skc杀死了:ship2077 User_Carrot N_z__,J,2024-3-24 16:37:00,16,212,145,156,2,1
+JackF被skc杀死了:ship2077 User_Carrot N_z__,K,2024-3-24 17:59:00,1,96,83,102,2,0
+JetBrains:PavelKunyavskiy pashka Egor,A,2024-3-24 17:56:00,7,85,59,68,2,0
+JetBrains:PavelKunyavskiy pashka Egor,B,2024-3-24 13:19:00,1,60,99,16,1,1
+JetBrains:PavelKunyavskiy pashka Egor,C,2024-3-24 13:37:00,1,180,61,18,1,1
+JetBrains:PavelKunyavskiy pashka Egor,D,2024-3-24 16:32:00,2,228,148,169,2,1
+JetBrains:PavelKunyavskiy pashka Egor,E,2024-3-24 17:21:00,2,166,36,38,2,0
+JetBrains:PavelKunyavskiy pashka Egor,F,2024-3-24 13:16:00,1,83,64,31,2,1
+JetBrains:PavelKunyavskiy pashka Egor,G,2024-3-24 13:59:00,1,210,141,192,1,1
+JetBrains:PavelKunyavskiy pashka Egor,H,2024-3-24 16:47:00,12,202,96,26,2,1
+JetBrains:PavelKunyavskiy pashka Egor,I,2024-3-24 13:38:00,3,112,45,17,2,1
+JetBrains:PavelKunyavskiy pashka Egor,J,2024-3-24 16:02:00,3,212,145,156,2,1
+JetBrains:PavelKunyavskiy pashka Egor,K,2024-3-24 17:14:00,3,96,83,102,2,0
+JibonjuddheShohid:IamBATMAN1313 AIF_is_carving THK_is_dead,B,2024-3-24 13:18:00,1,60,99,16,1,1
+JibonjuddheShohid:IamBATMAN1313 AIF_is_carving THK_is_dead,C,2024-3-24 17:59:00,13,180,61,18,1,0
+JibonjuddheShohid:IamBATMAN1313 AIF_is_carving THK_is_dead,I,2024-3-24 14:37:00,5,112,45,17,2,1
+JourneyfromNewbie:dip0123 UniqueMurad shajjadulferdous,B,2024-3-24 14:42:00,2,60,99,16,1,0
+JugaadLogic:Harry_03 AS23,A,2024-3-24 17:57:00,6,85,59,68,2,0
+JugaadLogic:Harry_03 AS23,B,2024-3-24 13:48:00,1,60,99,16,1,1
+JugaadLogic:Harry_03 AS23,C,2024-3-24 15:33:00,2,180,61,18,1,1
+JugaadLogic:Harry_03 AS23,I,2024-3-24 15:26:00,3,112,45,17,2,1
+JustasZ,B,2024-3-24 13:19:00,2,60,99,16,1,1
+JustasZ,C,2024-3-24 14:58:00,3,180,61,18,1,1
+JustasZ,G,2024-3-24 17:46:00,1,210,141,192,1,0
+JustasZ,I,2024-3-24 14:06:00,6,112,45,17,2,0
+Juve45,B,2024-3-24 13:08:00,2,60,99,16,1,1
+Juve45,C,2024-3-24 13:32:00,2,180,61,18,1,1
+Juve45,F,2024-3-24 15:43:00,5,83,64,31,2,1
+Juve45,G,2024-3-24 17:58:00,10,210,141,192,1,0
+Juve45,I,2024-3-24 13:12:00,1,112,45,17,2,1
+KIU:gameroom:ganaridi datotabata datoo,B,2024-3-24 13:34:00,1,60,99,16,1,1
+KIU:gameroom:ganaridi datotabata datoo,C,2024-3-24 17:45:00,11,180,61,18,1,0
+KIU:gameroom:ganaridi datotabata datoo,F,2024-3-24 15:41:00,2,83,64,31,2,0
+KIU:gameroom:ganaridi datotabata datoo,I,2024-3-24 17:10:00,4,112,45,17,2,0
+KUET_Ekabingsho:RifatALmuiN daud04 Arvi_saleque,B,2024-3-24 13:27:00,1,60,99,16,1,1
+KUET_Ekabingsho:RifatALmuiN daud04 Arvi_saleque,C,2024-3-24 16:23:00,3,180,61,18,1,0
+KUET_Ekabingsho:RifatALmuiN daud04 Arvi_saleque,I,2024-3-24 14:10:00,2,112,45,17,2,0
+Kaey,B,2024-3-24 13:22:00,1,60,99,16,1,1
+Kaey,C,2024-3-24 14:12:00,3,180,61,18,1,0
+Kaey,I,2024-3-24 13:38:00,3,112,45,17,2,1
+KalPaperhai:abhi_atg,B,2024-3-24 13:18:00,1,60,99,16,1,1
+KalPaperhai:abhi_atg,I,2024-3-24 14:40:00,2,112,45,17,2,0
+KasymK,B,2024-3-24 13:51:00,3,60,99,16,1,0
+Kavya1108,A,2024-3-24 14:19:00,1,85,59,68,2,0
+Killua_Ackerman,B,2024-3-24 14:48:00,1,60,99,16,1,1
+KindaSJallad,A,2024-3-24 15:32:00,1,85,59,68,2,0
+KindaSJallad,B,2024-3-24 15:31:00,1,60,99,16,1,0
+KindaSJallad,D,2024-3-24 15:37:00,1,228,148,169,2,0
+KindaSJallad,E,2024-3-24 15:40:00,1,166,36,38,2,0
+KiruxaLight,I,2024-3-24 16:11:00,6,112,45,17,2,1
+KitaujiSuisougakubu:Godknows... Noxus XLor,B,2024-3-24 14:11:00,3,60,99,16,1,1
+KitaujiSuisougakubu:Godknows... Noxus XLor,C,2024-3-24 13:51:00,1,180,61,18,1,1
+KitaujiSuisougakubu:Godknows... Noxus XLor,F,2024-3-24 17:10:00,11,83,64,31,2,1
+KitaujiSuisougakubu:Godknows... Noxus XLor,I,2024-3-24 13:29:00,3,112,45,17,2,1
+Kivit_Coders:kavin_kishore vivitha17m,B,2024-3-24 14:47:00,1,60,99,16,1,0
+Krishna8802,A,2024-3-24 17:04:00,1,85,59,68,2,0
+LYXin,B,2024-3-24 13:39:00,2,60,99,16,1,1
+L_ty,B,2024-3-24 15:35:00,4,60,99,16,1,0
+LaZi,B,2024-3-24 13:28:00,1,60,99,16,1,1
+LaZi,C,2024-3-24 16:33:00,5,180,61,18,1,0
+LaZi,I,2024-3-24 16:28:00,6,112,45,17,2,0
+Laurel:Ackerlanna Welcome24ever kawaii0922,B,2024-3-24 13:29:00,1,60,99,16,1,1
+Laurel:Ackerlanna Welcome24ever kawaii0922,C,2024-3-24 14:43:00,3,180,61,18,1,1
+Laurel:Ackerlanna Welcome24ever kawaii0922,F,2024-3-24 14:09:00,2,83,64,31,2,1
+Laurel:Ackerlanna Welcome24ever kawaii0922,G,2024-3-24 16:01:00,7,210,141,192,1,1
+Laurel:Ackerlanna Welcome24ever kawaii0922,I,2024-3-24 14:38:00,3,112,45,17,2,1
+LeagueofLeague:SmartBamboo PenPineappleApplePen LiTangDingZhen,B,2024-3-24 13:58:00,1,60,99,16,1,1
+LegendaryCoders:kx04 D1fyyy,B,2024-3-24 13:20:00,1,60,99,16,1,1
+LegendaryCoders:kx04 D1fyyy,C,2024-3-24 17:24:00,7,180,61,18,1,0
+LegendaryCoders:kx04 D1fyyy,I,2024-3-24 17:47:00,6,112,45,17,2,0
+LetsRun:Chaitanya_Bramhapurikar atog_1905 rohitsomani,B,2024-3-24 13:26:00,2,60,99,16,1,0
+LightHouse1,I,2024-3-24 15:53:00,1,112,45,17,2,0
+Light_KG,B,2024-3-24 17:04:00,3,60,99,16,1,0
+Light_KG,C,2024-3-24 16:27:00,2,180,61,18,1,0
+Light_KG,I,2024-3-24 13:57:00,1,112,45,17,2,1
+LikeScience,B,2024-3-24 13:23:00,2,60,99,16,1,1
+LikeScience,I,2024-3-24 14:34:00,5,112,45,17,2,0
+Liuxizai,B,2024-3-24 14:52:00,1,60,99,16,1,1
+Liuxizai,C,2024-3-24 15:02:00,1,180,61,18,1,1
+Liuxizai,F,2024-3-24 17:55:00,5,83,64,31,2,1
+Liuxizai,I,2024-3-24 14:41:00,2,112,45,17,2,1
+Logical_errors:devangsvaghani meetkatharotiya Vraj_Dobariya_59,B,2024-3-24 14:36:00,1,60,99,16,1,1
+Logical_errors:devangsvaghani meetkatharotiya Vraj_Dobariya_59,C,2024-3-24 17:03:00,16,180,61,18,1,1
+Logical_errors:devangsvaghani meetkatharotiya Vraj_Dobariya_59,I,2024-3-24 13:24:00,1,112,45,17,2,0
+Luke18,B,2024-3-24 13:55:00,2,60,99,16,1,1
+Luke18,C,2024-3-24 15:24:00,3,180,61,18,1,1
+Luke18,I,2024-3-24 16:52:00,6,112,45,17,2,1
+MIPT:Yolki-palki:Tikhon228 Pechalka Kapt,A,2024-3-24 17:55:00,9,85,59,68,2,0
+MIPT:Yolki-palki:Tikhon228 Pechalka Kapt,B,2024-3-24 13:08:00,2,60,99,16,1,1
+MIPT:Yolki-palki:Tikhon228 Pechalka Kapt,C,2024-3-24 13:29:00,1,180,61,18,1,1
+MIPT:Yolki-palki:Tikhon228 Pechalka Kapt,D,2024-3-24 15:16:00,1,228,148,169,2,1
+MIPT:Yolki-palki:Tikhon228 Pechalka Kapt,F,2024-3-24 13:24:00,1,83,64,31,2,1
+MIPT:Yolki-palki:Tikhon228 Pechalka Kapt,G,2024-3-24 14:35:00,1,210,141,192,1,1
+MIPT:Yolki-palki:Tikhon228 Pechalka Kapt,H,2024-3-24 17:48:00,2,202,96,26,2,1
+MIPT:Yolki-palki:Tikhon228 Pechalka Kapt,I,2024-3-24 13:15:00,1,112,45,17,2,1
+MIPT:Yolki-palki:Tikhon228 Pechalka Kapt,J,2024-3-24 14:05:00,2,212,145,156,2,1
+MIPT:Yolki-palki:Tikhon228 Pechalka Kapt,K,2024-3-24 15:09:00,1,96,83,102,2,1
+MIPTTPIM:IraG antonis.white,B,2024-3-24 13:32:00,2,60,99,16,1,1
+MIPTTPIM:IraG antonis.white,C,2024-3-24 13:16:00,2,180,61,18,1,1
+MIPTTPIM:IraG antonis.white,D,2024-3-24 16:40:00,7,228,148,169,2,1
+MIPTTPIM:IraG antonis.white,E,2024-3-24 14:11:00,2,166,36,38,2,0
+MIPTTPIM:IraG antonis.white,F,2024-3-24 13:36:00,1,83,64,31,2,1
+MIPTTPIM:IraG antonis.white,G,2024-3-24 15:19:00,3,210,141,192,1,1
+MIPTTPIM:IraG antonis.white,I,2024-3-24 13:11:00,1,112,45,17,2,1
+MIPTTPIM:IraG antonis.white,J,2024-3-24 17:59:00,12,212,145,156,2,0
+MIPTTPIM:IraG antonis.white,K,2024-3-24 17:31:00,3,96,83,102,2,1
+MM:mnaeraxr MarcosK,B,2024-3-24 14:04:00,3,60,99,16,1,1
+MM:mnaeraxr MarcosK,C,2024-3-24 14:02:00,2,180,61,18,1,1
+MM:mnaeraxr MarcosK,D,2024-3-24 17:35:00,3,228,148,169,2,1
+MM:mnaeraxr MarcosK,F,2024-3-24 16:54:00,1,83,64,31,2,1
+MM:mnaeraxr MarcosK,G,2024-3-24 16:22:00,5,210,141,192,1,1
+MM:mnaeraxr MarcosK,I,2024-3-24 13:45:00,5,112,45,17,2,1
+MM:mnaeraxr MarcosK,J,2024-3-24 17:59:00,1,212,145,156,2,0
+MONJUR21,A,2024-3-24 16:19:00,1,85,59,68,2,0
+MONJUR21,B,2024-3-24 16:38:00,1,60,99,16,1,0
+MONJUR21,C,2024-3-24 16:33:00,1,180,61,18,1,0
+MOSES:not_makise pushpavel beyondpluto,A,2024-3-24 17:16:00,11,85,59,68,2,0
+MOSES:not_makise pushpavel beyondpluto,B,2024-3-24 13:44:00,1,60,99,16,1,1
+MOSES:not_makise pushpavel beyondpluto,C,2024-3-24 14:59:00,1,180,61,18,1,1
+MOSES:not_makise pushpavel beyondpluto,F,2024-3-24 16:31:00,4,83,64,31,2,0
+MOSES:not_makise pushpavel beyondpluto,I,2024-3-24 17:56:00,12,112,45,17,2,1
+MadYogi,B,2024-3-24 14:44:00,1,60,99,16,1,0
+MagdaL,B,2024-3-24 13:45:00,1,60,99,16,1,0
+MalanaTeam:DC17 AwakeAnay ShivanshJ,B,2024-3-24 17:45:00,11,60,99,16,1,1
+MalanaTeam:DC17 AwakeAnay ShivanshJ,C,2024-3-24 14:54:00,2,180,61,18,1,1
+MalanaTeam:DC17 AwakeAnay ShivanshJ,F,2024-3-24 16:10:00,6,83,64,31,2,1
+MalanaTeam:DC17 AwakeAnay ShivanshJ,I,2024-3-24 14:22:00,5,112,45,17,2,1
+Marilyn_123,A,2024-3-24 14:08:00,1,85,59,68,2,0
+Marilyn_123,B,2024-3-24 14:18:00,5,60,99,16,1,0
+Master_Waiters:Himank_Bohara gagandeep.singh Mysteriux,B,2024-3-24 13:36:00,2,60,99,16,1,1
+Master_Waiters:Himank_Bohara gagandeep.singh Mysteriux,G,2024-3-24 15:15:00,1,210,141,192,1,0
+Mathgic:AngelGL meixmr SJMA_11723,B,2024-3-24 17:00:00,6,60,99,16,1,0
+Mathgic:AngelGL meixmr SJMA_11723,C,2024-3-24 14:39:00,1,180,61,18,1,1
+Mathgic:AngelGL meixmr SJMA_11723,G,2024-3-24 17:58:00,6,210,141,192,1,0
+Mathgic:AngelGL meixmr SJMA_11723,I,2024-3-24 17:53:00,5,112,45,17,2,1
+Maya2:poconut MohammadMx lashv,B,2024-3-24 14:09:00,1,60,99,16,1,0
+Mdominykas,B,2024-3-24 15:24:00,1,60,99,16,1,1
+Mdominykas,C,2024-3-24 17:21:00,6,180,61,18,1,0
+Metallic,B,2024-3-24 15:17:00,1,60,99,16,1,1
+Metallic,F,2024-3-24 17:06:00,5,83,64,31,2,1
+Metallic,I,2024-3-24 13:48:00,1,112,45,17,2,1
+Mhmd_Bakr,B,2024-3-24 14:42:00,2,60,99,16,1,0
+Mhmd_Bakr,C,2024-3-24 14:02:00,8,180,61,18,1,1
+Milf_Hunters:Zvenkis fawzeus Blueberry21,F,2024-3-24 17:25:00,5,83,64,31,2,0
+MirzaNiazMorshed,B,2024-3-24 13:08:00,2,60,99,16,1,0
+Monday:qiang9 Woufan Sea.,B,2024-3-24 14:43:00,1,60,99,16,1,1
+Monday:qiang9 Woufan Sea.,I,2024-3-24 16:27:00,4,112,45,17,2,0
+Moooo(cowscanttalk):BallBreaker,B,2024-3-24 13:08:00,1,60,99,16,1,1
+Moooo(cowscanttalk):BallBreaker,C,2024-3-24 14:58:00,1,180,61,18,1,1
+Moooo(cowscanttalk):BallBreaker,E,2024-3-24 16:23:00,29,166,36,38,2,0
+Moooo(cowscanttalk):BallBreaker,F,2024-3-24 17:04:00,34,83,64,31,2,0
+Moooo(cowscanttalk):BallBreaker,I,2024-3-24 13:26:00,7,112,45,17,2,1
+Moooo(cowscanttalk):BallBreaker,K,2024-3-24 14:02:00,1,96,83,102,2,0
+MostafaM.Galal,I,2024-3-24 14:07:00,6,112,45,17,2,0
+Mozumder_Shamim,F,2024-3-24 17:59:00,1,83,64,31,2,0
+Mr.Roamer,C,2024-3-24 16:02:00,2,180,61,18,1,1
+Mr.Roamer,I,2024-3-24 15:07:00,2,112,45,17,2,1
+MrSavageVS,B,2024-3-24 13:30:00,1,60,99,16,1,0
+MridulAhi,B,2024-3-24 13:09:00,1,60,99,16,1,1
+MridulAhi,C,2024-3-24 14:45:00,3,180,61,18,1,1
+MridulAhi,I,2024-3-24 13:48:00,3,112,45,17,2,1
+Multiplyandsurrender:shobyy ShreyHehe Shashwat_skr,B,2024-3-24 13:11:00,2,60,99,16,1,1
+Multiplyandsurrender:shobyy ShreyHehe Shashwat_skr,C,2024-3-24 13:57:00,1,180,61,18,1,1
+Multiplyandsurrender:shobyy ShreyHehe Shashwat_skr,G,2024-3-24 15:54:00,3,210,141,192,1,1
+Multiplyandsurrender:shobyy ShreyHehe Shashwat_skr,I,2024-3-24 14:00:00,4,112,45,17,2,1
+Murali333,B,2024-3-24 13:09:00,1,60,99,16,1,0
+NATURAL6,D,2024-3-24 17:00:00,44,228,148,169,2,0
+NATURAL6,G,2024-3-24 15:17:00,18,210,141,192,1,1
+NOASSOCIATION:PCxUtkarsh PCxOM PCxShreyansh_2003,B,2024-3-24 14:50:00,10,60,99,16,1,0
+NOOBRA:Darth_Farhad,B,2024-3-24 15:12:00,1,60,99,16,1,0
+NOOBRA:Darth_Farhad,C,2024-3-24 15:11:00,1,180,61,18,1,0
+NYCU_CartesianTree:yyh603 Aestivate,B,2024-3-24 13:07:00,1,60,99,16,1,1
+NYCU_CartesianTree:yyh603 Aestivate,C,2024-3-24 13:46:00,1,180,61,18,1,1
+NYCU_CartesianTree:yyh603 Aestivate,F,2024-3-24 14:18:00,2,83,64,31,2,1
+NYCU_CartesianTree:yyh603 Aestivate,G,2024-3-24 15:13:00,2,210,141,192,1,1
+NYCU_CartesianTree:yyh603 Aestivate,I,2024-3-24 13:29:00,2,112,45,17,2,1
+NYCU_gAwr_gurA:nella17 ub33,B,2024-3-24 13:12:00,1,60,99,16,1,1
+NYCU_gAwr_gurA:nella17 ub33,C,2024-3-24 13:34:00,2,180,61,18,1,1
+NYCU_gAwr_gurA:nella17 ub33,D,2024-3-24 17:59:00,5,228,148,169,2,0
+NYCU_gAwr_gurA:nella17 ub33,F,2024-3-24 13:54:00,1,83,64,31,2,1
+NYCU_gAwr_gurA:nella17 ub33,G,2024-3-24 14:50:00,7,210,141,192,1,1
+NYCU_gAwr_gurA:nella17 ub33,I,2024-3-24 14:05:00,2,112,45,17,2,1
+NYCU_gAwr_gurA:nella17 ub33,K,2024-3-24 17:56:00,1,96,83,102,2,0
+Nahull,B,2024-3-24 14:30:00,3,60,99,16,1,0
+Naikwad27,B,2024-3-24 17:41:00,6,60,99,16,1,0
+NeeeraJ,B,2024-3-24 13:30:00,1,60,99,16,1,1
+NeeeraJ,C,2024-3-24 17:00:00,1,180,61,18,1,1
+NeeeraJ,I,2024-3-24 17:47:00,5,112,45,17,2,0
+Nguyen_Mai_Huong,A,2024-3-24 13:48:00,2,85,59,68,2,0
+Nguyen_Mai_Huong,B,2024-3-24 13:34:00,1,60,99,16,1,1
+Nguyen_Mai_Huong,C,2024-3-24 17:18:00,10,180,61,18,1,1
+Nguyen_Mai_Huong,F,2024-3-24 15:10:00,11,83,64,31,2,1
+Nguyen_Mai_Huong,I,2024-3-24 13:40:00,3,112,45,17,2,1
+Nika_Tamliani,B,2024-3-24 13:46:00,2,60,99,16,1,1
+Nika_Tamliani,C,2024-3-24 14:01:00,1,180,61,18,1,1
+Nika_Tamliani,I,2024-3-24 13:41:00,3,112,45,17,2,1
+NoTopNoStop:KoKoDuDu Nhatthang27 linvg,B,2024-3-24 14:48:00,3,60,99,16,1,1
+NoTopNoStop:KoKoDuDu Nhatthang27 linvg,C,2024-3-24 16:17:00,2,180,61,18,1,1
+NoTopNoStop:KoKoDuDu Nhatthang27 linvg,F,2024-3-24 17:32:00,3,83,64,31,2,0
+NoTopNoStop:KoKoDuDu Nhatthang27 linvg,G,2024-3-24 17:28:00,5,210,141,192,1,1
+NoTopNoStop:KoKoDuDu Nhatthang27 linvg,I,2024-3-24 16:23:00,13,112,45,17,2,1
+Nombredelequipo2:Laaventuracontinúa:Samuuffdzz ThorTuwy segfaultdev,B,2024-3-24 13:09:00,1,60,99,16,1,1
+Nombredelequipo2:Laaventuracontinúa:Samuuffdzz ThorTuwy segfaultdev,C,2024-3-24 17:04:00,2,180,61,18,1,1
+Nombredelequipo2:Laaventuracontinúa:Samuuffdzz ThorTuwy segfaultdev,I,2024-3-24 13:56:00,3,112,45,17,2,1
+NotFound,C,2024-3-24 16:56:00,2,180,61,18,1,1
+Nuclear_05,B,2024-3-24 16:07:00,1,60,99,16,1,1
+Officialbots:Mohanad_Nahhal Vectors_Master BabaVoss,B,2024-3-24 13:12:00,1,60,99,16,1,1
+Officialbots:Mohanad_Nahhal Vectors_Master BabaVoss,C,2024-3-24 13:56:00,1,180,61,18,1,1
+Officialbots:Mohanad_Nahhal Vectors_Master BabaVoss,D,2024-3-24 17:46:00,7,228,148,169,2,1
+Officialbots:Mohanad_Nahhal Vectors_Master BabaVoss,F,2024-3-24 15:19:00,6,83,64,31,2,1
+Officialbots:Mohanad_Nahhal Vectors_Master BabaVoss,G,2024-3-24 16:10:00,4,210,141,192,1,1
+Officialbots:Mohanad_Nahhal Vectors_Master BabaVoss,I,2024-3-24 13:34:00,2,112,45,17,2,1
+Officialbots:Mohanad_Nahhal Vectors_Master BabaVoss,J,2024-3-24 17:43:00,5,212,145,156,2,1
+Oink:Edith321 gr1sen,A,2024-3-24 13:37:00,2,85,59,68,2,0
+Oink:Edith321 gr1sen,B,2024-3-24 14:01:00,3,60,99,16,1,1
+Oink:Edith321 gr1sen,C,2024-3-24 15:18:00,1,180,61,18,1,1
+Om_Singh_,A,2024-3-24 14:18:00,5,85,59,68,2,0
+Omnawale,B,2024-3-24 13:40:00,2,60,99,16,1,0
+Omnawale,C,2024-3-24 13:44:00,2,180,61,18,1,0
+OneException:ulvi000 angryprogramer321 ibrahim001,A,2024-3-24 16:56:00,7,85,59,68,2,0
+OneException:ulvi000 angryprogramer321 ibrahim001,B,2024-3-24 14:56:00,1,60,99,16,1,1
+OneException:ulvi000 angryprogramer321 ibrahim001,C,2024-3-24 15:46:00,2,180,61,18,1,1
+OneException:ulvi000 angryprogramer321 ibrahim001,I,2024-3-24 14:28:00,2,112,45,17,2,1
+Oops:_Totoro_ candy_man,B,2024-3-24 14:44:00,5,60,99,16,1,1
+Oops:_Totoro_ candy_man,C,2024-3-24 16:08:00,2,180,61,18,1,1
+Oops:_Totoro_ candy_man,G,2024-3-24 17:59:00,8,210,141,192,1,0
+Oops:_Totoro_ candy_man,I,2024-3-24 14:14:00,3,112,45,17,2,1
+Orango,I,2024-3-24 14:00:00,8,112,45,17,2,0
+Orthos,I,2024-3-24 15:31:00,1,112,45,17,2,0
+OverShadow:Coder_Nayak Krypto_Ray sloppy_coder,F,2024-3-24 16:37:00,13,83,64,31,2,0
+OverShadow:Coder_Nayak Krypto_Ray sloppy_coder,I,2024-3-24 14:01:00,3,112,45,17,2,1
+PSyCho:SKnight4 why_pulkit14 c_men,B,2024-3-24 13:14:00,1,60,99,16,1,1
+PSyCho:SKnight4 why_pulkit14 c_men,I,2024-3-24 16:25:00,3,112,45,17,2,0
+Panthers:Dhruv_Garg07 virat-1906 Dhruv-Singh-Negi,B,2024-3-24 14:48:00,5,60,99,16,1,1
+Panthers:Dhruv_Garg07 virat-1906 Dhruv-Singh-Negi,C,2024-3-24 15:11:00,6,180,61,18,1,1
+Panthers:Dhruv_Garg07 virat-1906 Dhruv-Singh-Negi,G,2024-3-24 17:54:00,1,210,141,192,1,0
+Panthers:Dhruv_Garg07 virat-1906 Dhruv-Singh-Negi,I,2024-3-24 14:10:00,3,112,45,17,2,1
+Penguin:HuaJun limanjun feeder1,B,2024-3-24 13:12:00,1,60,99,16,1,1
+Penguin:HuaJun limanjun feeder1,C,2024-3-24 13:49:00,2,180,61,18,1,1
+Penguin:HuaJun limanjun feeder1,D,2024-3-24 15:33:00,3,228,148,169,2,1
+Penguin:HuaJun limanjun feeder1,F,2024-3-24 13:41:00,1,83,64,31,2,1
+Penguin:HuaJun limanjun feeder1,G,2024-3-24 15:33:00,3,210,141,192,1,1
+Penguin:HuaJun limanjun feeder1,H,2024-3-24 13:53:00,1,202,96,26,2,0
+Penguin:HuaJun limanjun feeder1,I,2024-3-24 13:17:00,1,112,45,17,2,1
+Penguin:HuaJun limanjun feeder1,J,2024-3-24 17:10:00,3,212,145,156,2,1
+Penguin:HuaJun limanjun feeder1,K,2024-3-24 16:45:00,4,96,83,102,2,1
+PhilTheFish,H,2024-3-24 16:19:00,1,202,96,26,2,0
+Pilli_Chandu,B,2024-3-24 13:18:00,1,60,99,16,1,0
+Pilli_Chandu,H,2024-3-24 13:10:00,3,202,96,26,2,0
+PineappleJuice:Zeus_0790 pratik9998 Iemonjuice,B,2024-3-24 13:32:00,1,60,99,16,1,1
+PineappleJuice:Zeus_0790 pratik9998 Iemonjuice,I,2024-3-24 16:45:00,9,112,45,17,2,0
+PineappleSuite:_Avocado_ Meloric,B,2024-3-24 13:12:00,1,60,99,16,1,1
+PineappleSuite:_Avocado_ Meloric,C,2024-3-24 13:32:00,1,180,61,18,1,1
+PineappleSuite:_Avocado_ Meloric,F,2024-3-24 17:21:00,4,83,64,31,2,0
+PineappleSuite:_Avocado_ Meloric,I,2024-3-24 14:04:00,4,112,45,17,2,1
+Piyush3199,C,2024-3-24 15:37:00,1,180,61,18,1,0
+PrajjawalAgrahari,B,2024-3-24 13:13:00,1,60,99,16,1,1
+Prashanth_KPY,A,2024-3-24 14:21:00,2,85,59,68,2,0
+Prince_Daemon,C,2024-3-24 15:21:00,2,180,61,18,1,1
+PrincetonU:Tigers:hzt1 Marco_L_T stan23456,B,2024-3-24 13:11:00,1,60,99,16,1,1
+PrincetonU:Tigers:hzt1 Marco_L_T stan23456,C,2024-3-24 14:16:00,3,180,61,18,1,1
+PrincetonU:Tigers:hzt1 Marco_L_T stan23456,D,2024-3-24 16:06:00,1,228,148,169,2,1
+PrincetonU:Tigers:hzt1 Marco_L_T stan23456,E,2024-3-24 17:59:00,31,166,36,38,2,0
+PrincetonU:Tigers:hzt1 Marco_L_T stan23456,F,2024-3-24 14:07:00,4,83,64,31,2,1
+PrincetonU:Tigers:hzt1 Marco_L_T stan23456,G,2024-3-24 15:25:00,1,210,141,192,1,1
+PrincetonU:Tigers:hzt1 Marco_L_T stan23456,I,2024-3-24 13:29:00,1,112,45,17,2,1
+PrincetonU:Tigers:hzt1 Marco_L_T stan23456,J,2024-3-24 17:56:00,9,212,145,156,2,1
+PrincetonU:Tigers:hzt1 Marco_L_T stan23456,K,2024-3-24 15:08:00,1,96,83,102,2,1
+PriyanshuRaj1000,B,2024-3-24 17:03:00,1,60,99,16,1,1
+PriyanshuRaj1000,I,2024-3-24 17:49:00,1,112,45,17,2,0
+Protik_7,B,2024-3-24 14:58:00,1,60,99,16,1,1
+Protik_7,I,2024-3-24 17:54:00,1,112,45,17,2,0
+Ptsh_368,B,2024-3-24 16:01:00,1,60,99,16,1,1
+Ptsh_368,I,2024-3-24 17:50:00,4,112,45,17,2,1
+Punyamurthy_Nishitha,A,2024-3-24 15:10:00,1,85,59,68,2,0
+PurdueGLD:shcal TomOwO eggag32,B,2024-3-24 15:47:00,1,60,99,16,1,1
+PurdueGLD:shcal TomOwO eggag32,I,2024-3-24 16:20:00,4,112,45,17,2,1
+PurdueGLD:shcal TomOwO eggag32,J,2024-3-24 17:23:00,3,212,145,156,2,0
+QuanTum_X:abhinavjais455 anujtr Hephaestus_X,K,2024-3-24 13:46:00,1,96,83,102,2,0
+QuantumQuotient,C,2024-3-24 13:37:00,3,180,61,18,1,0
+Qwerty821,B,2024-3-24 13:19:00,1,60,99,16,1,0
+RDDCCD,B,2024-3-24 13:27:00,3,60,99,16,1,1
+RDDCCD,C,2024-3-24 14:01:00,1,180,61,18,1,1
+RDDCCD,D,2024-3-24 17:59:00,12,228,148,169,2,0
+RDDCCD,F,2024-3-24 14:14:00,1,83,64,31,2,1
+RDDCCD,G,2024-3-24 15:54:00,7,210,141,192,1,1
+RDDCCD,I,2024-3-24 13:45:00,1,112,45,17,2,1
+RU_NowOrNever,B,2024-3-24 13:23:00,1,60,99,16,1,1
+RU_NowOrNever,C,2024-3-24 15:17:00,1,180,61,18,1,1
+RU_NowOrNever,D,2024-3-24 17:32:00,1,228,148,169,2,0
+RU_NowOrNever,F,2024-3-24 17:14:00,3,83,64,31,2,1
+RU_NowOrNever,G,2024-3-24 16:26:00,2,210,141,192,1,1
+RU_NowOrNever,I,2024-3-24 14:18:00,1,112,45,17,2,1
+RU_SFS,B,2024-3-24 13:08:00,2,60,99,16,1,1
+RU_SFS,C,2024-3-24 13:51:00,1,180,61,18,1,1
+RU_SFS,F,2024-3-24 17:37:00,23,83,64,31,2,0
+RU_SFS,G,2024-3-24 15:25:00,3,210,141,192,1,1
+RU_SFS,I,2024-3-24 13:41:00,3,112,45,17,2,1
+Rabeeeee,B,2024-3-24 13:45:00,1,60,99,16,1,1
+Rabeeeee,C,2024-3-24 17:27:00,2,180,61,18,1,0
+Rabeeeee,I,2024-3-24 16:35:00,15,112,45,17,2,1
+RajaVamshiNath,B,2024-3-24 13:26:00,1,60,99,16,1,1
+RajaVamshiNath,I,2024-3-24 14:26:00,4,112,45,17,2,0
+Rajat.18,B,2024-3-24 17:39:00,1,60,99,16,1,0
+Rajiun__nabi,E,2024-3-24 17:47:00,4,166,36,38,2,0
+Random:LittleSeaMonster system_1 jiangqiao,B,2024-3-24 13:14:00,1,60,99,16,1,1
+Random:LittleSeaMonster system_1 jiangqiao,C,2024-3-24 14:23:00,1,180,61,18,1,1
+Random:LittleSeaMonster system_1 jiangqiao,F,2024-3-24 16:20:00,9,83,64,31,2,1
+Random:LittleSeaMonster system_1 jiangqiao,G,2024-3-24 15:40:00,4,210,141,192,1,1
+Random:LittleSeaMonster system_1 jiangqiao,I,2024-3-24 13:37:00,4,112,45,17,2,1
+RandomBee,B,2024-3-24 15:41:00,1,60,99,16,1,1
+RandomBee,C,2024-3-24 16:07:00,1,180,61,18,1,1
+RandomBee,I,2024-3-24 15:34:00,2,112,45,17,2,1
+Razvan_Rotaru,B,2024-3-24 14:25:00,4,60,99,16,1,1
+Razvan_Rotaru,C,2024-3-24 17:59:00,14,180,61,18,1,0
+Razvan_Rotaru,I,2024-3-24 15:04:00,1,112,45,17,2,1
+ReactorandChrome:webmonster sokolow,B,2024-3-24 13:37:00,3,60,99,16,1,1
+ReactorandChrome:webmonster sokolow,C,2024-3-24 15:08:00,2,180,61,18,1,1
+ReactorandChrome:webmonster sokolow,F,2024-3-24 14:39:00,13,83,64,31,2,1
+ReactorandChrome:webmonster sokolow,G,2024-3-24 16:56:00,4,210,141,192,1,1
+ReactorandChrome:webmonster sokolow,I,2024-3-24 14:38:00,8,112,45,17,2,1
+ReactorandChrome:webmonster sokolow,J,2024-3-24 17:59:00,31,212,145,156,2,0
+ReadingIsHard:oleh1421 OliaVolia,B,2024-3-24 16:58:00,1,60,99,16,1,1
+ReadingIsHard:oleh1421 OliaVolia,C,2024-3-24 13:27:00,1,180,61,18,1,1
+ReadingIsHard:oleh1421 OliaVolia,D,2024-3-24 17:55:00,8,228,148,169,2,1
+ReadingIsHard:oleh1421 OliaVolia,E,2024-3-24 15:51:00,22,166,36,38,2,1
+ReadingIsHard:oleh1421 OliaVolia,F,2024-3-24 13:40:00,2,83,64,31,2,1
+ReadingIsHard:oleh1421 OliaVolia,G,2024-3-24 16:39:00,2,210,141,192,1,1
+ReadingIsHard:oleh1421 OliaVolia,I,2024-3-24 16:50:00,2,112,45,17,2,1
+ReadingIsHard:oleh1421 OliaVolia,K,2024-3-24 17:59:00,4,96,83,102,2,0
+RecklessRacoonsvol2:Gellertke zsombor k_balint,B,2024-3-24 13:30:00,1,60,99,16,1,1
+RecklessRacoonsvol2:Gellertke zsombor k_balint,C,2024-3-24 13:30:00,2,180,61,18,1,1
+RecklessRacoonsvol2:Gellertke zsombor k_balint,F,2024-3-24 14:52:00,5,83,64,31,2,1
+RecklessRacoonsvol2:Gellertke zsombor k_balint,G,2024-3-24 14:01:00,1,210,141,192,1,1
+RecklessRacoonsvol2:Gellertke zsombor k_balint,I,2024-3-24 14:36:00,2,112,45,17,2,1
+Remarks:lcx2007 liujg xiaozengX,B,2024-3-24 16:43:00,12,60,99,16,1,1
+Remarks:lcx2007 liujg xiaozengX,C,2024-3-24 14:24:00,5,180,61,18,1,1
+Remarks:lcx2007 liujg xiaozengX,F,2024-3-24 13:21:00,1,83,64,31,2,1
+Remarks:lcx2007 liujg xiaozengX,I,2024-3-24 17:45:00,5,112,45,17,2,1
+Rice_Balls_rank01,A,2024-3-24 14:43:00,2,85,59,68,2,0
+Rice_Balls_rank01,B,2024-3-24 15:07:00,10,60,99,16,1,0
+Rice_Balls_rank01,C,2024-3-24 15:01:00,11,180,61,18,1,0
+Rice_Balls_rank01,D,2024-3-24 14:40:00,2,228,148,169,2,0
+Rice_Balls_rank01,E,2024-3-24 14:41:00,1,166,36,38,2,0
+Rice_Balls_rank01,F,2024-3-24 14:48:00,1,83,64,31,2,0
+Rice_Balls_rank01,G,2024-3-24 14:51:00,1,210,141,192,1,0
+Rice_Balls_rank01,H,2024-3-24 14:47:00,1,202,96,26,2,0
+Rice_Balls_rank01,I,2024-3-24 15:11:00,7,112,45,17,2,0
+Rice_Balls_rank01,J,2024-3-24 14:42:00,1,212,145,156,2,0
+Rice_Balls_rank01,K,2024-3-24 15:13:00,2,96,83,102,2,0
+Rightlyso,B,2024-3-24 14:14:00,4,60,99,16,1,0
+Rohan190,A,2024-3-24 14:48:00,2,85,59,68,2,0
+Rohan190,B,2024-3-24 14:50:00,1,60,99,16,1,0
+Rohan190,C,2024-3-24 14:44:00,2,180,61,18,1,0
+Rohan190,K,2024-3-24 14:52:00,1,96,83,102,2,0
+Romy67,C,2024-3-24 14:02:00,1,180,61,18,1,1
+Romy67,F,2024-3-24 16:36:00,5,83,64,31,2,0
+Romy67,I,2024-3-24 17:33:00,3,112,45,17,2,1
+Runtimeerror:CS50programmer rayban,B,2024-3-24 14:42:00,1,60,99,16,1,1
+Runtimeerror:CS50programmer rayban,I,2024-3-24 16:27:00,7,112,45,17,2,0
+SHARHOOD,B,2024-3-24 13:39:00,2,60,99,16,1,0
+SPS999,B,2024-3-24 15:18:00,1,60,99,16,1,1
+SRKFanClub:beedle Fourier_Transform,B,2024-3-24 17:16:00,6,60,99,16,1,0
+SRKFanClub:beedle Fourier_Transform,C,2024-3-24 14:33:00,1,180,61,18,1,1
+SRKFanClub:beedle Fourier_Transform,D,2024-3-24 14:13:00,1,228,148,169,2,0
+SRKFanClub:beedle Fourier_Transform,F,2024-3-24 17:09:00,4,83,64,31,2,1
+SRKFanClub:beedle Fourier_Transform,G,2024-3-24 17:42:00,2,210,141,192,1,0
+SRKFanClub:beedle Fourier_Transform,I,2024-3-24 16:12:00,4,112,45,17,2,1
+SUST_GuessForces:YouKn0wWho Raiden Alfeh,B,2024-3-24 13:29:00,1,60,99,16,1,1
+SUST_GuessForces:YouKn0wWho Raiden Alfeh,C,2024-3-24 14:12:00,1,180,61,18,1,1
+SUST_GuessForces:YouKn0wWho Raiden Alfeh,F,2024-3-24 14:23:00,1,83,64,31,2,1
+SUST_GuessForces:YouKn0wWho Raiden Alfeh,G,2024-3-24 16:08:00,2,210,141,192,1,1
+SUST_GuessForces:YouKn0wWho Raiden Alfeh,I,2024-3-24 13:22:00,2,112,45,17,2,1
+SWERC2022:Meijer MaksymOboznyi early-morning-dreams,B,2024-3-24 13:40:00,2,60,99,16,1,1
+SWERC2022:Meijer MaksymOboznyi early-morning-dreams,C,2024-3-24 14:38:00,2,180,61,18,1,1
+SWERC2022:Meijer MaksymOboznyi early-morning-dreams,D,2024-3-24 17:18:00,3,228,148,169,2,1
+SWERC2022:Meijer MaksymOboznyi early-morning-dreams,F,2024-3-24 14:23:00,2,83,64,31,2,1
+SWERC2022:Meijer MaksymOboznyi early-morning-dreams,G,2024-3-24 17:23:00,5,210,141,192,1,1
+SWERC2022:Meijer MaksymOboznyi early-morning-dreams,I,2024-3-24 13:20:00,1,112,45,17,2,1
+SWERC2022:Meijer MaksymOboznyi early-morning-dreams,J,2024-3-24 16:02:00,4,212,145,156,2,1
+SWERC2022:Meijer MaksymOboznyi early-morning-dreams,K,2024-3-24 17:59:00,2,96,83,102,2,0
+Saarth,B,2024-3-24 17:41:00,1,60,99,16,1,1
+Salt:Sugar_fan,A,2024-3-24 17:55:00,12,85,59,68,2,0
+Salt:Sugar_fan,B,2024-3-24 13:38:00,1,60,99,16,1,1
+Salt:Sugar_fan,C,2024-3-24 14:04:00,1,180,61,18,1,1
+Salt:Sugar_fan,D,2024-3-24 16:32:00,2,228,148,169,2,1
+Salt:Sugar_fan,E,2024-3-24 17:05:00,5,166,36,38,2,0
+Salt:Sugar_fan,F,2024-3-24 14:23:00,1,83,64,31,2,1
+Salt:Sugar_fan,G,2024-3-24 15:10:00,2,210,141,192,1,1
+Salt:Sugar_fan,I,2024-3-24 13:51:00,1,112,45,17,2,1
+Salt:Sugar_fan,J,2024-3-24 15:53:00,4,212,145,156,2,1
+Samrat_D,B,2024-3-24 15:20:00,8,60,99,16,1,0
+Sarthak_Narula,B,2024-3-24 15:47:00,2,60,99,16,1,0
+Satyanweshi45,I,2024-3-24 17:16:00,1,112,45,17,2,0
+SavageFighter001,B,2024-3-24 13:08:00,1,60,99,16,1,1
+SavageFighter001,C,2024-3-24 14:00:00,1,180,61,18,1,1
+SavageFighter001,I,2024-3-24 17:11:00,4,112,45,17,2,0
+SayMyName:Adhvaithks naa2.17009331,B,2024-3-24 13:59:00,1,60,99,16,1,0
+Schichow,B,2024-3-24 14:09:00,3,60,99,16,1,1
+Schichow,C,2024-3-24 17:56:00,8,180,61,18,1,0
+Schichow,I,2024-3-24 15:18:00,4,112,45,17,2,1
+Seggsperts:BadalArya 13_Riishiii_10 -VIBE,A,2024-3-24 13:11:00,1,85,59,68,2,0
+Seggsperts:BadalArya 13_Riishiii_10 -VIBE,B,2024-3-24 14:51:00,6,60,99,16,1,1
+Seggsperts:BadalArya 13_Riishiii_10 -VIBE,C,2024-3-24 17:53:00,11,180,61,18,1,0
+Seggsperts:BadalArya 13_Riishiii_10 -VIBE,I,2024-3-24 16:16:00,16,112,45,17,2,1
+SemiPhone,B,2024-3-24 14:16:00,5,60,99,16,1,0
+Semi_Bots:PK__CODER Yugandhar_Master Hydra_Dragon,F,2024-3-24 16:29:00,6,83,64,31,2,0
+Semi_Bots:PK__CODER Yugandhar_Master Hydra_Dragon,I,2024-3-24 15:55:00,1,112,45,17,2,1
+Sep-82,A,2024-3-24 13:42:00,3,85,59,68,2,0
+Sep-82,B,2024-3-24 13:52:00,1,60,99,16,1,1
+Sep-82,I,2024-3-24 14:31:00,7,112,45,17,2,0
+Shafin54,B,2024-3-24 14:24:00,1,60,99,16,1,0
+Shamim97,B,2024-3-24 16:10:00,2,60,99,16,1,0
+Showup:covert_insurgent Pranav16 aaryadeep21,A,2024-3-24 13:24:00,1,85,59,68,2,0
+Showup:covert_insurgent Pranav16 aaryadeep21,B,2024-3-24 13:33:00,1,60,99,16,1,1
+Showup:covert_insurgent Pranav16 aaryadeep21,C,2024-3-24 15:31:00,2,180,61,18,1,1
+Showup:covert_insurgent Pranav16 aaryadeep21,I,2024-3-24 17:01:00,11,112,45,17,2,1
+Shraddha_03,A,2024-3-24 15:54:00,2,85,59,68,2,0
+Shraddha_03,B,2024-3-24 15:56:00,1,60,99,16,1,0
+Sieze_means_of_software_production:brobat AdiAnand Lain,B,2024-3-24 13:11:00,1,60,99,16,1,1
+Sieze_means_of_software_production:brobat AdiAnand Lain,C,2024-3-24 15:07:00,5,180,61,18,1,1
+Sieze_means_of_software_production:brobat AdiAnand Lain,D,2024-3-24 17:58:00,8,228,148,169,2,0
+Sieze_means_of_software_production:brobat AdiAnand Lain,F,2024-3-24 14:33:00,5,83,64,31,2,1
+Sieze_means_of_software_production:brobat AdiAnand Lain,G,2024-3-24 16:53:00,1,210,141,192,1,1
+Sieze_means_of_software_production:brobat AdiAnand Lain,I,2024-3-24 13:17:00,1,112,45,17,2,1
+Sieze_means_of_software_production:brobat AdiAnand Lain,J,2024-3-24 17:50:00,11,212,145,156,2,1
+SignInAndGoToBed:syxy1107 am_i. wty204,B,2024-3-24 14:17:00,1,60,99,16,1,1
+SignInAndGoToBed:syxy1107 am_i. wty204,I,2024-3-24 16:46:00,4,112,45,17,2,0
+SilentDeathSquad:Professor_4 SilentShadow,B,2024-3-24 14:20:00,1,60,99,16,1,1
+Singh_Rajan41,B,2024-3-24 14:18:00,1,60,99,16,1,1
+SlavaG,B,2024-3-24 13:18:00,1,60,99,16,1,1
+SlavaG,I,2024-3-24 15:40:00,4,112,45,17,2,1
+SleepDeprivedComputerScientists:h4rdlyfunc710n4l KRKevin,A,2024-3-24 13:54:00,1,85,59,68,2,0
+SleepDeprivedComputerScientists:h4rdlyfunc710n4l KRKevin,B,2024-3-24 17:28:00,1,60,99,16,1,1
+SleepDeprivedComputerScientists:h4rdlyfunc710n4l KRKevin,C,2024-3-24 16:38:00,4,180,61,18,1,0
+Snapper_001,B,2024-3-24 14:04:00,2,60,99,16,1,1
+Snapper_001,I,2024-3-24 14:06:00,1,112,45,17,2,0
+Speedforces:gortomi szilb,B,2024-3-24 13:22:00,1,60,99,16,1,1
+Speedforces:gortomi szilb,C,2024-3-24 13:50:00,1,180,61,18,1,1
+Speedforces:gortomi szilb,F,2024-3-24 14:30:00,1,83,64,31,2,1
+Speedforces:gortomi szilb,G,2024-3-24 15:18:00,1,210,141,192,1,1
+Speedforces:gortomi szilb,I,2024-3-24 13:33:00,1,112,45,17,2,1
+Speedforces:gortomi szilb,J,2024-3-24 17:26:00,5,212,145,156,2,1
+Stefan2417,B,2024-3-24 13:17:00,1,60,99,16,1,1
+SurveyCorps:Wasif_Shahzad thtTNT kr25161,B,2024-3-24 15:24:00,9,60,99,16,1,1
+SurveyCorps:Wasif_Shahzad thtTNT kr25161,C,2024-3-24 16:56:00,4,180,61,18,1,1
+SurveyCorps:Wasif_Shahzad thtTNT kr25161,I,2024-3-24 14:12:00,14,112,45,17,2,1
+Sw1_Tch,B,2024-3-24 15:13:00,2,60,99,16,1,1
+Sw1_Tch,C,2024-3-24 15:03:00,2,180,61,18,1,1
+Sw1_Tch,F,2024-3-24 16:12:00,1,83,64,31,2,0
+Sw1_Tch,I,2024-3-24 17:59:00,6,112,45,17,2,0
+Synaptic_Savant,B,2024-3-24 14:45:00,3,60,99,16,1,1
+TDangTK,B,2024-3-24 17:16:00,1,60,99,16,1,0
+TJU.Trinity:mathwing,B,2024-3-24 13:59:00,1,60,99,16,1,1
+TJU.Trinity:mathwing,C,2024-3-24 16:05:00,2,180,61,18,1,1
+TJU.Trinity:mathwing,I,2024-3-24 15:23:00,7,112,45,17,2,1
+TJUGOODmanbawhatcanisay:nakanoreino Bronyaya 2834626583,B,2024-3-24 13:28:00,1,60,99,16,1,1
+TLE:miata MrPavlito Tesla89,E,2024-3-24 13:33:00,1,166,36,38,2,0
+TPC:Shubhanshi01 Exynos21 harshkumar3.14,F,2024-3-24 14:06:00,1,83,64,31,2,0
+TSEC2025:okaycoder_927 mohdabuzaid15 formidablechief27,B,2024-3-24 13:26:00,1,60,99,16,1,0
+TSEC2025:okaycoder_927 mohdabuzaid15 formidablechief27,I,2024-3-24 13:47:00,1,112,45,17,2,0
+TVA:vrintle C0de_Beast tt12,B,2024-3-24 13:19:00,1,60,99,16,1,1
+TVA:vrintle C0de_Beast tt12,C,2024-3-24 16:27:00,7,180,61,18,1,1
+TVA:vrintle C0de_Beast tt12,E,2024-3-24 13:31:00,2,166,36,38,2,0
+TVA:vrintle C0de_Beast tt12,G,2024-3-24 16:53:00,2,210,141,192,1,1
+TVA:vrintle C0de_Beast tt12,I,2024-3-24 14:10:00,4,112,45,17,2,1
+TakeChance3.0:Alpha_Q Anachor nfssdq,B,2024-3-24 14:06:00,5,60,99,16,1,1
+TakeChance3.0:Alpha_Q Anachor nfssdq,C,2024-3-24 13:49:00,2,180,61,18,1,1
+TakeChance3.0:Alpha_Q Anachor nfssdq,D,2024-3-24 16:44:00,2,228,148,169,2,1
+TakeChance3.0:Alpha_Q Anachor nfssdq,E,2024-3-24 17:24:00,33,166,36,38,2,0
+TakeChance3.0:Alpha_Q Anachor nfssdq,F,2024-3-24 13:39:00,1,83,64,31,2,1
+TakeChance3.0:Alpha_Q Anachor nfssdq,G,2024-3-24 17:18:00,4,210,141,192,1,1
+TakeChance3.0:Alpha_Q Anachor nfssdq,I,2024-3-24 13:48:00,6,112,45,17,2,1
+TakeChance3.0:Alpha_Q Anachor nfssdq,J,2024-3-24 14:57:00,1,212,145,156,2,1
+TakeChance3.0:Alpha_Q Anachor nfssdq,K,2024-3-24 17:59:00,1,96,83,102,2,0
+Tangfq_Edward,F,2024-3-24 14:50:00,11,83,64,31,2,0
+Tanjim2413,B,2024-3-24 17:17:00,3,60,99,16,1,0
+Tarmine,A,2024-3-24 14:41:00,6,85,59,68,2,0
+Tarmine,B,2024-3-24 13:27:00,1,60,99,16,1,0
+Tarmine,C,2024-3-24 13:28:00,1,180,61,18,1,0
+Tarmine,D,2024-3-24 14:46:00,3,228,148,169,2,0
+Tarmine,E,2024-3-24 13:30:00,1,166,36,38,2,0
+Tarmine,F,2024-3-24 13:31:00,1,83,64,31,2,0
+Tarmine,G,2024-3-24 13:33:00,1,210,141,192,1,0
+Tarmine,H,2024-3-24 13:34:00,1,202,96,26,2,0
+Tarmine,I,2024-3-24 13:35:00,1,112,45,17,2,0
+Tarmine,J,2024-3-24 13:36:00,1,212,145,156,2,0
+Tarmine,K,2024-3-24 13:38:00,1,96,83,102,2,0
+Tasbeeh.B.Hamdan,B,2024-3-24 17:21:00,1,60,99,16,1,0
+Team_Mujahid:mamun314 alam410,B,2024-3-24 17:09:00,1,60,99,16,1,0
+Team_Mujahid:mamun314 alam410,C,2024-3-24 17:12:00,1,180,61,18,1,0
+Teamname:nvmdava JettyOller jefrai,B,2024-3-24 13:20:00,1,60,99,16,1,1
+Teamname:nvmdava JettyOller jefrai,C,2024-3-24 13:17:00,1,180,61,18,1,1
+Teamname:nvmdava JettyOller jefrai,D,2024-3-24 17:39:00,9,228,148,169,2,1
+Teamname:nvmdava JettyOller jefrai,F,2024-3-24 13:49:00,2,83,64,31,2,1
+Teamname:nvmdava JettyOller jefrai,G,2024-3-24 15:14:00,4,210,141,192,1,1
+Teamname:nvmdava JettyOller jefrai,I,2024-3-24 13:25:00,1,112,45,17,2,1
+Teamname:nvmdava JettyOller jefrai,J,2024-3-24 16:48:00,1,212,145,156,2,1
+Teamname:nvmdava JettyOller jefrai,K,2024-3-24 17:01:00,1,96,83,102,2,1
+Teamnamechavales?:Lurtruoso Clan328 rafatoa,B,2024-3-24 13:08:00,1,60,99,16,1,1
+Teamnamechavales?:Lurtruoso Clan328 rafatoa,C,2024-3-24 16:16:00,25,180,61,18,1,0
+Teamnamechavales?:Lurtruoso Clan328 rafatoa,F,2024-3-24 17:58:00,18,83,64,31,2,0
+Teamnamechavales?:Lurtruoso Clan328 rafatoa,G,2024-3-24 16:43:00,17,210,141,192,1,0
+Teamnamechavales?:Lurtruoso Clan328 rafatoa,I,2024-3-24 13:48:00,3,112,45,17,2,1
+TernaryNomads:Shreekar11 avengers2405,A,2024-3-24 17:59:00,7,85,59,68,2,0
+TheArchers:nancy19 kaarti_19,B,2024-3-24 17:36:00,2,60,99,16,1,0
+TheBlasters:aryak05 kkkk1234 nandhagk1729,B,2024-3-24 17:48:00,6,60,99,16,1,1
+TheBlasters:aryak05 kkkk1234 nandhagk1729,C,2024-3-24 14:30:00,1,180,61,18,1,1
+TheBlasters:aryak05 kkkk1234 nandhagk1729,I,2024-3-24 14:44:00,2,112,45,17,2,1
+TheGuineapigs:Niyaj_2203163 HumairaCSE_22 Sharmi_N,B,2024-3-24 16:17:00,1,60,99,16,1,0
+TheGuineapigs:Niyaj_2203163 HumairaCSE_22 Sharmi_N,E,2024-3-24 14:25:00,2,166,36,38,2,0
+ThePig theSnakeandthePigeon:wywcgs Zhuojie panghupanghu,B,2024-3-24 13:21:00,1,60,99,16,1,1
+ThePig theSnakeandthePigeon:wywcgs Zhuojie panghupanghu,C,2024-3-24 14:26:00,5,180,61,18,1,1
+ThePig theSnakeandthePigeon:wywcgs Zhuojie panghupanghu,F,2024-3-24 14:47:00,2,83,64,31,2,1
+ThePig theSnakeandthePigeon:wywcgs Zhuojie panghupanghu,G,2024-3-24 17:59:00,9,210,141,192,1,0
+ThePig theSnakeandthePigeon:wywcgs Zhuojie panghupanghu,H,2024-3-24 15:39:00,1,202,96,26,2,0
+ThePig theSnakeandthePigeon:wywcgs Zhuojie panghupanghu,I,2024-3-24 13:53:00,2,112,45,17,2,1
+ThePig theSnakeandthePigeon:wywcgs Zhuojie panghupanghu,K,2024-3-24 17:19:00,1,96,83,102,2,1
+TheUnderagerDoesntLikeThisContest:Guess.Who Eliaster Helal_Salloum,B,2024-3-24 13:17:00,1,60,99,16,1,1
+TheUnderagerDoesntLikeThisContest:Guess.Who Eliaster Helal_Salloum,C,2024-3-24 13:44:00,1,180,61,18,1,1
+TheUnderagerDoesntLikeThisContest:Guess.Who Eliaster Helal_Salloum,E,2024-3-24 16:27:00,17,166,36,38,2,0
+TheUnderagerDoesntLikeThisContest:Guess.Who Eliaster Helal_Salloum,F,2024-3-24 14:01:00,1,83,64,31,2,1
+TheUnderagerDoesntLikeThisContest:Guess.Who Eliaster Helal_Salloum,I,2024-3-24 15:23:00,6,112,45,17,2,0
+The_Andrey,B,2024-3-24 13:20:00,1,60,99,16,1,1
+The_Andrey,I,2024-3-24 15:15:00,6,112,45,17,2,0
+ThreeCaballeros:Tanzim_bn adibur6 Hamim99,B,2024-3-24 13:27:00,1,60,99,16,1,1
+ThreeCaballeros:Tanzim_bn adibur6 Hamim99,C,2024-3-24 13:50:00,1,180,61,18,1,1
+ThreeCaballeros:Tanzim_bn adibur6 Hamim99,G,2024-3-24 17:50:00,3,210,141,192,1,1
+ThreeCaballeros:Tanzim_bn adibur6 Hamim99,I,2024-3-24 13:58:00,5,112,45,17,2,1
+Time_Pass:devansh12_ Mehul_Gupta 99xthpb_curator,B,2024-3-24 13:08:00,1,60,99,16,1,1
+Time_Pass:devansh12_ Mehul_Gupta 99xthpb_curator,C,2024-3-24 17:59:00,1,180,61,18,1,0
+Time_Pass:devansh12_ Mehul_Gupta 99xthpb_curator,E,2024-3-24 17:51:00,24,166,36,38,2,0
+Time_Pass:devansh12_ Mehul_Gupta 99xthpb_curator,I,2024-3-24 16:43:00,10,112,45,17,2,1
+Timosh,B,2024-3-24 13:33:00,2,60,99,16,1,1
+Timosh,E,2024-3-24 15:26:00,9,166,36,38,2,0
+Timosh,F,2024-3-24 17:58:00,6,83,64,31,2,0
+Timosh,I,2024-3-24 16:49:00,8,112,45,17,2,0
+Toanleefanclub:alittlemiddle User0069,B,2024-3-24 14:24:00,1,60,99,16,1,1
+Toanleefanclub:alittlemiddle User0069,C,2024-3-24 15:30:00,1,180,61,18,1,1
+Toanleefanclub:alittlemiddle User0069,G,2024-3-24 17:16:00,3,210,141,192,1,1
+Toanleefanclub:alittlemiddle User0069,I,2024-3-24 13:47:00,5,112,45,17,2,1
+TouchingtheFish:TLE_Automat ComplexPug snowy2002,B,2024-3-24 13:09:00,1,60,99,16,1,1
+TouchingtheFish:TLE_Automat ComplexPug snowy2002,C,2024-3-24 13:59:00,1,180,61,18,1,1
+TouchingtheFish:TLE_Automat ComplexPug snowy2002,F,2024-3-24 17:34:00,14,83,64,31,2,1
+TouchingtheFish:TLE_Automat ComplexPug snowy2002,G,2024-3-24 17:47:00,2,210,141,192,1,0
+TouchingtheFish:TLE_Automat ComplexPug snowy2002,I,2024-3-24 14:31:00,6,112,45,17,2,1
+TrainStreet:Netr xXx_KevinDu58_xXx,B,2024-3-24 13:40:00,1,60,99,16,1,1
+TrainStreet:Netr xXx_KevinDu58_xXx,C,2024-3-24 16:06:00,2,180,61,18,1,1
+TrainStreet:Netr xXx_KevinDu58_xXx,D,2024-3-24 16:10:00,2,228,148,169,2,1
+TrainStreet:Netr xXx_KevinDu58_xXx,F,2024-3-24 14:51:00,2,83,64,31,2,1
+TrainStreet:Netr xXx_KevinDu58_xXx,G,2024-3-24 17:56:00,5,210,141,192,1,1
+TrainStreet:Netr xXx_KevinDu58_xXx,I,2024-3-24 14:01:00,1,112,45,17,2,1
+TravellingSalesman,B,2024-3-24 13:40:00,4,60,99,16,1,1
+TravellingSalesman,C,2024-3-24 14:45:00,1,180,61,18,1,1
+TravellingSalesman,F,2024-3-24 16:42:00,12,83,64,31,2,0
+TravellingSalesman,I,2024-3-24 15:29:00,8,112,45,17,2,1
+TrendBattles,C,2024-3-24 16:16:00,3,180,61,18,1,1
+TrendBattles,I,2024-3-24 17:21:00,2,112,45,17,2,0
+TripleA:Ramaman_22 hakdcode_1,B,2024-3-24 16:33:00,1,60,99,16,1,1
+TripleA:Ramaman_22 hakdcode_1,C,2024-3-24 16:09:00,1,180,61,18,1,0
+TripleA:Ramaman_22 hakdcode_1,I,2024-3-24 14:12:00,1,112,45,17,2,0
+Twoheadsbetterthanone:60305,B,2024-3-24 13:49:00,2,60,99,16,1,1
+Twoheadsbetterthanone:60305,C,2024-3-24 17:44:00,4,180,61,18,1,1
+Twoheadsbetterthanone:60305,I,2024-3-24 14:32:00,2,112,45,17,2,1
+UP,C,2024-3-24 17:36:00,23,180,61,18,1,1
+UW11:eratchia wonrzrzeczny Risers,B,2024-3-24 13:15:00,1,60,99,16,1,1
+UW11:eratchia wonrzrzeczny Risers,C,2024-3-24 13:55:00,2,180,61,18,1,1
+UW11:eratchia wonrzrzeczny Risers,D,2024-3-24 16:49:00,6,228,148,169,2,1
+UW11:eratchia wonrzrzeczny Risers,E,2024-3-24 17:38:00,2,166,36,38,2,0
+UW11:eratchia wonrzrzeczny Risers,F,2024-3-24 15:17:00,3,83,64,31,2,1
+UW11:eratchia wonrzrzeczny Risers,G,2024-3-24 14:24:00,2,210,141,192,1,1
+UW11:eratchia wonrzrzeczny Risers,H,2024-3-24 17:59:00,1,202,96,26,2,0
+UW11:eratchia wonrzrzeczny Risers,I,2024-3-24 13:47:00,2,112,45,17,2,1
+UW11:eratchia wonrzrzeczny Risers,J,2024-3-24 17:11:00,5,212,145,156,2,1
+Ultimate:SafarovIsko000 MehemmedSettarli sayadsalmanov70,B,2024-3-24 13:13:00,1,60,99,16,1,0
+Uthrisar,C,2024-3-24 17:24:00,2,180,61,18,1,0
+VJsong02,I,2024-3-24 16:57:00,7,112,45,17,2,1
+VON:Naman_Agarwal_03 onkar_somani vishesh011,B,2024-3-24 13:29:00,1,60,99,16,1,1
+VON:Naman_Agarwal_03 onkar_somani vishesh011,C,2024-3-24 15:01:00,2,180,61,18,1,1
+VON:Naman_Agarwal_03 onkar_somani vishesh011,G,2024-3-24 16:39:00,1,210,141,192,1,1
+VON:Naman_Agarwal_03 onkar_somani vishesh011,I,2024-3-24 15:55:00,5,112,45,17,2,1
+VU_Str;:iamgolamrabbanii tanzim86 _authoi,B,2024-3-24 13:42:00,1,60,99,16,1,0
+VamosAbhinav,B,2024-3-24 15:56:00,2,60,99,16,1,0
+Varuxn,B,2024-3-24 14:11:00,1,60,99,16,1,1
+Varuxn,C,2024-3-24 17:20:00,4,180,61,18,1,1
+Varuxn,I,2024-3-24 15:38:00,3,112,45,17,2,1
+Vergil1000,B,2024-3-24 13:23:00,1,60,99,16,1,1
+VeryOdlG:Lechugon JPostigo MJSoto123,B,2024-3-24 15:14:00,1,60,99,16,1,1
+VeryOdlG:Lechugon JPostigo MJSoto123,I,2024-3-24 17:41:00,7,112,45,17,2,0
+Volk_zevaet,B,2024-3-24 13:09:00,1,60,99,16,1,1
+Volk_zevaet,C,2024-3-24 14:13:00,2,180,61,18,1,0
+WAEaters:Haciyev123 Rza1,B,2024-3-24 14:17:00,3,60,99,16,1,0
+WYX.:_Soil_ wuyixiang kevin1616,B,2024-3-24 13:42:00,1,60,99,16,1,0
+WatermelonPS:B10_STITI Kefrov,I,2024-3-24 15:44:00,7,112,45,17,2,0
+WeakBlood,B,2024-3-24 15:29:00,2,60,99,16,1,0
+WeakBlood,C,2024-3-24 15:28:00,7,180,61,18,1,1
+What__,B,2024-3-24 15:29:00,1,60,99,16,1,0
+Wingmen_101:goodboi650 codestar_101 SourabhYelluru,C,2024-3-24 17:55:00,5,180,61,18,1,0
+YELLOWTEAM:MarcAS abbasslb htrms,A,2024-3-24 14:09:00,5,85,59,68,2,0
+YELLOWTEAM:MarcAS abbasslb htrms,B,2024-3-24 14:53:00,5,60,99,16,1,0
+YELLOWTEAM:MarcAS abbasslb htrms,I,2024-3-24 16:32:00,7,112,45,17,2,0
+YELLOWTEAM:MarcAS abbasslb htrms,K,2024-3-24 15:37:00,1,96,83,102,2,0
+YKWF,B,2024-3-24 13:26:00,1,60,99,16,1,0
+YerevanSU2813:zidder _LeMur_,B,2024-3-24 13:36:00,2,60,99,16,1,1
+YerevanSU2813:zidder _LeMur_,C,2024-3-24 14:22:00,2,180,61,18,1,1
+YerevanSU2813:zidder _LeMur_,D,2024-3-24 15:43:00,1,228,148,169,2,1
+YerevanSU2813:zidder _LeMur_,F,2024-3-24 14:32:00,2,83,64,31,2,1
+YerevanSU2813:zidder _LeMur_,G,2024-3-24 16:34:00,7,210,141,192,1,1
+YerevanSU2813:zidder _LeMur_,I,2024-3-24 13:47:00,3,112,45,17,2,1
+YerevanSU2813:zidder _LeMur_,J,2024-3-24 17:39:00,1,212,145,156,2,1
+YerevanSU:SD3:mcdx9524 erankyun Andreasyan,B,2024-3-24 13:17:00,2,60,99,16,1,1
+YerevanSU:SD3:mcdx9524 erankyun Andreasyan,C,2024-3-24 13:42:00,1,180,61,18,1,1
+YerevanSU:SD3:mcdx9524 erankyun Andreasyan,D,2024-3-24 17:03:00,3,228,148,169,2,1
+YerevanSU:SD3:mcdx9524 erankyun Andreasyan,F,2024-3-24 16:07:00,1,83,64,31,2,1
+YerevanSU:SD3:mcdx9524 erankyun Andreasyan,G,2024-3-24 15:23:00,1,210,141,192,1,1
+YerevanSU:SD3:mcdx9524 erankyun Andreasyan,I,2024-3-24 14:21:00,2,112,45,17,2,1
+Yotsuba,A,2024-3-24 13:13:00,4,85,59,68,2,0
+Youcanskipthisstep,F,2024-3-24 14:33:00,6,83,64,31,2,0
+Yousaf_Riaz_07,I,2024-3-24 13:08:00,1,112,45,17,2,0
+Yugandhar_Master,A,2024-3-24 13:21:00,2,85,59,68,2,0
+Yugandhar_Master,B,2024-3-24 13:27:00,1,60,99,16,1,1
+Yugandhar_Master,C,2024-3-24 14:58:00,3,180,61,18,1,1
+Yugandhar_Master,I,2024-3-24 15:27:00,14,112,45,17,2,0
+ZJSUNO1,B,2024-3-24 14:10:00,2,60,99,16,1,1
+ZanpakutoOfSina,C,2024-3-24 17:35:00,2,180,61,18,1,0
+ZeroMotivation:Aziz_Atallah Kazake Alldin,B,2024-3-24 13:35:00,1,60,99,16,1,0
+ZeroMotivation:Aziz_Atallah Kazake Alldin,I,2024-3-24 15:01:00,1,112,45,17,2,0
+ZhockDen,B,2024-3-24 13:27:00,1,60,99,16,1,1
+ZhockDen,I,2024-3-24 14:58:00,15,112,45,17,2,0
+Zinc-acetate,B,2024-3-24 16:14:00,1,60,99,16,1,1
+Zinc-acetate,C,2024-3-24 16:49:00,4,180,61,18,1,0
+Zoma17,B,2024-3-24 13:21:00,1,60,99,16,1,1
+Zoma17,C,2024-3-24 14:42:00,2,180,61,18,1,1
+Zoma17,I,2024-3-24 15:48:00,6,112,45,17,2,0
+Zzz:mat_deg loumock,B,2024-3-24 14:16:00,2,60,99,16,1,1
+Zzz:mat_deg loumock,C,2024-3-24 15:14:00,2,180,61,18,1,1
+Zzz:mat_deg loumock,I,2024-3-24 14:57:00,2,112,45,17,2,0
+[PPQ]-PeterPãodeQueijo:GuilhermeCdM Cabralbonzao,B,2024-3-24 13:22:00,1,60,99,16,1,1
+[PPQ]-PeterPãodeQueijo:GuilhermeCdM Cabralbonzao,C,2024-3-24 14:39:00,2,180,61,18,1,1
+[PPQ]-PeterPãodeQueijo:GuilhermeCdM Cabralbonzao,G,2024-3-24 15:53:00,3,210,141,192,1,1
+[PPQ]-PeterPãodeQueijo:GuilhermeCdM Cabralbonzao,I,2024-3-24 13:54:00,2,112,45,17,2,1
+[UFMG]sddsEmanuel:fmota MvKaio,B,2024-3-24 13:09:00,1,60,99,16,1,1
+[UFMG]sddsEmanuel:fmota MvKaio,C,2024-3-24 14:11:00,1,180,61,18,1,1
+[UFMG]sddsEmanuel:fmota MvKaio,D,2024-3-24 16:02:00,2,228,148,169,2,1
+[UFMG]sddsEmanuel:fmota MvKaio,F,2024-3-24 13:52:00,1,83,64,31,2,1
+[UFMG]sddsEmanuel:fmota MvKaio,G,2024-3-24 14:29:00,1,210,141,192,1,1
+[UFMG]sddsEmanuel:fmota MvKaio,I,2024-3-24 13:40:00,1,112,45,17,2,1
+[UFMG]sddsEmanuel:fmota MvKaio,J,2024-3-24 17:00:00,5,212,145,156,2,1
+[UFMG]sddsEmanuel:fmota MvKaio,K,2024-3-24 17:58:00,5,96,83,102,2,0
+_Ahamed_,B,2024-3-24 13:32:00,1,60,99,16,1,1
+_Faineant,B,2024-3-24 14:24:00,2,60,99,16,1,0
+_Hosam,B,2024-3-24 14:56:00,2,60,99,16,1,0
+_Kee,B,2024-3-24 13:35:00,3,60,99,16,1,0
+_Kee,I,2024-3-24 14:28:00,1,112,45,17,2,0
+_Masum_Billah,B,2024-3-24 17:02:00,1,60,99,16,1,1
+_Masum_Billah,I,2024-3-24 17:55:00,3,112,45,17,2,0
+_O_K_,B,2024-3-24 16:33:00,2,60,99,16,1,0
+__endeavour__,A,2024-3-24 15:18:00,2,85,59,68,2,0
+_sp_,B,2024-3-24 15:38:00,2,60,99,16,1,0
+abhayg_07,B,2024-3-24 15:00:00,3,60,99,16,1,1
+abhayg_07,C,2024-3-24 14:29:00,2,180,61,18,1,1
+abhayg_07,I,2024-3-24 13:49:00,3,112,45,17,2,1
+abhiramreddy15,B,2024-3-24 13:42:00,2,60,99,16,1,0
+ademby,B,2024-3-24 16:04:00,1,60,99,16,1,0
+ahmedabdelmoneim,B,2024-3-24 15:53:00,1,60,99,16,1,0
+ahmedabdelmoneim,F,2024-3-24 15:57:00,2,83,64,31,2,0
+ahmetlbktd4,A,2024-3-24 13:44:00,3,85,59,68,2,0
+ahmetlbktd4,B,2024-3-24 13:46:00,2,60,99,16,1,0
+ahmetlbktd4,C,2024-3-24 13:48:00,1,180,61,18,1,0
+ahmetlbktd4,I,2024-3-24 13:40:00,2,112,45,17,2,0
+ahucm_team02:Chouxiaozilwh NianEr PlumYu,B,2024-3-24 14:19:00,4,60,99,16,1,1
+ahucm_team02:Chouxiaozilwh NianEr PlumYu,I,2024-3-24 15:56:00,1,112,45,17,2,0
+ak_2613,B,2024-3-24 16:27:00,1,60,99,16,1,0
+alauddin_45,I,2024-3-24 14:26:00,1,112,45,17,2,0
+albataaafial3ishaaayaaaad:Novel_ Escape,B,2024-3-24 15:58:00,1,60,99,16,1,1
+albataaafial3ishaaayaaaad:Novel_ Escape,C,2024-3-24 17:03:00,1,180,61,18,1,1
+albataaafial3ishaaayaaaad:Novel_ Escape,I,2024-3-24 17:54:00,20,112,45,17,2,0
+alekberov02,B,2024-3-24 14:00:00,2,60,99,16,1,0
+alemaevm,B,2024-3-24 14:28:00,2,60,99,16,1,0
+alexey.enkov,B,2024-3-24 14:39:00,2,60,99,16,1,1
+alexey.enkov,C,2024-3-24 15:56:00,4,180,61,18,1,1
+alexey.enkov,F,2024-3-24 16:45:00,3,83,64,31,2,1
+alexey.enkov,I,2024-3-24 15:14:00,2,112,45,17,2,1
+ali_ghasson_fukers:BallzCrasher Harraaak,A,2024-3-24 14:04:00,1,85,59,68,2,0
+ali_ghasson_fukers:BallzCrasher Harraaak,C,2024-3-24 15:39:00,4,180,61,18,1,1
+ali_ghasson_fukers:BallzCrasher Harraaak,F,2024-3-24 16:28:00,2,83,64,31,2,0
+ali_ghasson_fukers:BallzCrasher Harraaak,I,2024-3-24 14:19:00,7,112,45,17,2,1
+aligeeee,A,2024-3-24 16:59:00,3,85,59,68,2,0
+alikamatosyan11,A,2024-3-24 13:21:00,2,85,59,68,2,0
+allllekssssa,B,2024-3-24 14:43:00,1,60,99,16,1,1
+aman1020,A,2024-3-24 13:51:00,1,85,59,68,2,0
+aman1020,B,2024-3-24 14:04:00,1,60,99,16,1,0
+aman_sriv,B,2024-3-24 13:09:00,1,60,99,16,1,1
+aman_sriv,C,2024-3-24 15:06:00,6,180,61,18,1,0
+amanueltsehay11,B,2024-3-24 13:27:00,1,60,99,16,1,0
+amar3ndar,B,2024-3-24 14:42:00,1,60,99,16,1,1
+amgabr19,B,2024-3-24 13:51:00,1,60,99,16,1,0
+aminjonshermatov,B,2024-3-24 13:34:00,5,60,99,16,1,1
+aminjonshermatov,C,2024-3-24 17:18:00,6,180,61,18,1,1
+aminjonshermatov,F,2024-3-24 17:59:00,5,83,64,31,2,0
+aminjonshermatov,I,2024-3-24 14:00:00,2,112,45,17,2,0
+anhnekogavl:neko_nyaaaaaaaaaaaaaaaaa SpiritGoFarAwayWithAlcoh YinLin,A,2024-3-24 14:19:00,10,85,59,68,2,0
+anhnekogavl:neko_nyaaaaaaaaaaaaaaaaa SpiritGoFarAwayWithAlcoh YinLin,B,2024-3-24 13:26:00,1,60,99,16,1,1
+anhnekogavl:neko_nyaaaaaaaaaaaaaaaaa SpiritGoFarAwayWithAlcoh YinLin,C,2024-3-24 13:31:00,2,180,61,18,1,1
+anhnekogavl:neko_nyaaaaaaaaaaaaaaaaa SpiritGoFarAwayWithAlcoh YinLin,D,2024-3-24 17:46:00,9,228,148,169,2,1
+anhnekogavl:neko_nyaaaaaaaaaaaaaaaaa SpiritGoFarAwayWithAlcoh YinLin,F,2024-3-24 16:27:00,9,83,64,31,2,0
+anhnekogavl:neko_nyaaaaaaaaaaaaaaaaa SpiritGoFarAwayWithAlcoh YinLin,G,2024-3-24 16:17:00,4,210,141,192,1,1
+anhnekogavl:neko_nyaaaaaaaaaaaaaaaaa SpiritGoFarAwayWithAlcoh YinLin,I,2024-3-24 14:18:00,11,112,45,17,2,1
+ankit.vishwakarma012,F,2024-3-24 16:35:00,4,83,64,31,2,0
+ansisgustavs2,B,2024-3-24 14:08:00,1,60,99,16,1,1
+ansisgustavs2,I,2024-3-24 15:15:00,3,112,45,17,2,0
+ar_rony1,B,2024-3-24 13:27:00,1,60,99,16,1,1
+aravindkrceh005,E,2024-3-24 14:33:00,1,166,36,38,2,0
+arnavra3,B,2024-3-24 15:51:00,4,60,99,16,1,1
+arnavra3,I,2024-3-24 17:51:00,2,112,45,17,2,0
+arvindf232,C,2024-3-24 13:24:00,1,180,61,18,1,1
+arvindf232,E,2024-3-24 14:01:00,4,166,36,38,2,0
+arvindf232,F,2024-3-24 13:44:00,1,83,64,31,2,1
+arvindf232,I,2024-3-24 13:14:00,2,112,45,17,2,1
+arvindf232,K,2024-3-24 16:18:00,3,96,83,102,2,1
+ash469,E,2024-3-24 15:48:00,5,166,36,38,2,0
+asilbekjustme,A,2024-3-24 16:18:00,1,85,59,68,2,0
+asilbekjustme,B,2024-3-24 16:21:00,1,60,99,16,1,0
+asilbekjustme,C,2024-3-24 16:23:00,1,180,61,18,1,0
+asilbekjustme,G,2024-3-24 16:25:00,1,210,141,192,1,0
+asilbekjustme,I,2024-3-24 16:30:00,1,112,45,17,2,0
+asutosh29,B,2024-3-24 17:05:00,1,60,99,16,1,0
+avighai17,B,2024-3-24 13:53:00,1,60,99,16,1,0
+awoo,B,2024-3-24 13:14:00,1,60,99,16,1,1
+awoo,C,2024-3-24 13:44:00,1,180,61,18,1,1
+awoo,F,2024-3-24 14:02:00,1,83,64,31,2,1
+awoo,G,2024-3-24 15:40:00,6,210,141,192,1,1
+awoo,I,2024-3-24 13:34:00,3,112,45,17,2,1
+awoo,J,2024-3-24 16:29:00,1,212,145,156,2,0
+ayabassam,B,2024-3-24 14:12:00,3,60,99,16,1,0
+ayush.ab44,C,2024-3-24 17:10:00,3,180,61,18,1,1
+ayush.ab44,I,2024-3-24 17:59:00,7,112,45,17,2,0
+ayush_s018,K,2024-3-24 15:52:00,1,96,83,102,2,0
+ayushsharma49,A,2024-3-24 13:32:00,1,85,59,68,2,0
+b_sri_harshi4,F,2024-3-24 13:20:00,2,83,64,31,2,0
+bach09102001,C,2024-3-24 16:54:00,2,180,61,18,1,0
+beingrajkamal,B,2024-3-24 13:45:00,3,60,99,16,1,0
+berobebero,B,2024-3-24 14:14:00,1,60,99,16,1,1
+berobebero,C,2024-3-24 17:57:00,6,180,61,18,1,1
+bhavyabhargavi,A,2024-3-24 13:17:00,3,85,59,68,2,0
+bihar_ke_majdoor:yup_imRishav Terror_404,B,2024-3-24 13:46:00,1,60,99,16,1,1
+bihar_ke_majdoor:yup_imRishav Terror_404,C,2024-3-24 15:11:00,3,180,61,18,1,1
+bihar_ke_majdoor:yup_imRishav Terror_404,I,2024-3-24 13:45:00,4,112,45,17,2,0
+bingtianxuedi,A,2024-3-24 14:46:00,2,85,59,68,2,0
+binhnn21,B,2024-3-24 13:26:00,1,60,99,16,1,0
+birsnot,B,2024-3-24 13:24:00,1,60,99,16,1,1
+birsnot,C,2024-3-24 15:16:00,2,180,61,18,1,1
+birsnot,F,2024-3-24 17:03:00,2,83,64,31,2,0
+birsnot,I,2024-3-24 14:33:00,2,112,45,17,2,1
+bjjvsrjjt,B,2024-3-24 13:48:00,1,60,99,16,1,1
+blitztage,B,2024-3-24 13:15:00,1,60,99,16,1,1
+blitztage,C,2024-3-24 13:58:00,2,180,61,18,1,1
+blitztage,F,2024-3-24 15:55:00,4,83,64,31,2,0
+blitztage,I,2024-3-24 13:29:00,1,112,45,17,2,1
+blunderer,B,2024-3-24 13:18:00,1,60,99,16,1,1
+bobobashi,B,2024-3-24 14:38:00,1,60,99,16,1,0
+buh:passwordisa spuh susvant,B,2024-3-24 13:34:00,1,60,99,16,1,1
+buh:passwordisa spuh susvant,C,2024-3-24 17:44:00,6,180,61,18,1,1
+buh:passwordisa spuh susvant,E,2024-3-24 15:42:00,4,166,36,38,2,0
+buh:passwordisa spuh susvant,F,2024-3-24 15:37:00,4,83,64,31,2,0
+buh:passwordisa spuh susvant,G,2024-3-24 14:14:00,1,210,141,192,1,1
+buh:passwordisa spuh susvant,I,2024-3-24 13:45:00,2,112,45,17,2,1
+caan_do,B,2024-3-24 13:10:00,2,60,99,16,1,1
+caan_do,C,2024-3-24 13:49:00,2,180,61,18,1,1
+caan_do,D,2024-3-24 17:46:00,7,228,148,169,2,0
+caan_do,G,2024-3-24 14:56:00,7,210,141,192,1,1
+caan_do,I,2024-3-24 13:28:00,2,112,45,17,2,1
+caan_do,J,2024-3-24 16:13:00,12,212,145,156,2,0
+ceaserjuilius,I,2024-3-24 13:11:00,2,112,45,17,2,0
+chaipatti:bOrax10 MOHD_FAIZ ArtValor,C,2024-3-24 14:25:00,1,180,61,18,1,0
+chaipatti:bOrax10 MOHD_FAIZ ArtValor,I,2024-3-24 13:52:00,5,112,45,17,2,0
+chandu_nandala,B,2024-3-24 13:40:00,1,60,99,16,1,0
+chandu_nandala,I,2024-3-24 13:43:00,1,112,45,17,2,0
+chekri249,B,2024-3-24 13:36:00,1,60,99,16,1,0
+chenchen666,B,2024-3-24 13:27:00,1,60,99,16,1,0
+cmr_22r01a04g1,A,2024-3-24 13:28:00,5,85,59,68,2,0
+coaches:jbaldus alagorithmet,C,2024-3-24 14:58:00,4,180,61,18,1,1
+coaches:jbaldus alagorithmet,F,2024-3-24 16:46:00,1,83,64,31,2,0
+coaches:jbaldus alagorithmet,G,2024-3-24 16:03:00,2,210,141,192,1,0
+code_tantrik_07,A,2024-3-24 15:04:00,1,85,59,68,2,0
+codeformula,B,2024-3-24 16:37:00,2,60,99,16,1,0
+coding?popoversail RECOLO wywywywywywywywy,B,2024-3-24 14:47:00,6,60,99,16,1,0
+coding?popoversail RECOLO wywywywywywywywy,I,2024-3-24 15:02:00,2,112,45,17,2,0
+compiler_crew:nithya0823 apoorvaasb Shivsri1420,E,2024-3-24 13:34:00,2,166,36,38,2,0
+crispyMSG:achrisp05 angkaberapa kremix6767,A,2024-3-24 15:44:00,4,85,59,68,2,0
+crispyMSG:achrisp05 angkaberapa kremix6767,B,2024-3-24 13:59:00,2,60,99,16,1,1
+crispyMSG:achrisp05 angkaberapa kremix6767,E,2024-3-24 15:37:00,5,166,36,38,2,0
+crispyMSG:achrisp05 angkaberapa kremix6767,I,2024-3-24 17:57:00,5,112,45,17,2,0
+crispyMSG:achrisp05 angkaberapa kremix6767,K,2024-3-24 17:00:00,1,96,83,102,2,0
+cryomancer148,B,2024-3-24 14:27:00,1,60,99,16,1,1
+cryomancer148,I,2024-3-24 15:06:00,3,112,45,17,2,0
+cse220001042,B,2024-3-24 13:22:00,1,60,99,16,1,1
+cse220001042,I,2024-3-24 14:07:00,2,112,45,17,2,0
+cyxlovesgmx:Tricopter juan_123,B,2024-3-24 13:26:00,1,60,99,16,1,1
+cyxlovesgmx:Tricopter juan_123,C,2024-3-24 14:07:00,1,180,61,18,1,1
+cyxlovesgmx:Tricopter juan_123,F,2024-3-24 14:14:00,2,83,64,31,2,1
+cyxlovesgmx:Tricopter juan_123,G,2024-3-24 16:25:00,8,210,141,192,1,1
+cyxlovesgmx:Tricopter juan_123,I,2024-3-24 13:41:00,3,112,45,17,2,1
+dXqwq,A,2024-3-24 16:59:00,14,85,59,68,2,0
+dXqwq,B,2024-3-24 13:25:00,1,60,99,16,1,1
+dXqwq,C,2024-3-24 14:00:00,1,180,61,18,1,1
+dXqwq,D,2024-3-24 15:30:00,1,228,148,169,2,1
+dXqwq,F,2024-3-24 13:11:00,3,83,64,31,2,1
+dXqwq,G,2024-3-24 14:15:00,1,210,141,192,1,1
+dXqwq,I,2024-3-24 13:39:00,7,112,45,17,2,1
+dXqwq,J,2024-3-24 14:54:00,1,212,145,156,2,1
+dXqwq,K,2024-3-24 17:34:00,3,96,83,102,2,1
+dallerivemiki,B,2024-3-24 13:13:00,1,60,99,16,1,1
+dallerivemiki,F,2024-3-24 14:40:00,6,83,64,31,2,0
+dallerivemiki,I,2024-3-24 14:42:00,4,112,45,17,2,0
+danick,A,2024-3-24 17:54:00,13,85,59,68,2,0
+deekshithamereddy94,A,2024-3-24 13:50:00,1,85,59,68,2,0
+deepesh7024,B,2024-3-24 14:43:00,1,60,99,16,1,0
+demo_ahm,B,2024-3-24 14:11:00,3,60,99,16,1,0
+derxyz,A,2024-3-24 15:14:00,2,85,59,68,2,0
+dharshita406,A,2024-3-24 13:10:00,1,85,59,68,2,0
+dharshita406,B,2024-3-24 14:09:00,16,60,99,16,1,0
+doaakhalaf1outlook,A,2024-3-24 13:17:00,5,85,59,68,2,0
+doaakhalaf1outlook,B,2024-3-24 14:18:00,18,60,99,16,1,0
+doaakhalaf1outlook,C,2024-3-24 17:18:00,3,180,61,18,1,0
+doaakhalaf1outlook,D,2024-3-24 17:20:00,1,228,148,169,2,0
+doaakhalaf1outlook,F,2024-3-24 14:03:00,2,83,64,31,2,0
+doaakhalaf1outlook,G,2024-3-24 17:35:00,2,210,141,192,1,0
+doaakhalaf1outlook,I,2024-3-24 13:55:00,4,112,45,17,2,0
+doaakhalaf1outlook,K,2024-3-24 17:38:00,2,96,83,102,2,0
+dwivedikaustubh473,B,2024-3-24 15:25:00,1,60,99,16,1,1
+dwmyperceptionofthedifficultieswasnotexactlyspoton:tourist ecnerwala,A,2024-3-24 14:30:00,1,85,59,68,2,1
+dwmyperceptionofthedifficultieswasnotexactlyspoton:tourist ecnerwala,C,2024-3-24 13:14:00,1,180,61,18,1,1
+dwmyperceptionofthedifficultieswasnotexactlyspoton:tourist ecnerwala,D,2024-3-24 15:44:00,1,228,148,169,2,1
+dwmyperceptionofthedifficultieswasnotexactlyspoton:tourist ecnerwala,E,2024-3-24 16:38:00,2,166,36,38,2,1
+dwmyperceptionofthedifficultieswasnotexactlyspoton:tourist ecnerwala,F,2024-3-24 13:23:00,1,83,64,31,2,1
+dwmyperceptionofthedifficultieswasnotexactlyspoton:tourist ecnerwala,G,2024-3-24 13:55:00,1,210,141,192,1,1
+dwmyperceptionofthedifficultieswasnotexactlyspoton:tourist ecnerwala,H,2024-3-24 17:46:00,7,202,96,26,2,1
+dwmyperceptionofthedifficultieswasnotexactlyspoton:tourist ecnerwala,I,2024-3-24 13:08:00,1,112,45,17,2,1
+dwmyperceptionofthedifficultieswasnotexactlyspoton:tourist ecnerwala,J,2024-3-24 14:59:00,1,212,145,156,2,1
+dwmyperceptionofthedifficultieswasnotexactlyspoton:tourist ecnerwala,K,2024-3-24 15:41:00,2,96,83,102,2,1
+e_n1cat_,B,2024-3-24 14:09:00,3,60,99,16,1,1
+e_n1cat_,C,2024-3-24 17:13:00,1,180,61,18,1,1
+e_n1cat_,I,2024-3-24 16:56:00,9,112,45,17,2,1
+echipa123:Guevara74 alexdd Porumb,B,2024-3-24 14:40:00,2,60,99,16,1,1
+echipa123:Guevara74 alexdd Porumb,C,2024-3-24 13:17:00,1,180,61,18,1,1
+echipa123:Guevara74 alexdd Porumb,I,2024-3-24 13:27:00,3,112,45,17,2,1
+echipa123:Guevara74 alexdd Porumb,K,2024-3-24 16:47:00,4,96,83,102,2,0
+edgehasakedioi2024:fzx Fido_Puppy cjZYZtcl,B,2024-3-24 13:28:00,1,60,99,16,1,1
+edgehasakedioi2024:fzx Fido_Puppy cjZYZtcl,C,2024-3-24 14:54:00,1,180,61,18,1,1
+edgehasakedioi2024:fzx Fido_Puppy cjZYZtcl,E,2024-3-24 15:43:00,15,166,36,38,2,0
+edgehasakedioi2024:fzx Fido_Puppy cjZYZtcl,F,2024-3-24 13:39:00,1,83,64,31,2,1
+edgehasakedioi2024:fzx Fido_Puppy cjZYZtcl,G,2024-3-24 17:49:00,26,210,141,192,1,1
+edgehasakedioi2024:fzx Fido_Puppy cjZYZtcl,I,2024-3-24 14:42:00,5,112,45,17,2,1
+edgehasakedioi2024:fzx Fido_Puppy cjZYZtcl,J,2024-3-24 17:10:00,10,212,145,156,2,1
+eka_tsirekidze,C,2024-3-24 16:53:00,1,180,61,18,1,1
+eka_tsirekidze,I,2024-3-24 16:21:00,6,112,45,17,2,0
+elasticenormouseggs:WongChun1234 fire_water __jk__,A,2024-3-24 15:48:00,5,85,59,68,2,0
+elasticenormouseggs:WongChun1234 fire_water __jk__,B,2024-3-24 13:10:00,1,60,99,16,1,1
+elasticenormouseggs:WongChun1234 fire_water __jk__,C,2024-3-24 13:27:00,1,180,61,18,1,1
+elasticenormouseggs:WongChun1234 fire_water __jk__,D,2024-3-24 16:40:00,5,228,148,169,2,1
+elasticenormouseggs:WongChun1234 fire_water __jk__,E,2024-3-24 13:36:00,1,166,36,38,2,0
+elasticenormouseggs:WongChun1234 fire_water __jk__,F,2024-3-24 13:51:00,1,83,64,31,2,1
+elasticenormouseggs:WongChun1234 fire_water __jk__,G,2024-3-24 14:36:00,1,210,141,192,1,1
+elasticenormouseggs:WongChun1234 fire_water __jk__,H,2024-3-24 14:38:00,2,202,96,26,2,0
+elasticenormouseggs:WongChun1234 fire_water __jk__,I,2024-3-24 13:14:00,1,112,45,17,2,1
+elasticenormouseggs:WongChun1234 fire_water __jk__,J,2024-3-24 17:57:00,16,212,145,156,2,0
+eleneormots,A,2024-3-24 14:27:00,6,85,59,68,2,0
+eleneormots,B,2024-3-24 15:16:00,1,60,99,16,1,0
+eleneormots,C,2024-3-24 15:59:00,1,180,61,18,1,0
+eleneormots,D,2024-3-24 16:08:00,1,228,148,169,2,0
+eleneormots,E,2024-3-24 16:45:00,1,166,36,38,2,0
+eleneormots,F,2024-3-24 16:51:00,2,83,64,31,2,0
+eleneormots,H,2024-3-24 17:36:00,1,202,96,26,2,0
+eleneormots,I,2024-3-24 17:10:00,1,112,45,17,2,0
+eleneormots,K,2024-3-24 17:20:00,1,96,83,102,2,0
+emhadzi,B,2024-3-24 13:24:00,1,60,99,16,1,1
+emhadzi,C,2024-3-24 14:48:00,2,180,61,18,1,1
+emhadzi,F,2024-3-24 17:59:00,4,83,64,31,2,0
+entropy07,B,2024-3-24 16:24:00,1,60,99,16,1,1
+entropy07,I,2024-3-24 17:00:00,2,112,45,17,2,0
+ethOS:Tuhil hemanth6 envariant,B,2024-3-24 13:22:00,1,60,99,16,1,1
+ethOS:Tuhil hemanth6 envariant,C,2024-3-24 15:16:00,3,180,61,18,1,1
+ethOS:Tuhil hemanth6 envariant,I,2024-3-24 13:58:00,4,112,45,17,2,1
+eucalyptus,B,2024-3-24 14:33:00,2,60,99,16,1,1
+eucalyptus,C,2024-3-24 16:30:00,1,180,61,18,1,1
+eucalyptus,F,2024-3-24 17:54:00,3,83,64,31,2,0
+eucalyptus,I,2024-3-24 15:59:00,19,112,45,17,2,1
+explodeatsecondglance:Cowbby MegrezBunny LittleXi,B,2024-3-24 13:20:00,1,60,99,16,1,1
+explodeatsecondglance:Cowbby MegrezBunny LittleXi,C,2024-3-24 13:59:00,1,180,61,18,1,1
+explodeatsecondglance:Cowbby MegrezBunny LittleXi,F,2024-3-24 15:43:00,1,83,64,31,2,1
+explodeatsecondglance:Cowbby MegrezBunny LittleXi,G,2024-3-24 15:31:00,2,210,141,192,1,1
+explodeatsecondglance:Cowbby MegrezBunny LittleXi,I,2024-3-24 13:58:00,4,112,45,17,2,1
+explodeatsecondglance:Cowbby MegrezBunny LittleXi,J,2024-3-24 17:33:00,1,212,145,156,2,1
+fahimabdullah6163,C,2024-3-24 15:56:00,1,180,61,18,1,0
+fahimcp495FanClub:fahimcp495 amirhozaifa,B,2024-3-24 13:32:00,1,60,99,16,1,1
+fahimcp495FanClub:fahimcp495 amirhozaifa,C,2024-3-24 15:47:00,1,180,61,18,1,1
+fahimcp495FanClub:fahimcp495 amirhozaifa,F,2024-3-24 17:48:00,4,83,64,31,2,0
+fahimcp495FanClub:fahimcp495 amirhozaifa,I,2024-3-24 14:33:00,6,112,45,17,2,1
+fakeword,B,2024-3-24 16:30:00,1,60,99,16,1,0
+fakeword,E,2024-3-24 15:59:00,1,166,36,38,2,0
+fakeword,F,2024-3-24 16:24:00,6,83,64,31,2,0
+fakeword,I,2024-3-24 13:58:00,4,112,45,17,2,0
+fathersonuncle:ArminAzimi Mohammad.H915 parsa333111,B,2024-3-24 14:06:00,2,60,99,16,1,1
+fathersonuncle:ArminAzimi Mohammad.H915 parsa333111,C,2024-3-24 14:56:00,1,180,61,18,1,1
+fathersonuncle:ArminAzimi Mohammad.H915 parsa333111,I,2024-3-24 13:44:00,2,112,45,17,2,1
+geetansh009,A,2024-3-24 16:34:00,2,85,59,68,2,0
+geetansh009,B,2024-3-24 17:14:00,5,60,99,16,1,0
+geometry1,B,2024-3-24 15:13:00,1,60,99,16,1,0
+ger_egor,A,2024-3-24 13:45:00,7,85,59,68,2,0
+giorgikuchava,B,2024-3-24 13:56:00,2,60,99,16,1,1
+giorgikuchava,C,2024-3-24 15:16:00,3,180,61,18,1,1
+giorgikuchava,G,2024-3-24 16:59:00,1,210,141,192,1,0
+giorgikuchava,I,2024-3-24 17:36:00,1,112,45,17,2,1
+girlcodes,A,2024-3-24 16:03:00,2,85,59,68,2,0
+girlcodes,C,2024-3-24 16:00:00,5,180,61,18,1,0
+girlcodes,D,2024-3-24 16:12:00,1,228,148,169,2,0
+girlcodes,F,2024-3-24 16:09:00,2,83,64,31,2,0
+gitanshgoelcc,B,2024-3-24 14:08:00,1,60,99,16,1,1
+gladysh,A,2024-3-24 14:09:00,1,85,59,68,2,0
+goingtoICPCfinalist,B,2024-3-24 16:02:00,2,60,99,16,1,1
+goingtoICPCfinalist,I,2024-3-24 17:09:00,9,112,45,17,2,1
+gowthami00,E,2024-3-24 17:58:00,1,166,36,38,2,0
+graciousgopal,B,2024-3-24 15:19:00,1,60,99,16,1,0
+gta6,B,2024-3-24 14:13:00,2,60,99,16,1,1
+gta6,C,2024-3-24 17:59:00,5,180,61,18,1,0
+gta6,I,2024-3-24 17:53:00,11,112,45,17,2,1
+gvihvo,B,2024-3-24 14:53:00,1,60,99,16,1,1
+gyash724,A,2024-3-24 14:23:00,2,85,59,68,2,0
+h3lic0pt3r,A,2024-3-24 13:34:00,1,85,59,68,2,0
+hakaishin_3181,B,2024-3-24 13:39:00,1,60,99,16,1,1
+harikareddykus,A,2024-3-24 17:09:00,2,85,59,68,2,0
+harikareddykus,B,2024-3-24 17:11:00,2,60,99,16,1,0
+hazergaze,B,2024-3-24 17:52:00,3,60,99,16,1,0
+he_rock18,B,2024-3-24 17:37:00,1,60,99,16,1,1
+hemanth.kurra22,A,2024-3-24 17:36:00,4,85,59,68,2,0
+hemanth.kurra22,B,2024-3-24 17:28:00,2,60,99,16,1,0
+hemanth.kurra22,C,2024-3-24 17:19:00,1,180,61,18,1,0
+hexclan14,C,2024-3-24 15:44:00,1,180,61,18,1,0
+heyuguo,B,2024-3-24 15:25:00,1,60,99,16,1,1
+hht2005,B,2024-3-24 14:44:00,1,60,99,16,1,1
+hht2005,C,2024-3-24 15:22:00,2,180,61,18,1,1
+hht2005,F,2024-3-24 15:54:00,1,83,64,31,2,1
+hht2005,I,2024-3-24 15:00:00,1,112,45,17,2,1
+hi plsproblemsetfor:ocpc::Savior-of-Cross Kuroni errorgorn,A,2024-3-24 17:00:00,3,85,59,68,2,0
+hi plsproblemsetfor:ocpc::Savior-of-Cross Kuroni errorgorn,B,2024-3-24 13:21:00,1,60,99,16,1,1
+hi plsproblemsetfor:ocpc::Savior-of-Cross Kuroni errorgorn,C,2024-3-24 13:38:00,3,180,61,18,1,1
+hi plsproblemsetfor:ocpc::Savior-of-Cross Kuroni errorgorn,D,2024-3-24 16:39:00,6,228,148,169,2,1
+hi plsproblemsetfor:ocpc::Savior-of-Cross Kuroni errorgorn,F,2024-3-24 13:27:00,1,83,64,31,2,1
+hi plsproblemsetfor:ocpc::Savior-of-Cross Kuroni errorgorn,G,2024-3-24 14:56:00,1,210,141,192,1,1
+hi plsproblemsetfor:ocpc::Savior-of-Cross Kuroni errorgorn,H,2024-3-24 15:32:00,1,202,96,26,2,1
+hi plsproblemsetfor:ocpc::Savior-of-Cross Kuroni errorgorn,I,2024-3-24 13:16:00,2,112,45,17,2,1
+hi plsproblemsetfor:ocpc::Savior-of-Cross Kuroni errorgorn,J,2024-3-24 16:05:00,4,212,145,156,2,1
+hi plsproblemsetfor:ocpc::Savior-of-Cross Kuroni errorgorn,K,2024-3-24 17:58:00,3,96,83,102,2,0
+hocln,B,2024-3-24 13:24:00,2,60,99,16,1,1
+hocln,C,2024-3-24 14:28:00,9,180,61,18,1,0
+hottcold,B,2024-3-24 15:50:00,1,60,99,16,1,0
+hsyoi:Xun_Xiaoyao ustinian6 _LiMLE_,A,2024-3-24 17:59:00,1,85,59,68,2,0
+hsyoi:Xun_Xiaoyao ustinian6 _LiMLE_,B,2024-3-24 13:52:00,3,60,99,16,1,1
+hsyoi:Xun_Xiaoyao ustinian6 _LiMLE_,C,2024-3-24 14:11:00,2,180,61,18,1,1
+hsyoi:Xun_Xiaoyao ustinian6 _LiMLE_,D,2024-3-24 16:33:00,3,228,148,169,2,0
+hsyoi:Xun_Xiaoyao ustinian6 _LiMLE_,E,2024-3-24 16:06:00,11,166,36,38,2,0
+hsyoi:Xun_Xiaoyao ustinian6 _LiMLE_,F,2024-3-24 14:15:00,1,83,64,31,2,1
+hsyoi:Xun_Xiaoyao ustinian6 _LiMLE_,G,2024-3-24 15:36:00,1,210,141,192,1,1
+hsyoi:Xun_Xiaoyao ustinian6 _LiMLE_,I,2024-3-24 13:33:00,4,112,45,17,2,1
+hsyoi:Xun_Xiaoyao ustinian6 _LiMLE_,J,2024-3-24 15:56:00,4,212,145,156,2,1
+huameigogogo,A,2024-3-24 13:25:00,1,85,59,68,2,0
+huameigogogo,B,2024-3-24 13:56:00,2,60,99,16,1,0
+huameigogogo,E,2024-3-24 14:14:00,1,166,36,38,2,0
+i_m_swachha,B,2024-3-24 14:50:00,1,60,99,16,1,0
+icewarrior52,B,2024-3-24 13:11:00,1,60,99,16,1,1
+icewarrior52,F,2024-3-24 15:37:00,4,83,64,31,2,0
+icewarrior52,I,2024-3-24 14:07:00,2,112,45,17,2,0
+idk:Nxxlt fuad720,B,2024-3-24 14:19:00,1,60,99,16,1,1
+idk:Nxxlt fuad720,C,2024-3-24 15:35:00,2,180,61,18,1,1
+idk:Nxxlt fuad720,F,2024-3-24 17:59:00,16,83,64,31,2,0
+idk:Nxxlt fuad720,I,2024-3-24 16:58:00,6,112,45,17,2,1
+idk:flameZ master_adii DissonantHarmony,B,2024-3-24 13:33:00,2,60,99,16,1,0
+imranhasan20,B,2024-3-24 13:38:00,1,60,99,16,1,0
+imranhasan20,C,2024-3-24 15:34:00,1,180,61,18,1,0
+ishrat_noori,B,2024-3-24 13:08:00,1,60,99,16,1,0
+jacob02,B,2024-3-24 13:25:00,1,60,99,16,1,1
+jacob02,I,2024-3-24 15:33:00,5,112,45,17,2,0
+jacynkaa,B,2024-3-24 13:47:00,1,60,99,16,1,1
+jacynkaa,C,2024-3-24 15:35:00,3,180,61,18,1,0
+jacynkaa,F,2024-3-24 13:55:00,1,83,64,31,2,1
+jacynkaa,I,2024-3-24 13:28:00,1,112,45,17,2,1
+jaisudharsh,A,2024-3-24 16:11:00,2,85,59,68,2,0
+jaisudharsh,B,2024-3-24 16:16:00,2,60,99,16,1,0
+janY_,B,2024-3-24 13:15:00,1,60,99,16,1,1
+janY_,C,2024-3-24 13:59:00,2,180,61,18,1,1
+janY_,F,2024-3-24 14:55:00,1,83,64,31,2,1
+janY_,G,2024-3-24 15:49:00,3,210,141,192,1,1
+janY_,I,2024-3-24 13:35:00,3,112,45,17,2,1
+janY_,J,2024-3-24 17:34:00,9,212,145,156,2,0
+jawek_a7la_jaw:Moyogi GH1hatem Iceberg,B,2024-3-24 13:44:00,1,60,99,16,1,1
+jawek_a7la_jaw:Moyogi GH1hatem Iceberg,C,2024-3-24 15:52:00,6,180,61,18,1,1
+jawek_a7la_jaw:Moyogi GH1hatem Iceberg,F,2024-3-24 17:58:00,38,83,64,31,2,0
+jawek_a7la_jaw:Moyogi GH1hatem Iceberg,I,2024-3-24 14:48:00,3,112,45,17,2,1
+jayakumar2005,B,2024-3-24 17:51:00,1,60,99,16,1,0
+jayakumar2005,E,2024-3-24 17:52:00,1,166,36,38,2,0
+jcybtd,B,2024-3-24 15:02:00,1,60,99,16,1,1
+jinitaimei:SkyWave2022 JoanhLan zeemanz,B,2024-3-24 13:16:00,1,60,99,16,1,1
+jinitaimei:SkyWave2022 JoanhLan zeemanz,C,2024-3-24 17:19:00,7,180,61,18,1,1
+jinitaimei:SkyWave2022 JoanhLan zeemanz,D,2024-3-24 17:59:00,2,228,148,169,2,0
+jinitaimei:SkyWave2022 JoanhLan zeemanz,F,2024-3-24 15:48:00,28,83,64,31,2,1
+jinitaimei:SkyWave2022 JoanhLan zeemanz,G,2024-3-24 17:33:00,4,210,141,192,1,1
+jinitaimei:SkyWave2022 JoanhLan zeemanz,I,2024-3-24 13:53:00,5,112,45,17,2,1
+joaofelixfans:wasans PG0cT537 cr7ro,B,2024-3-24 16:57:00,7,60,99,16,1,1
+joaofelixfans:wasans PG0cT537 cr7ro,C,2024-3-24 15:41:00,1,180,61,18,1,1
+joaofelixfans:wasans PG0cT537 cr7ro,F,2024-3-24 17:55:00,5,83,64,31,2,0
+joaofelixfans:wasans PG0cT537 cr7ro,G,2024-3-24 17:41:00,4,210,141,192,1,1
+joaofelixfans:wasans PG0cT537 cr7ro,I,2024-3-24 17:00:00,6,112,45,17,2,1
+karnrahul786,A,2024-3-24 14:52:00,2,85,59,68,2,0
+kartikyagupta,B,2024-3-24 17:11:00,3,60,99,16,1,0
+kartikyagupta,E,2024-3-24 16:26:00,7,166,36,38,2,0
+kausar77,B,2024-3-24 16:06:00,1,60,99,16,1,0
+kavliaros7,B,2024-3-24 13:33:00,1,60,99,16,1,1
+kavliaros7,I,2024-3-24 14:18:00,2,112,45,17,2,0
+kidyur,A,2024-3-24 13:57:00,2,85,59,68,2,0
+kidyur,E,2024-3-24 14:17:00,1,166,36,38,2,0
+klu_2200030097,A,2024-3-24 17:24:00,2,85,59,68,2,0
+klu_2200031917,A,2024-3-24 15:26:00,1,85,59,68,2,0
+klu_2200032806,A,2024-3-24 15:02:00,2,85,59,68,2,0
+klu_2200032806,B,2024-3-24 15:03:00,1,60,99,16,1,0
+knightstour,I,2024-3-24 17:03:00,1,112,45,17,2,0
+korostik,B,2024-3-24 13:26:00,1,60,99,16,1,0
+korostik,F,2024-3-24 14:15:00,4,83,64,31,2,0
+krishnajaikumar7,B,2024-3-24 16:14:00,1,60,99,16,1,0
+kzqoi:__lbdontknow__ Ni_Hao_a jasonjason,I,2024-3-24 14:35:00,2,112,45,17,2,0
+lbm364dl,B,2024-3-24 13:44:00,1,60,99,16,1,1
+lbm364dl,C,2024-3-24 15:21:00,1,180,61,18,1,1
+lbm364dl,I,2024-3-24 14:51:00,4,112,45,17,2,0
+leemaorlemmaorllama:mmoeez48 squishybanana04 kevinyang,C,2024-3-24 13:55:00,1,180,61,18,1,1
+leemaorlemmaorllama:mmoeez48 squishybanana04 kevinyang,F,2024-3-24 15:12:00,7,83,64,31,2,1
+leemaorlemmaorllama:mmoeez48 squishybanana04 kevinyang,G,2024-3-24 15:48:00,4,210,141,192,1,1
+leemaorlemmaorllama:mmoeez48 squishybanana04 kevinyang,I,2024-3-24 13:11:00,1,112,45,17,2,1
+leemaorlemmaorllama:mmoeez48 squishybanana04 kevinyang,J,2024-3-24 17:59:00,3,212,145,156,2,0
+leemaorlemmaorllama:mmoeez48 squishybanana04 kevinyang,K,2024-3-24 17:24:00,3,96,83,102,2,1
+light616,B,2024-3-24 14:22:00,1,60,99,16,1,0
+likespro,B,2024-3-24 13:53:00,4,60,99,16,1,1
+likithaSrinu,C,2024-3-24 17:14:00,2,180,61,18,1,0
+likitha_129,A,2024-3-24 17:09:00,1,85,59,68,2,0
+liujg3,E,2024-3-24 15:50:00,2,166,36,38,2,0
+llsYouling,A,2024-3-24 13:12:00,1,85,59,68,2,0
+loka_harika,B,2024-3-24 13:39:00,1,60,99,16,1,0
+lolo_killua:lolo_killua,F,2024-3-24 15:49:00,2,83,64,31,2,0
+lordkshitizsmash:rajkshitij573 devinux05,B,2024-3-24 14:12:00,5,60,99,16,1,1
+lsm--123,B,2024-3-24 15:09:00,4,60,99,16,1,1
+madhav_707,B,2024-3-24 17:58:00,1,60,99,16,1,0
+mahafujer,A,2024-3-24 14:00:00,2,85,59,68,2,0
+mahafujer,B,2024-3-24 13:53:00,1,60,99,16,1,0
+mahafujer,C,2024-3-24 13:58:00,1,180,61,18,1,0
+mahafujer,D,2024-3-24 17:53:00,6,228,148,169,2,0
+mahafujer,K,2024-3-24 14:02:00,1,96,83,102,2,0
+mahfuzap465,C,2024-3-24 13:26:00,2,180,61,18,1,0
+mahfuzap465,D,2024-3-24 13:47:00,3,228,148,169,2,0
+maifei:MFCTQL lostedd use_i,B,2024-3-24 13:56:00,2,60,99,16,1,1
+maifei:MFCTQL lostedd use_i,C,2024-3-24 17:06:00,2,180,61,18,1,0
+maifei:MFCTQL lostedd use_i,F,2024-3-24 15:09:00,6,83,64,31,2,0
+maifei:MFCTQL lostedd use_i,I,2024-3-24 17:05:00,1,112,45,17,2,0
+manasraj007,B,2024-3-24 17:36:00,1,60,99,16,1,0
+manyasharma2,B,2024-3-24 14:02:00,3,60,99,16,1,0
+martins,B,2024-3-24 17:30:00,1,60,99,16,1,1
+martins,I,2024-3-24 17:56:00,3,112,45,17,2,0
+mayarmarwan,B,2024-3-24 16:54:00,1,60,99,16,1,0
+mayarmarwan,C,2024-3-24 16:26:00,4,180,61,18,1,0
+mineev.da,I,2024-3-24 16:12:00,5,112,45,17,2,1
+mithrareddy,B,2024-3-24 13:15:00,8,60,99,16,1,0
+mithrareddy,C,2024-3-24 13:23:00,3,180,61,18,1,0
+mkah123,B,2024-3-24 13:23:00,1,60,99,16,1,1
+mkah123,I,2024-3-24 14:43:00,4,112,45,17,2,1
+mkmkl93,B,2024-3-24 14:42:00,1,60,99,16,1,1
+mkmkl93,C,2024-3-24 15:03:00,1,180,61,18,1,1
+mkmkl93,F,2024-3-24 17:52:00,2,83,64,31,2,1
+mkmkl93,I,2024-3-24 15:33:00,1,112,45,17,2,1
+mohamedhosnimissaoui,B,2024-3-24 14:29:00,1,60,99,16,1,0
+moradiya84,B,2024-3-24 13:21:00,1,60,99,16,1,1
+moradiya84,C,2024-3-24 14:17:00,3,180,61,18,1,1
+moradiya84,G,2024-3-24 15:44:00,1,210,141,192,1,1
+moradiya84,I,2024-3-24 17:58:00,16,112,45,17,2,1
+mouradnouaili,E,2024-3-24 17:00:00,2,166,36,38,2,0
+mpsijm,B,2024-3-24 13:24:00,1,60,99,16,1,1
+mpsijm,C,2024-3-24 14:31:00,3,180,61,18,1,1
+mpsijm,F,2024-3-24 16:51:00,1,83,64,31,2,0
+mpsijm,I,2024-3-24 14:09:00,2,112,45,17,2,1
+mrmind12,A,2024-3-24 13:28:00,1,85,59,68,2,0
+n11k,B,2024-3-24 13:48:00,2,60,99,16,1,1
+n11k,C,2024-3-24 15:23:00,1,180,61,18,1,1
+n11k,F,2024-3-24 17:26:00,7,83,64,31,2,1
+n11k,I,2024-3-24 14:19:00,2,112,45,17,2,1
+n4h1ss,B,2024-3-24 15:06:00,5,60,99,16,1,0
+nayan21100,B,2024-3-24 17:23:00,3,60,99,16,1,0
+near-river,B,2024-3-24 16:43:00,1,60,99,16,1,0
+neo936,B,2024-3-24 13:33:00,2,60,99,16,1,1
+neo936,C,2024-3-24 14:23:00,5,180,61,18,1,0
+neo936,E,2024-3-24 15:14:00,2,166,36,38,2,0
+nguyentunglam,C,2024-3-24 14:04:00,1,180,61,18,1,0
+niannianliu,B,2024-3-24 13:38:00,1,60,99,16,1,0
+niannianliu,C,2024-3-24 14:09:00,3,180,61,18,1,0
+nigus,I,2024-3-24 16:20:00,1,112,45,17,2,1
+nisanx,B,2024-3-24 13:53:00,1,60,99,16,1,0
+nithish_67d8,B,2024-3-24 15:51:00,1,60,99,16,1,0
+nitin_choudhary,A,2024-3-24 13:47:00,1,85,59,68,2,0
+njustbacon,B,2024-3-24 16:33:00,1,60,99,16,1,1
+njustbacon,I,2024-3-24 17:30:00,7,112,45,17,2,1
+noobs:VISHNU12685 Vibhum15 kavascg,B,2024-3-24 13:59:00,1,60,99,16,1,1
+noobs:VISHNU12685 Vibhum15 kavascg,I,2024-3-24 15:17:00,5,112,45,17,2,0
+nullpointers:M_Ayush_04 yuvraj_2910 Akshat_Ajmera,B,2024-3-24 13:55:00,1,60,99,16,1,1
+nullpointers:M_Ayush_04 yuvraj_2910 Akshat_Ajmera,C,2024-3-24 17:01:00,4,180,61,18,1,1
+oLAR:ayan2008 hacizadal hasanovr,B,2024-3-24 15:03:00,3,60,99,16,1,0
+oLAR:ayan2008 hacizadal hasanovr,F,2024-3-24 14:00:00,1,83,64,31,2,0
+officialsachinrajbhar,A,2024-3-24 13:24:00,2,85,59,68,2,0
+oieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee:cosenza srgioreinier MatheusAB,B,2024-3-24 13:42:00,1,60,99,16,1,1
+oieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee:cosenza srgioreinier MatheusAB,C,2024-3-24 14:38:00,2,180,61,18,1,1
+oieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee:cosenza srgioreinier MatheusAB,F,2024-3-24 17:10:00,1,83,64,31,2,1
+oieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee:cosenza srgioreinier MatheusAB,G,2024-3-24 15:19:00,4,210,141,192,1,1
+oieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee:cosenza srgioreinier MatheusAB,I,2024-3-24 14:18:00,4,112,45,17,2,1
+oieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee:cosenza srgioreinier MatheusAB,J,2024-3-24 17:50:00,3,212,145,156,2,1
+olegazz,B,2024-3-24 14:01:00,1,60,99,16,1,0
+olegazz,I,2024-3-24 14:41:00,4,112,45,17,2,0
+omikad,B,2024-3-24 13:45:00,1,60,99,16,1,1
+omikad,C,2024-3-24 14:52:00,1,180,61,18,1,0
+omikad,F,2024-3-24 16:35:00,2,83,64,31,2,0
+omikad,I,2024-3-24 13:39:00,5,112,45,17,2,1
+palhacitos:pedrolino thinety almeidaraul,B,2024-3-24 14:03:00,2,60,99,16,1,1
+palhacitos:pedrolino thinety almeidaraul,C,2024-3-24 14:41:00,1,180,61,18,1,1
+palhacitos:pedrolino thinety almeidaraul,E,2024-3-24 16:00:00,8,166,36,38,2,0
+palhacitos:pedrolino thinety almeidaraul,G,2024-3-24 17:53:00,1,210,141,192,1,0
+palhacitos:pedrolino thinety almeidaraul,I,2024-3-24 13:39:00,1,112,45,17,2,1
+parag776,B,2024-3-24 14:23:00,1,60,99,16,1,1
+parag776,I,2024-3-24 14:56:00,1,112,45,17,2,1
+parkky,B,2024-3-24 14:15:00,1,60,99,16,1,1
+parshiv.kapoor,B,2024-3-24 14:17:00,2,60,99,16,1,0
+parshwajust55,B,2024-3-24 15:56:00,1,60,99,16,1,0
+patri_cai_bia_kormo,B,2024-3-24 16:22:00,3,60,99,16,1,0
+patrick.jieee,B,2024-3-24 15:42:00,3,60,99,16,1,1
+patrick.jieee,C,2024-3-24 16:28:00,2,180,61,18,1,0
+patrick.jieee,I,2024-3-24 17:57:00,1,112,45,17,2,0
+pavan.nagaraju94,I,2024-3-24 16:59:00,2,112,45,17,2,0
+pavani_bandaru,B,2024-3-24 14:54:00,1,60,99,16,1,0
+pavanmanishd,A,2024-3-24 17:54:00,13,85,59,68,2,0
+phaneendra525,A,2024-3-24 14:41:00,1,85,59,68,2,0
+placeholder:iparm WbxOne,B,2024-3-24 14:08:00,2,60,99,16,1,0
+powerpuffboys:Garg_Naman sarthakkjha belowAverageNoob,C,2024-3-24 15:56:00,10,180,61,18,1,1
+powerpuffboys:Garg_Naman sarthakkjha belowAverageNoob,I,2024-3-24 17:53:00,2,112,45,17,2,0
+prabhw,A,2024-3-24 16:07:00,2,85,59,68,2,0
+prabhw,B,2024-3-24 16:32:00,1,60,99,16,1,1
+pranavreddykora1,A,2024-3-24 13:50:00,3,85,59,68,2,0
+pranavreddykora1,B,2024-3-24 14:31:00,4,60,99,16,1,0
+pratikm,D,2024-3-24 13:11:00,1,228,148,169,2,0
+priyansh_mnit,B,2024-3-24 16:10:00,1,60,99,16,1,0
+pro_player,B,2024-3-24 13:48:00,1,60,99,16,1,1
+pro_player,I,2024-3-24 14:45:00,3,112,45,17,2,1
+puhua0210,F,2024-3-24 17:08:00,10,83,64,31,2,0
+qiuzhen:Aleph-zero Great_wall,B,2024-3-24 13:48:00,1,60,99,16,1,1
+qiuzhen:Aleph-zero Great_wall,C,2024-3-24 15:02:00,4,180,61,18,1,1
+qiuzhen:Aleph-zero Great_wall,I,2024-3-24 14:01:00,1,112,45,17,2,1
+qwqIdontHaveAgf,B,2024-3-24 14:01:00,2,60,99,16,1,1
+qwqIdontHaveAgf,I,2024-3-24 16:17:00,6,112,45,17,2,1
+ram.bhakt,B,2024-3-24 16:07:00,1,60,99,16,1,1
+rami_jebali,B,2024-3-24 17:38:00,1,60,99,16,1,0
+ramlakhan79,A,2024-3-24 17:34:00,1,85,59,68,2,0
+randomSena():Pragyanand infinite_asp,B,2024-3-24 15:28:00,2,60,99,16,1,0
+randomSena():Pragyanand infinite_asp,I,2024-3-24 13:47:00,1,112,45,17,2,0
+randomrank:xvzhiming ciuim,B,2024-3-24 13:22:00,1,60,99,16,1,1
+randomrank:xvzhiming ciuim,C,2024-3-24 14:00:00,2,180,61,18,1,1
+randomrank:xvzhiming ciuim,F,2024-3-24 14:46:00,2,83,64,31,2,1
+randomrank:xvzhiming ciuim,I,2024-3-24 13:37:00,3,112,45,17,2,1
+rath772k,B,2024-3-24 17:56:00,3,60,99,16,1,0
+realone,A,2024-3-24 13:36:00,2,85,59,68,2,0
+residentevil4:tibinyte cristi_tanase Gheal,B,2024-3-24 13:16:00,2,60,99,16,1,1
+residentevil4:tibinyte cristi_tanase Gheal,C,2024-3-24 13:53:00,2,180,61,18,1,1
+residentevil4:tibinyte cristi_tanase Gheal,E,2024-3-24 17:24:00,8,166,36,38,2,0
+residentevil4:tibinyte cristi_tanase Gheal,F,2024-3-24 17:08:00,32,83,64,31,2,1
+residentevil4:tibinyte cristi_tanase Gheal,G,2024-3-24 15:57:00,1,210,141,192,1,1
+residentevil4:tibinyte cristi_tanase Gheal,I,2024-3-24 13:34:00,3,112,45,17,2,1
+rko0211,B,2024-3-24 16:41:00,2,60,99,16,1,0
+robert.barbu27,B,2024-3-24 13:23:00,1,60,99,16,1,1
+robert.barbu27,I,2024-3-24 14:24:00,8,112,45,17,2,0
+rosyPrincess,C,2024-3-24 17:58:00,4,180,61,18,1,0
+sabbirahmeds877,A,2024-3-24 13:39:00,1,85,59,68,2,0
+sagar180304,B,2024-3-24 14:26:00,2,60,99,16,1,1
+sagar180304,I,2024-3-24 17:58:00,6,112,45,17,2,0
+sai-17,B,2024-3-24 13:07:00,1,60,99,16,1,1
+sai-17,C,2024-3-24 14:48:00,3,180,61,18,1,1
+sai-17,F,2024-3-24 15:44:00,5,83,64,31,2,1
+sai-17,I,2024-3-24 13:40:00,3,112,45,17,2,1
+saifshahriar3301,F,2024-3-24 15:03:00,1,83,64,31,2,0
+saivarun_555,B,2024-3-24 13:26:00,4,60,99,16,1,0
+sam_osa,I,2024-3-24 16:20:00,2,112,45,17,2,0
+sambhavmahajan,F,2024-3-24 13:40:00,1,83,64,31,2,0
+saminabdullah123,E,2024-3-24 14:27:00,1,166,36,38,2,0
+sanaos,B,2024-3-24 13:48:00,1,60,99,16,1,0
+sandyg6,B,2024-3-24 13:17:00,1,60,99,16,1,0
+sandyg6,C,2024-3-24 13:22:00,1,180,61,18,1,0
+sandyg6,E,2024-3-24 13:30:00,2,166,36,38,2,0
+sandyg6,K,2024-3-24 13:32:00,1,96,83,102,2,0
+sannidhi64,I,2024-3-24 13:18:00,1,112,45,17,2,0
+satvika_ch,B,2024-3-24 13:59:00,1,60,99,16,1,0
+satvika_ch,I,2024-3-24 14:02:00,1,112,45,17,2,0
+sevlll777,B,2024-3-24 15:43:00,1,60,99,16,1,1
+sevlll777,C,2024-3-24 17:35:00,1,180,61,18,1,1
+sevlll777,D,2024-3-24 15:37:00,1,228,148,169,2,0
+sevlll777,E,2024-3-24 17:30:00,72,166,36,38,2,1
+sevlll777,I,2024-3-24 16:52:00,5,112,45,17,2,1
+shaikhmubin,C,2024-3-24 16:52:00,1,180,61,18,1,0
+shaikhmubin,F,2024-3-24 17:13:00,7,83,64,31,2,0
+shalomkeshet,B,2024-3-24 17:32:00,1,60,99,16,1,0
+shamkirteam:Captain_Georgia Huseyn123 nasir_bashirov,B,2024-3-24 15:03:00,3,60,99,16,1,1
+shamkirteam:Captain_Georgia Huseyn123 nasir_bashirov,C,2024-3-24 16:06:00,1,180,61,18,1,1
+shamkirteam:Captain_Georgia Huseyn123 nasir_bashirov,I,2024-3-24 17:00:00,4,112,45,17,2,1
+shark1992,E,2024-3-24 15:35:00,5,166,36,38,2,0
+shdut0901,B,2024-3-24 13:37:00,1,60,99,16,1,1
+shdut0901,C,2024-3-24 14:03:00,1,180,61,18,1,1
+shdut0901,F,2024-3-24 16:49:00,5,83,64,31,2,0
+shdut0901,I,2024-3-24 15:03:00,4,112,45,17,2,1
+shiroboyy,B,2024-3-24 16:03:00,1,60,99,16,1,0
+shit:weebs_in_ Yudiao_Vicky crispshadows,B,2024-3-24 14:24:00,3,60,99,16,1,1
+shit:weebs_in_ Yudiao_Vicky crispshadows,C,2024-3-24 16:20:00,1,180,61,18,1,0
+shit:weebs_in_ Yudiao_Vicky crispshadows,I,2024-3-24 17:04:00,18,112,45,17,2,0
+shravanklankadasari,A,2024-3-24 13:31:00,3,85,59,68,2,0
+shravanklankadasari,I,2024-3-24 15:54:00,2,112,45,17,2,0
+shu_900,B,2024-3-24 13:32:00,3,60,99,16,1,1
+shu_900,I,2024-3-24 14:11:00,6,112,45,17,2,0
+shubhu_279,B,2024-3-24 14:35:00,1,60,99,16,1,1
+siddhihaarika,A,2024-3-24 13:22:00,1,85,59,68,2,0
+siddhihaarika,B,2024-3-24 13:21:00,1,60,99,16,1,0
+siddhihaarika,I,2024-3-24 13:08:00,1,112,45,17,2,0
+sjayanthkumar,E,2024-3-24 17:37:00,5,166,36,38,2,0
+sjhi00,B,2024-3-24 13:50:00,1,60,99,16,1,0
+skylord1808,B,2024-3-24 13:15:00,1,60,99,16,1,0
+snehith_92,A,2024-3-24 15:48:00,7,85,59,68,2,0
+solve2equalsmehappy:mandeep_mahra frissky9 arsh73552,B,2024-3-24 13:25:00,1,60,99,16,1,1
+solve2equalsmehappy:mandeep_mahra frissky9 arsh73552,C,2024-3-24 17:59:00,9,180,61,18,1,0
+solve2equalsmehappy:mandeep_mahra frissky9 arsh73552,I,2024-3-24 16:57:00,9,112,45,17,2,0
+soulbloom,B,2024-3-24 15:32:00,1,60,99,16,1,0
+souvik3469,B,2024-3-24 17:30:00,3,60,99,16,1,0
+sowmithpottabathini,B,2024-3-24 14:05:00,1,60,99,16,1,0
+sowmya0803,A,2024-3-24 13:13:00,1,85,59,68,2,0
+sowmya0803,B,2024-3-24 13:15:00,1,60,99,16,1,0
+sowmya0803,C,2024-3-24 13:22:00,3,180,61,18,1,0
+spark:mohith_vempada nisar11,B,2024-3-24 14:28:00,2,60,99,16,1,0
+sripadisuraj,B,2024-3-24 13:10:00,2,60,99,16,1,0
+sshreyansh822,A,2024-3-24 13:20:00,2,85,59,68,2,0
+stack.py:Pyqe faustaadp hocky,A,2024-3-24 17:00:00,18,85,59,68,2,0
+stack.py:Pyqe faustaadp hocky,B,2024-3-24 13:32:00,2,60,99,16,1,1
+stack.py:Pyqe faustaadp hocky,C,2024-3-24 14:11:00,1,180,61,18,1,1
+stack.py:Pyqe faustaadp hocky,D,2024-3-24 17:59:00,7,228,148,169,2,0
+stack.py:Pyqe faustaadp hocky,F,2024-3-24 15:49:00,6,83,64,31,2,1
+stack.py:Pyqe faustaadp hocky,G,2024-3-24 15:19:00,1,210,141,192,1,1
+stack.py:Pyqe faustaadp hocky,H,2024-3-24 15:58:00,3,202,96,26,2,0
+stack.py:Pyqe faustaadp hocky,I,2024-3-24 13:26:00,2,112,45,17,2,1
+stack.py:Pyqe faustaadp hocky,J,2024-3-24 14:14:00,3,212,145,156,2,1
+star3-_5t,B,2024-3-24 13:35:00,1,60,99,16,1,0
+stdflout,F,2024-3-24 15:46:00,1,83,64,31,2,0
+stdflout,K,2024-3-24 15:45:00,2,96,83,102,2,0
+susmithaseeta,B,2024-3-24 13:35:00,1,60,99,16,1,0
+sv1shan,B,2024-3-24 13:10:00,1,60,99,16,1,1
+sv1shan,F,2024-3-24 14:27:00,3,83,64,31,2,0
+sv1shan,I,2024-3-24 13:56:00,5,112,45,17,2,0
+sxhlsya,B,2024-3-24 14:50:00,6,60,99,16,1,0
+syscall,B,2024-3-24 17:35:00,2,60,99,16,1,0
+team1:Ronit5 larissa.lavanya kt15may2005,B,2024-3-24 13:22:00,2,60,99,16,1,1
+team1:Ronit5 larissa.lavanya kt15may2005,I,2024-3-24 14:40:00,2,112,45,17,2,0
+teamlafda:ria_m_15 kingm01,B,2024-3-24 13:43:00,1,60,99,16,1,1
+teamlafda:ria_m_15 kingm01,I,2024-3-24 14:38:00,3,112,45,17,2,0
+teapotd,B,2024-3-24 13:16:00,1,60,99,16,1,0
+teapotd,C,2024-3-24 13:42:00,1,180,61,18,1,1
+teapotd,F,2024-3-24 15:04:00,2,83,64,31,2,1
+teapotd,I,2024-3-24 14:01:00,1,112,45,17,2,0
+temp:_CHO MyLittle_Su cmdgbb,B,2024-3-24 13:12:00,1,60,99,16,1,1
+temp:_CHO MyLittle_Su cmdgbb,C,2024-3-24 13:53:00,1,180,61,18,1,1
+temp:_CHO MyLittle_Su cmdgbb,F,2024-3-24 14:54:00,1,83,64,31,2,1
+temp:_CHO MyLittle_Su cmdgbb,G,2024-3-24 16:03:00,5,210,141,192,1,1
+temp:_CHO MyLittle_Su cmdgbb,I,2024-3-24 14:06:00,8,112,45,17,2,1
+thanhdno,C,2024-3-24 17:06:00,3,180,61,18,1,0
+thanhdno,I,2024-3-24 13:46:00,1,112,45,17,2,1
+the_last_smilodon,B,2024-3-24 15:27:00,1,60,99,16,1,1
+the_last_smilodon,C,2024-3-24 16:53:00,3,180,61,18,1,1
+the_last_smilodon,I,2024-3-24 17:51:00,4,112,45,17,2,0
+theartofwar,B,2024-3-24 13:23:00,1,60,99,16,1,1
+theartofwar,I,2024-3-24 14:05:00,3,112,45,17,2,1
+thereisahandowningfeet:Cirno_9baka A.K.E.E. QAQAutoMaton,A,2024-3-24 17:47:00,5,85,59,68,2,0
+thereisahandowningfeet:Cirno_9baka A.K.E.E. QAQAutoMaton,B,2024-3-24 13:15:00,1,60,99,16,1,1
+thereisahandowningfeet:Cirno_9baka A.K.E.E. QAQAutoMaton,C,2024-3-24 13:40:00,1,180,61,18,1,1
+thereisahandowningfeet:Cirno_9baka A.K.E.E. QAQAutoMaton,D,2024-3-24 15:16:00,5,228,148,169,2,1
+thereisahandowningfeet:Cirno_9baka A.K.E.E. QAQAutoMaton,E,2024-3-24 17:55:00,11,166,36,38,2,0
+thereisahandowningfeet:Cirno_9baka A.K.E.E. QAQAutoMaton,F,2024-3-24 13:43:00,3,83,64,31,2,1
+thereisahandowningfeet:Cirno_9baka A.K.E.E. QAQAutoMaton,G,2024-3-24 14:17:00,1,210,141,192,1,1
+thereisahandowningfeet:Cirno_9baka A.K.E.E. QAQAutoMaton,H,2024-3-24 17:59:00,3,202,96,26,2,0
+thereisahandowningfeet:Cirno_9baka A.K.E.E. QAQAutoMaton,I,2024-3-24 13:12:00,2,112,45,17,2,1
+thereisahandowningfeet:Cirno_9baka A.K.E.E. QAQAutoMaton,J,2024-3-24 15:49:00,1,212,145,156,2,1
+thereisahandowningfeet:Cirno_9baka A.K.E.E. QAQAutoMaton,K,2024-3-24 16:12:00,3,96,83,102,2,1
+thewoahguy24,B,2024-3-24 14:35:00,2,60,99,16,1,0
+thirdcook,B,2024-3-24 13:48:00,1,60,99,16,1,1
+thirdcook,I,2024-3-24 15:33:00,3,112,45,17,2,1
+timur3914,B,2024-3-24 17:07:00,1,60,99,16,1,0
+tredsused70,B,2024-3-24 16:16:00,1,60,99,16,1,1
+trojan_8708,A,2024-3-24 15:46:00,1,85,59,68,2,0
+tsakh,B,2024-3-24 15:00:00,3,60,99,16,1,0
+tsakh,E,2024-3-24 16:33:00,5,166,36,38,2,0
+tsakh,F,2024-3-24 17:54:00,5,83,64,31,2,0
+tunaktunakspeed:tunaktunakspeed1 agrahul17,B,2024-3-24 13:35:00,1,60,99,16,1,1
+tunaktunakspeed:tunaktunakspeed1 agrahul17,C,2024-3-24 14:28:00,2,180,61,18,1,1
+tunaktunakspeed:tunaktunakspeed1 agrahul17,I,2024-3-24 13:47:00,1,112,45,17,2,1
+udta_kouwa,I,2024-3-24 13:40:00,4,112,45,17,2,0
+um_ht,A,2024-3-24 14:14:00,1,85,59,68,2,0
+um_ht,B,2024-3-24 14:15:00,1,60,99,16,1,0
+um_ht,C,2024-3-24 14:17:00,1,180,61,18,1,0
+undefined:atayawa InsomniaT,B,2024-3-24 13:14:00,1,60,99,16,1,1
+undefined:atayawa InsomniaT,C,2024-3-24 15:17:00,3,180,61,18,1,1
+undefined:atayawa InsomniaT,G,2024-3-24 17:56:00,6,210,141,192,1,0
+undefined:atayawa InsomniaT,I,2024-3-24 15:08:00,8,112,45,17,2,1
+vaishuguptha,B,2024-3-24 13:28:00,2,60,99,16,1,0
+vaishuguptha,E,2024-3-24 13:59:00,1,166,36,38,2,0
+vaishuguptha,F,2024-3-24 14:08:00,1,83,64,31,2,0
+varsh_itha,B,2024-3-24 16:01:00,3,60,99,16,1,0
+vedantmishra69,B,2024-3-24 14:03:00,1,60,99,16,1,0
+vedavarshini,B,2024-3-24 13:54:00,1,60,99,16,1,0
+vinayakmaheshwari57,B,2024-3-24 14:02:00,2,60,99,16,1,0
+vineel_1005,J,2024-3-24 13:36:00,1,212,145,156,2,0
+vinhhangthanson:lq5 lobotomy,B,2024-3-24 13:17:00,1,60,99,16,1,1
+vinhhangthanson:lq5 lobotomy,C,2024-3-24 14:41:00,1,180,61,18,1,0
+vinhhangthanson:lq5 lobotomy,I,2024-3-24 13:52:00,2,112,45,17,2,1
+vishalsai,C,2024-3-24 17:21:00,10,180,61,18,1,0
+vishalsai,K,2024-3-24 17:48:00,1,96,83,102,2,0
+void:A_R_M c2zi6 GNU,B,2024-3-24 14:01:00,3,60,99,16,1,1
+void:A_R_M c2zi6 GNU,C,2024-3-24 17:59:00,124,180,61,18,1,0
+void:A_R_M c2zi6 GNU,D,2024-3-24 17:59:00,6,228,148,169,2,0
+void:A_R_M c2zi6 GNU,I,2024-3-24 14:56:00,3,112,45,17,2,1
+wanggl,B,2024-3-24 13:25:00,2,60,99,16,1,0
+weoiitaly2027div4tryhard:jamesbamber MatteoArcari franv,B,2024-3-24 13:18:00,1,60,99,16,1,1
+weoiitaly2027div4tryhard:jamesbamber MatteoArcari franv,C,2024-3-24 13:54:00,2,180,61,18,1,1
+weoiitaly2027div4tryhard:jamesbamber MatteoArcari franv,E,2024-3-24 17:00:00,9,166,36,38,2,0
+weoiitaly2027div4tryhard:jamesbamber MatteoArcari franv,F,2024-3-24 16:01:00,1,83,64,31,2,1
+weoiitaly2027div4tryhard:jamesbamber MatteoArcari franv,G,2024-3-24 17:09:00,6,210,141,192,1,0
+weoiitaly2027div4tryhard:jamesbamber MatteoArcari franv,I,2024-3-24 16:05:00,7,112,45,17,2,1
+whoami096,B,2024-3-24 13:29:00,1,60,99,16,1,1
+whoami096,I,2024-3-24 16:03:00,6,112,45,17,2,0
+willow:tyler178 applese Timsei,A,2024-3-24 17:59:00,7,85,59,68,2,0
+willow:tyler178 applese Timsei,B,2024-3-24 13:30:00,2,60,99,16,1,1
+willow:tyler178 applese Timsei,C,2024-3-24 13:58:00,1,180,61,18,1,1
+willow:tyler178 applese Timsei,D,2024-3-24 16:40:00,2,228,148,169,2,1
+willow:tyler178 applese Timsei,F,2024-3-24 13:53:00,1,83,64,31,2,1
+willow:tyler178 applese Timsei,G,2024-3-24 14:48:00,2,210,141,192,1,1
+willow:tyler178 applese Timsei,I,2024-3-24 13:17:00,1,112,45,17,2,1
+willow:tyler178 applese Timsei,J,2024-3-24 17:41:00,5,212,145,156,2,1
+willow:tyler178 applese Timsei,K,2024-3-24 16:22:00,1,96,83,102,2,1
+wind:magnetic_pig longting kiropo,B,2024-3-24 16:32:00,1,60,99,16,1,1
+wind:magnetic_pig longting kiropo,I,2024-3-24 16:53:00,1,112,45,17,2,0
+wzihan,B,2024-3-24 16:04:00,1,60,99,16,1,1
+wzihan,C,2024-3-24 17:05:00,1,180,61,18,1,1
+wzihan,F,2024-3-24 17:23:00,5,83,64,31,2,0
+wzihan,I,2024-3-24 14:50:00,5,112,45,17,2,1
+xianhuji,B,2024-3-24 13:25:00,2,60,99,16,1,1
+xianhuji,I,2024-3-24 13:52:00,1,112,45,17,2,1
+xinyoudui:PubabaOnO orzdevinwang jqdai0815,A,2024-3-24 16:15:00,2,85,59,68,2,1
+xinyoudui:PubabaOnO orzdevinwang jqdai0815,B,2024-3-24 13:10:00,1,60,99,16,1,1
+xinyoudui:PubabaOnO orzdevinwang jqdai0815,C,2024-3-24 13:17:00,1,180,61,18,1,1
+xinyoudui:PubabaOnO orzdevinwang jqdai0815,D,2024-3-24 13:48:00,2,228,148,169,2,1
+xinyoudui:PubabaOnO orzdevinwang jqdai0815,E,2024-3-24 16:07:00,1,166,36,38,2,1
+xinyoudui:PubabaOnO orzdevinwang jqdai0815,F,2024-3-24 13:56:00,5,83,64,31,2,1
+xinyoudui:PubabaOnO orzdevinwang jqdai0815,G,2024-3-24 14:15:00,2,210,141,192,1,1
+xinyoudui:PubabaOnO orzdevinwang jqdai0815,H,2024-3-24 17:41:00,7,202,96,26,2,1
+xinyoudui:PubabaOnO orzdevinwang jqdai0815,I,2024-3-24 13:14:00,1,112,45,17,2,1
+xinyoudui:PubabaOnO orzdevinwang jqdai0815,J,2024-3-24 14:26:00,1,212,145,156,2,1
+xinyoudui:PubabaOnO orzdevinwang jqdai0815,K,2024-3-24 14:44:00,2,96,83,102,2,1
+yashwanth01,B,2024-3-24 15:14:00,5,60,99,16,1,0
+yo!:c_vish_l inimay,A,2024-3-24 13:37:00,2,85,59,68,2,0
+yuanruiqi,B,2024-3-24 17:31:00,1,60,99,16,1,1
+yuanruiqi,I,2024-3-24 17:59:00,4,112,45,17,2,0
+yvbf,B,2024-3-24 15:05:00,1,60,99,16,1,1
+yvbf,C,2024-3-24 16:07:00,2,180,61,18,1,1
+yvbf,F,2024-3-24 17:40:00,2,83,64,31,2,0
+yvbf,I,2024-3-24 15:34:00,2,112,45,17,2,1
+ywjylx,B,2024-3-24 13:49:00,1,60,99,16,1,1
+ywjylx,C,2024-3-24 15:43:00,4,180,61,18,1,1
+ywjylx,F,2024-3-24 17:41:00,7,83,64,31,2,0
+ywjylx,I,2024-3-24 14:50:00,2,112,45,17,2,1
+yy__yy,B,2024-3-24 15:00:00,1,60,99,16,1,0
+za9afona_jmajem,B,2024-3-24 13:40:00,3,60,99,16,1,0
+zchbani,B,2024-3-24 16:08:00,1,60,99,16,1,0
+zhennnn,F,2024-3-24 17:12:00,2,83,64,31,2,0
+zheqing,B,2024-3-24 14:15:00,3,60,99,16,1,1
+zheqing,C,2024-3-24 16:24:00,20,180,61,18,1,0
+zheqing,I,2024-3-24 15:40:00,16,112,45,17,2,0
+zip2009,F,2024-3-24 15:01:00,9,83,64,31,2,1
+zipongster,B,2024-3-24 14:17:00,1,60,99,16,1,0
+znavya_17,C,2024-3-24 13:21:00,1,180,61,18,1,0
+zoulei2023,A,2024-3-24 14:36:00,1,85,59,68,2,0
+مازنشكلهنايم:MohammadDallash Mohammed84Farouk,B,2024-3-24 13:20:00,2,60,99,16,1,1
+مازنشكلهنايم:MohammadDallash Mohammed84Farouk,C,2024-3-24 14:21:00,1,180,61,18,1,1
+مازنشكلهنايم:MohammadDallash Mohammed84Farouk,G,2024-3-24 17:18:00,3,210,141,192,1,0
+مازنشكلهنايم:MohammadDallash Mohammed84Farouk,I,2024-3-24 13:47:00,6,112,45,17,2,1
+༺羊羊羊?ImmortaLimit StarSilk Su_Zipei,B,2024-3-24 13:38:00,1,60,99,16,1,1
+༺羊羊羊?ImmortaLimit StarSilk Su_Zipei,C,2024-3-24 13:52:00,2,180,61,18,1,1
+༺羊羊羊?ImmortaLimit StarSilk Su_Zipei,D,2024-3-24 14:35:00,2,228,148,169,2,1
+༺羊羊羊?ImmortaLimit StarSilk Su_Zipei,F,2024-3-24 13:33:00,2,83,64,31,2,1
+༺羊羊羊?ImmortaLimit StarSilk Su_Zipei,G,2024-3-24 15:30:00,1,210,141,192,1,1
+༺羊羊羊?ImmortaLimit StarSilk Su_Zipei,I,2024-3-24 13:15:00,1,112,45,17,2,1
+༺羊羊羊?ImmortaLimit StarSilk Su_Zipei,J,2024-3-24 17:03:00,1,212,145,156,2,1
+何物朝向死亡:CHYYYY Danncla Yoshinow2001,B,2024-3-24 13:34:00,2,60,99,16,1,1
+何物朝向死亡:CHYYYY Danncla Yoshinow2001,C,2024-3-24 14:47:00,4,180,61,18,1,1
+何物朝向死亡:CHYYYY Danncla Yoshinow2001,D,2024-3-24 17:09:00,5,228,148,169,2,1
+何物朝向死亡:CHYYYY Danncla Yoshinow2001,F,2024-3-24 14:57:00,4,83,64,31,2,1
+何物朝向死亡:CHYYYY Danncla Yoshinow2001,G,2024-3-24 15:43:00,2,210,141,192,1,1
+何物朝向死亡:CHYYYY Danncla Yoshinow2001,I,2024-3-24 13:49:00,5,112,45,17,2,1
+何物朝向死亡:CHYYYY Danncla Yoshinow2001,J,2024-3-24 17:36:00,5,212,145,156,2,0
+单挑:IceYukino cxm1024 Luminolic_Black,B,2024-3-24 13:22:00,1,60,99,16,1,1
+单挑:IceYukino cxm1024 Luminolic_Black,C,2024-3-24 13:26:00,2,180,61,18,1,1
+单挑:IceYukino cxm1024 Luminolic_Black,E,2024-3-24 13:40:00,4,166,36,38,2,0
+单挑:IceYukino cxm1024 Luminolic_Black,F,2024-3-24 13:43:00,1,83,64,31,2,1
+单挑:IceYukino cxm1024 Luminolic_Black,G,2024-3-24 14:27:00,4,210,141,192,1,1
+单挑:IceYukino cxm1024 Luminolic_Black,I,2024-3-24 13:14:00,2,112,45,17,2,1
+单挑:IceYukino cxm1024 Luminolic_Black,J,2024-3-24 15:50:00,5,212,145,156,2,1
+夜里的片段记忆如?luanmenglei suomynonA,B,2024-3-24 15:35:00,3,60,99,16,1,1
+夜里的片段记忆如?luanmenglei suomynonA,C,2024-3-24 14:38:00,1,180,61,18,1,1
+夜里的片段记忆如?luanmenglei suomynonA,G,2024-3-24 16:34:00,3,210,141,192,1,1
+夜里的片段记忆如?luanmenglei suomynonA,I,2024-3-24 13:38:00,3,112,45,17,2,1
+情侣？给我烧了！:flying jucason_xu pp_orange,B,2024-3-24 13:14:00,1,60,99,16,1,1
+情侣？给我烧了！:flying jucason_xu pp_orange,C,2024-3-24 13:26:00,1,180,61,18,1,1
+情侣？给我烧了！:flying jucason_xu pp_orange,D,2024-3-24 15:55:00,3,228,148,169,2,1
+情侣？给我烧了！:flying jucason_xu pp_orange,E,2024-3-24 17:18:00,22,166,36,38,2,0
+情侣？给我烧了！:flying jucason_xu pp_orange,F,2024-3-24 13:22:00,2,83,64,31,2,1
+情侣？给我烧了！:flying jucason_xu pp_orange,G,2024-3-24 15:16:00,6,210,141,192,1,1
+情侣？给我烧了！:flying jucason_xu pp_orange,I,2024-3-24 13:12:00,1,112,45,17,2,1
+情侣？给我烧了！:flying jucason_xu pp_orange,J,2024-3-24 15:32:00,4,212,145,156,2,1
+情侣？给我烧了！:flying jucason_xu pp_orange,K,2024-3-24 17:38:00,6,96,83,102,2,0
+永恒行旅:Lavine shstyle,B,2024-3-24 13:13:00,1,60,99,16,1,1
+永恒行旅:Lavine shstyle,C,2024-3-24 15:04:00,4,180,61,18,1,1
+永恒行旅:Lavine shstyle,F,2024-3-24 14:43:00,5,83,64,31,2,1
+永恒行旅:Lavine shstyle,G,2024-3-24 17:37:00,1,210,141,192,1,1
+永恒行旅:Lavine shstyle,I,2024-3-24 14:04:00,4,112,45,17,2,1
+浅色墨点:cage Whiteqwq crescent_yhw,I,2024-3-24 13:50:00,10,112,45,17,2,0
+破晓之旅:Deep_Kevin gmh77 2018LZY,B,2024-3-24 13:21:00,1,60,99,16,1,1
+破晓之旅:Deep_Kevin gmh77 2018LZY,C,2024-3-24 13:51:00,1,180,61,18,1,1
+破晓之旅:Deep_Kevin gmh77 2018LZY,D,2024-3-24 15:31:00,2,228,148,169,2,1
+破晓之旅:Deep_Kevin gmh77 2018LZY,F,2024-3-24 14:12:00,1,83,64,31,2,1
+破晓之旅:Deep_Kevin gmh77 2018LZY,G,2024-3-24 16:01:00,4,210,141,192,1,1
+破晓之旅:Deep_Kevin gmh77 2018LZY,I,2024-3-24 13:30:00,1,112,45,17,2,1
+神樱?lbq_star yuanP xylemyan,B,2024-3-24 14:43:00,8,60,99,16,1,1
+神樱?lbq_star yuanP xylemyan,C,2024-3-24 15:36:00,1,180,61,18,1,1
+神樱?lbq_star yuanP xylemyan,G,2024-3-24 17:55:00,13,210,141,192,1,1
+神樱?lbq_star yuanP xylemyan,I,2024-3-24 15:17:00,7,112,45,17,2,1
+这人啊，他就得逆转?hylhyl Overidea_China,B,2024-3-24 14:02:00,2,60,99,16,1,1
+这人啊，他就得逆转?hylhyl Overidea_China,C,2024-3-24 14:37:00,2,180,61,18,1,1
+这人啊，他就得逆转?hylhyl Overidea_China,D,2024-3-24 17:27:00,2,228,148,169,2,0
+这人啊，他就得逆转?hylhyl Overidea_China,F,2024-3-24 14:50:00,1,83,64,31,2,1
+这人啊，他就得逆转?hylhyl Overidea_China,G,2024-3-24 15:55:00,2,210,141,192,1,1
+这人啊，他就得逆转?hylhyl Overidea_China,I,2024-3-24 14:15:00,1,112,45,17,2,1
+韩信在偷?Tobo zbceyond,B,2024-3-24 13:31:00,1,60,99,16,1,1
+韩信在偷?Tobo zbceyond,C,2024-3-24 13:50:00,1,180,61,18,1,1
+韩信在偷?Tobo zbceyond,F,2024-3-24 16:00:00,10,83,64,31,2,1
+韩信在偷?Tobo zbceyond,G,2024-3-24 17:11:00,4,210,141,192,1,1
+韩信在偷?Tobo zbceyond,I,2024-3-24 13:23:00,3,112,45,17,2,1
+韩信在偷?Tobo zbceyond,J,2024-3-24 17:59:00,1,212,145,156,2,0
+题题不歪真君2.0:jiangleyuan libantian,B,2024-3-24 13:21:00,1,60,99,16,1,1
+题题不歪真君2.0:jiangleyuan libantian,C,2024-3-24 15:33:00,1,180,61,18,1,0
+题题不歪真君2.0:jiangleyuan libantian,I,2024-3-24 14:55:00,8,112,45,17,2,0

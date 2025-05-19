@@ -1,0 +1,1 @@
+modelType,embdDim,lossType,optimType,hiddenDim,startPos,trainType,layerNum,dropout,epoch,learnRate,MSE,MAE,RMSE,meanLoss,totalLoss,modelFile,recordFile,resultFile

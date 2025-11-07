@@ -1,41 +1,48 @@
 #coding: utf-8
-from GRU import GRU
-from GRUAtt import GRUAtt
-from BiGRU import BiGRU
-from BiGRUAtt import BiGRUAtt
-from LSTM import LSTM
-from LSTMAtt import LSTMAtt
-from BiLSTM import BiLSTM
-from BiLSTMAtt import BiLSTMAtt
-from input_data import InputData
+from my_model.GRU import GRU
+from my_model.GRUAtt import GRUAtt
+from my_model.BiGRU import BiGRU
+from my_model.BiGRUAtt import BiGRUAtt
+from my_model.LSTM import LSTM
+from my_model.LSTMAtt import LSTMAtt
+from my_model.BiLSTM import BiLSTM
+from my_model.BiLSTMAtt import BiLSTMAtt
+from input_data_1 import InputData
 from collections import deque
 import numpy as np
 import os
 import torch
 import torch.nn as nn
-import gensim
 import torch.optim as optim
 from torch.autograd import Variable
-import torch.nn.functional as F
 from datetime import datetime
-import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
 from math import sqrt
 import time
+import random
 #time_unit = second minute hour day month
 #train_type = single iteration mix
+seed = 42
 
+# 设置PyTorch、NumPy、Python随机种子
+torch.manual_seed(seed)
+np.random.seed(seed)
+random.seed(seed)
+
+# 针对CUDA（GPU）
+torch.cuda.manual_seed(seed)
+torch.cuda.manual_seed_all(seed)
+#time_unit = second minute hour day month
 
 
 def train(data_address,data_name,vector_address=None, vocab_address=None, embd_dimension =3, train_splitThreshold=0.7,
-          time_unit='month', batch_size=20, start_pos=1, stop_pos=5, length_size=3, prefix_minLength=0, prefix_maxLength=None,
-          loss_type= 'L1Loss', optim_type= 'Adam', model_type='LSTMAtt', hidden_dim=5,
-          train_type='iteration', n_layer=1, dropout=0.2, max_epoch_num=500, learn_rate_min = 0.001,
+          time_unit='minute', batch_size=32, start_pos=1, stop_pos=5, length_size=3, prefix_minLength=0, prefix_maxLength=None,
+          loss_type= 'L1Loss', optim_type= 'Adam', model_type='LSTMAtt', hidden_dim=128,
+          train_type='iteration', n_layer=1, dropout=0, max_epoch_num=100, learn_rate_min = 0.0001,
           train_record_folder='./train_record/', model_save_folder='./model/', result_save_folder='./result/' ):
     #初始化数据
     out_size = 1
     epoch = 0
-    learn_rate = 0.01
+    learn_rate = 0.0001
     learn_rate_backup = learn_rate
     learn_rate_down = 0.001
     loss_deque = deque(maxlen=20)
@@ -262,7 +269,25 @@ def train(data_address,data_name,vector_address=None, vocab_address=None, embd_d
                 save_record_single_open.writelines(save_record_single_write)
                 #print(loss_change)
                 epoch = epoch + 1
+
     save_record_single_open.close()
+    # 训练主循环全部结束后
+
+    now_time = datetime.now().strftime('%Y-%m-%d(%H-%M-%S)')
+    final_result_file = save_result_folder + f'final_result_{now_time}.csv'
+    dir_name = os.path.dirname(final_result_file)
+    if not os.path.exists(dir_name):
+        os.makedirs(dir_name)
+    with open(final_result_file, 'w', encoding='utf-8') as result_file:
+        result_file.write('epoch,startPos,prefixLength,learnRate,MSE,MAE,RMSE,meanLoss,totalLoss\n')
+        # 评估混合长度
+        data.generateMixLengthBatch(batch_size)
+        if len(data.test_batch) != 0:
+            MSE, MAE, RMSE, TOTAL, MEAN = evaluate(model, data.test_batch)
+            result_file.write(f'{epoch},{start_pos_temp},mix,{learn_rate},{MSE},{MAE},{RMSE},{MEAN},{TOTAL}\n')
+
+
+
 def evaluate(model, test_batchs):
     target_list = list()
     predict_list = list()
@@ -309,10 +334,10 @@ def computeMEAN(list_a,list_b):
 
 
 start_time = time.time()  # 记录开始时间
-train('F:\python_project\数据集\RemainTimePrediction-master-liubocheng\data\codeforces 936_15.csv', data_name='codeforces 936_15',
-       vector_address='./vector/Codeforces 936_15_vectors_2CBoW_noTime_noEnd_Vector_vLoss_v1.txt',
-       vocab_address='./vector/Codeforces 936_15_2CBoW_noTime_noEnd_vocabulary.txt',
-      embd_dimension=3, train_splitThreshold=0.8, time_unit='minute', batch_size=64)
+train('F:\python_project\数据集\RemainTimePrediction_25_948\data\codeforces948_4.csv', data_name='codeforces948_4',
+       vector_address='./vector/Codeforces948_4_vectors_GloVe.txt',
+       vocab_address='./vector/Codeforces948_4glove_vocabulary.txt',
+      embd_dimension=3, train_splitThreshold=0.8, time_unit='minute', batch_size=32)
 end_time = time.time()    # 记录结束时间
 print(f"运行时间：{end_time - start_time} 秒")
 now_time = datetime.now().strftime('%Y-%m-%d(%H-%M-%S)')

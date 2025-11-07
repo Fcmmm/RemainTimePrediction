@@ -199,9 +199,9 @@ class InputData():
                 if len(train_input_temp) > train_maxLength:
                     train_maxLength = len(train_input_temp)
                 # 时间格式化 -> 剩余时间
-                target_time = abs((datetime.strptime(str(line2[1]), '%Y-%m-%d %H:%M:%S') - \
-                               datetime.strptime(str(line[-1][1]), '%Y-%m-%d %H:%M:%S')).total_seconds() / time_unit)
-                if target_time >= 60:
+                target_time = abs((datetime.strptime(str(line2[1]), '%Y/%m/%d %H:%M') - \
+                               datetime.strptime(str(line[-1][1]), '%Y/%m/%d %H:%M')).total_seconds() / time_unit)
+                if target_time >= 60 :
                     continue
 
                 try:
@@ -222,9 +222,9 @@ class InputData():
 
                 if len(test_input_temp) > test_maxLength:
                     test_maxLength = len(test_input_temp)
-                target_time = abs((datetime.strptime(str(line2[1]), '%Y-%m-%d %H:%M:%S') - \
-                               datetime.strptime(str(line[-1][1]), '%Y-%m-%d %H:%M:%S')).total_seconds() / time_unit)
-                if target_time >= 60:
+                target_time = abs((datetime.strptime(str(line2[1]), '%Y/%m/%d %H:%M') - \
+                               datetime.strptime(str(line[-1][1]), '%Y/%m/%d %H:%M')).total_seconds() / time_unit)
+                if target_time >=60:
                     continue
 
                 try:

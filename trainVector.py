@@ -25,10 +25,24 @@ from keras.optimizers import Nadam
 from keras.callbacks import EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 # from keras.layers.normalization import BatchNormalization
 import numpy as np
+import numpy as np
+import torch
+import torch.nn as nn
+import torch.optim as optim
+import torch.nn.functional as F
+from torch.utils.data import Dataset, DataLoader, random_split
+import matplotlib.pyplot as plt
+
+# 保证复现性
+np.random.seed(13)
+torch.manual_seed(13)
 
 eventlog = 'Codeforces 936_15'
 dim = 3
 window_size = 1
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(f"Using device: {device}")
+
 
 def readcsv(eventlog):
     csvfile = open('data/%s' % eventlog, 'r',encoding='utf-8')
@@ -77,12 +91,15 @@ def processData(data,vocabulary,eventlog):
         temp = 0
         #vocabulary_temp.append(line[1])
         if line[0] == front[0]:
-            temp1 = time.strptime(line[2], "%Y-%m-%d %H:%M:%S")
-            temp2 = time.strptime(front[2], "%Y-%m-%d %H:%M:%S")
+            # temp1 = time.strptime(line[2], "%Y-%m-%d %H:%M:%S")
+            # temp2 = time.strptime(front[2], "%Y-%m-%d %H:%M:%S")
+            temp1 = time.strptime(line[2], "%Y/%m/%d %H:%M")
+            temp2 = time.strptime(front[2], "%Y/%m/%d %H:%M")
             temp = datetime.fromtimestamp(time.mktime(temp1))-datetime.fromtimestamp(time.mktime(temp2))
         else:
             temp = 0
-        t = time.strptime(line[2], "%Y-%m-%d %H:%M:%S")
+        # t = time.strptime(line[2], "%Y-%m-%d %H:%M:%S")
+        t = time.strptime(line[2], "%Y/%m/%d %H:%M")
         week = datetime.fromtimestamp(time.mktime(t)).weekday()
         midnight = datetime.fromtimestamp(time.mktime(t)).replace(hour=0, minute=0, second=0, microsecond=0)
         timesincemidnight = datetime.fromtimestamp(time.mktime(t))-midnight
@@ -153,31 +170,116 @@ for x_activity,y_activity in generate_data(data_merge, window_size, vocabulary_n
 # 得到的X为上下文的标签，Y为对应的独热编码   X[1,3]  Y[0 0 1 0 0 0 0 0]
 X = np.array(X)
 Y = np.array(Y)
-if __name__ == '__main__':
-
-    cbow = Sequential()
-    cbow.add(Embedding(input_dim=vocabulary_num, output_dim=dim, input_length=window_size*2))
-    cbow.add(Lambda(lambda x: K.mean(x, axis=1), output_shape=(dim,)))
-    cbow.add(Dense(vocabulary_num, activation='softmax'))
-    opt = Nadam(lr=0.002, beta_1=0.9, beta_2=0.999, epsilon=1e-08, clipvalue=3)
-    cbow.compile(loss='categorical_crossentropy', optimizer=opt)
-    early_stopping = EarlyStopping(monitor='val_loss', patience=100)
-    lr_reducer = ReduceLROnPlateau(monitor='val_loss', factor=0.1, patience=100,
-                                   verbose=0, mode='auto',  cooldown=0, min_lr=0)
-    model_checkpoint = ModelCheckpoint('vector/%s' % eventlog+'_2CBoW_noTime_noEnd_Vector_vLoss_{epoch:02d}-{val_loss:.2f}.h5', monitor='val_accuracy',
-                                       verbose=0, save_best_only=True, save_weights_only=False, mode='auto')
-    cbow.fit(X, Y, validation_split=0.2, verbose=2,
-              callbacks=[early_stopping, model_checkpoint, lr_reducer], batch_size=1, epochs=100)
-    f = open('vector/%s' % eventlog + '_vectors_2CBoW_noTime_noEnd_Vector_vLoss_v1' + '.txt', 'w')
-    f.write('{} {}\n'.format(vocabulary_num, dim))
-    vectors = cbow.get_weights()[0]
-    for word in range(vocabulary_num):
-        str_vec = ' '.join(map(str, list(vectors[int(word), :])))
-        f.write('{} {}\n'.format(word, str_vec))
-    f.close()
 
 
+class CBOWDataset(Dataset):
+    def __init__(self, X, Y):
+        self.X = torch.LongTensor(X)
+        self.Y = torch.FloatTensor(Y)
+    def __len__(self):
+        return len(self.X)
+    def __getitem__(self, idx):
+        return self.X[idx], self.Y[idx]
 
+full_dataset = CBOWDataset(X, Y)
+total_len = len(full_dataset)
+val_len = int(0.2 * total_len)
+train_len = total_len - val_len
+train_dataset, val_dataset = random_split(full_dataset, [train_len, val_len])
 
+train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
+val_loader = DataLoader(val_dataset, batch_size=32)
 
+# ==== PyTorch CBOW模型 ====
+class CBOWModel(nn.Module):
+    def __init__(self, vocab_size, emb_dim, window_size):
+        super().__init__()
+        self.embed = nn.Embedding(vocab_size, emb_dim)
+        self.window = window_size * 2
+        self.linear = nn.Linear(emb_dim, vocab_size)
+    def forward(self, x):
+        emb = self.embed(x)  # (batch, 2w, dim)
+        emb = emb.mean(dim=1)  # (batch, dim)
+        out = self.linear(emb)  # (batch, vocab_size)
+        return out
 
+vocab_size = Y.shape[1]
+model = CBOWModel(vocab_size, dim, window_size).to(device)
+
+# ==== 损失函数、优化器 ====
+criterion = nn.CrossEntropyLoss()  # 用于one-hot label
+optimizer = optim.Adam(model.parameters(), lr=0.002, betas=(0.9, 0.999), eps=1e-8)
+
+# ==== 训练循环 ====
+num_epochs = 100
+patience = 10
+best_val_loss = np.inf
+wait = 0
+train_losses, val_losses = [], []
+
+for epoch in range(num_epochs):
+    # --- 训练 ---
+    model.train()
+    train_loss = 0.0
+    for xb, yb in train_loader:
+        xb, yb = xb.to(device), yb.to(device)
+        optimizer.zero_grad()
+        logits = model(xb)
+        # yb: one-hot, 需转类别索引
+        y_class = torch.argmax(yb, dim=1)
+        loss = criterion(logits, y_class)
+        loss.backward()
+        optimizer.step()
+        train_loss += loss.item() * xb.size(0)
+    train_loss /= len(train_loader.dataset)
+    train_losses.append(train_loss)
+
+    # --- 验证 ---
+    model.eval()
+    val_loss = 0.0
+    with torch.no_grad():
+        for xb, yb in val_loader:
+            xb, yb = xb.to(device), yb.to(device)
+            logits = model(xb)
+            y_class = torch.argmax(yb, dim=1)
+            loss = criterion(logits, y_class)
+            val_loss += loss.item() * xb.size(0)
+        val_loss /= len(val_loader.dataset)
+        val_losses.append(val_loss)
+
+    print(f"Epoch {epoch+1}/{num_epochs}, Train Loss={train_loss:.4f}, Val Loss={val_loss:.4f}")
+
+    # Early stopping
+    if val_loss < best_val_loss:
+        best_val_loss = val_loss
+        wait = 0
+        torch.save(model.state_dict(), f'vector/{eventlog}_CBOW_best.pt')
+    else:
+        wait += 1
+        if wait >= patience:
+            print("Early stopping triggered.")
+            break
+
+# ==== 绘制loss曲线 ====
+plt.figure()
+plt.plot(train_losses, label='Train Loss')
+plt.plot(val_losses, label='Validation Loss')
+plt.xlabel('Epoch')
+plt.ylabel('Loss')
+plt.legend()
+plt.title('Train & Validation Loss Curve (PyTorch CBOW)')
+plt.grid(True)
+plt.tight_layout()
+plt.savefig(f'vector/{eventlog}_cbow_loss_curve.png', dpi=150)
+plt.close()
+print(f"训练与验证损失曲线已保存为 vector/{eventlog}_cbow_loss_curve.png")
+
+# ==== 保存词向量 ====
+model.load_state_dict(torch.load(f'vector/{eventlog}_CBOW_best.pt'))
+vectors = model.embed.weight.detach().cpu().numpy()
+with open(f'vector/{eventlog}_vectors_2CBoW_noTime_noEnd_Vector_vLoss_v1.txt', 'w') as f:
+    f.write(f"{vocab_size} {dim}\n")
+    for word in range(vocab_size):
+        str_vec = ' '.join(map(str, vectors[word]))
+        f.write(f"{word} {str_vec}\n")
+print(f"词向量已保存为 vector/{eventlog}_vectors_2CBoW_noTime_noEnd_Vector_vLoss_v1.txt")

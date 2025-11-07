@@ -1,8 +1,0 @@
-DP DFS data_structures 2-set	1
-DP math number_theory combinatorics	2
-greedy DP math	3
-greedy implementation DP binary_search trees	4
-greedy implementation bitmasks brute_force constructive_algorithms	5
-greedy implementation sortings	6
-0	0
-end	7
